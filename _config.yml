@@ -1,13 +1,17 @@
+
+destination: ../master
+
 scholar:
-  style:    apa
-  locale:   en
-  source:   ./_bibliography
+  style: apa
+  locale: en
+  source: ./_bibliography
   bibliography: mypub.bib
   bibliography_template: "{{ reference }}"
-  replace_strings:  true
-  join_strings:     true
-  details_dir:      bib
-  details_layout:   bibdetail.html
-  details_link:     " Details"
+  replace_strings: true
+  join_strings: true
+  details_dir: bib
+  details_layout: bib_detail.html
+  details_link: " Details"
   query: "@*"
   bibliography_list_tag: ul
+
