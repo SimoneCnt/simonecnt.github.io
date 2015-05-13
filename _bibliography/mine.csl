@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>Mine</title>
+    <id>Mine</id>
+    <author>
+      <name>Simone Conti</name>
+      <email>simonecnt@gmail.com</email>
+    </author>
+    <category field="chemistry"/>
+  </info>
+  <macro name="citation-locator">
+    <group delimiter=" ">
+      <choose>
+        <if locator="page">
+          <label variable="locator" form="short"/>
+        </if>
+        <else>
+          <label variable="locator" form="short" text-case="capitalize-first"/>
+        </else>
+      </choose>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=", ">
+      <group prefix="[" suffix="]" delimiter=", ">
+        <text variable="citation-number"/>
+        <text macro="citation-locator"/>
+      </group>
+    </layout>
+  </citation>
+
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <layout suffix=".">
+
+          <group delimiter=". ">
+
+            <!-- Title -->
+            <text variable="title" font-weight="bold"/>
+
+            <!-- Authors -->
+            <names variable="author" suffix=". ">
+                <name and="text" initialize="false" initialize-with=". "/>
+                <label form="short" prefix=", " text-case="capitalize-first"/>
+            </names>
+
+          </group>
+
+          <group delimiter=", ">
+
+            <!-- Journal -->
+            <text variable="container-title" font-style="italic" form=""/>
+
+            <!-- Year -->
+            <date variable="issued">
+                <date-part name="year" form="long"/>
+            </date>
+
+            <!-- Volume and Issue -->
+            <group>
+                <number variable="volume" form="numeric"/>
+                <number variable="issue" form="numeric" prefix="(" suffix=")"/>
+            </group>
+
+            <!-- Page -->
+            <group>
+                <label variable="page" form="short" suffix=" "/>
+                <text variable="page"/>
+            </group>
+
+          </group>
+
+    </layout>
+  </bibliography>
+</style>

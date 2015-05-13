@@ -1,8 +1,9 @@
 
 destination: ../master
+highlighter: pygments
 
 scholar:
-  style: apa
+  style: "_bibliography/mine.csl"
   locale: en
   source: ./_bibliography
   bibliography: mypub.bib
