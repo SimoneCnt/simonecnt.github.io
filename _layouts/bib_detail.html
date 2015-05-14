@@ -25,7 +25,7 @@ title: Publication Details
 <h4>Cited by {{cits.size}}:</h4>
 <ul>
 {% for cit in cits %}
-<li>{% reference cit.citedby %}</li>
+<li>{% reference cit.citedby --file biblio_cite.bib %}</li>
 {% endfor %}
 </ul>
 {% endif %}

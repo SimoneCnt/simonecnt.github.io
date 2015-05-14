@@ -6,7 +6,7 @@ scholar:
   style: "_bibliography/mine.csl"
   locale: en
   source: ./_bibliography
-  bibliography: biblio.bib
+  bibliography: biblio_mine.bib
   bibliography_template: "{{ reference }}"
   replace_strings: true
   join_strings: true
