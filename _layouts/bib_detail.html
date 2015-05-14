@@ -4,7 +4,7 @@ title: Publication Details
 ---
  
 <h3>{{ page.entry.title }}</h3>
-<p>{% assign authors = page.entry.author | split: " and " %}{% for author in authors %}{% assign name = author | split: ", " %}{% if forloop.last %} and {{ name[1] }} {{ name[0] }} {% else %}{{ name[1] }} {{ name[0] }}, {% endif %}{% endfor %}</p>
+<p>{% assign authors = page.entry.author | split: " and " %}{% for author in authors %}{% assign name = author | split: ", " %}{% if forloop.last %}and {{ name[1] }} {{ name[0] }}{% else %}{{ name[1] }} {{ name[0] }}, {% endif %}{% endfor %}</p>
 
 <p> 
     <em>{{ page.entry.journal }}</em>, {{ page.entry.year }}, {{ page.entry.volume }}{% if page.entry.number %}({{ page.entry.number }}){% endif %}, pp {{ page.entry.pages }}.
@@ -18,4 +18,15 @@ title: Publication Details
 <h4>BibTex:</h4>
 <p><pre>{% assign bib = page.entry.bibtex | newline_to_br | split: "<br />" %}{% for line in bib %}{% assign label = line | split: "=" | strip %}{% assign lab = label[0] | strip_newlines | remove: " " %}{% if lab != "researchgate" %}{{ line }}{% endif %}{% endfor %}</pre></p>
 
+
+
+{% assign cits = site.data.citations | where: "paper", page.entry.key %}
+{% if cits.size > 0 %}
+<h4>Cited by {{cits.size}}:</h4>
+<ul>
+{% for cit in cits %}
+<li>{% reference cit.citedby %}</li>
+{% endfor %}
+</ul>
+{% endif %}
 
