@@ -1,8 +1,8 @@
 ##
 # The MIT License (MIT)
 # 
-# Copyright (c) 2014 Ryan Morrissey
 # Copyright (c) 2015 Simone Conti
+# Copyright (c) 2014 Ryan Morrissey
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -23,21 +23,19 @@
 # THE SOFTWARE.
 # 
 # 
-# Font Awesome Icons Liquid Tag
-# Documentation can be found at http://fontawesome.io/
+# Liquid Tag for Font Awesome and Academicons Icons
+# Documentation can be found at http://fontawesome.io/ 
+#  and http://jpswalsh.github.io/academicons/
 #
-# Example:
+# Examples:
+# Font Awesome:
 #    {% icon fa-camera-retro %}
 #    {% icon fa-camera-retro fa-lg %}
 #    {% icon fa-spinner fa-spin %}
 #    {% icon fa-shield fa-rotate-90 %}
-#
-# Added support for Academicons, see http://jpswalsh.github.io/academicons/
-# Example:
-#    {% icon ai-researchgate-square fa-3x %}
-#
-# Added support for multiple-argument like:
 #    {% icon fa-spinner fa-pulse fa-4x fa-fw margin-bottom %}
+# Academicons:
+#    {% icon ai-researchgate-square fa-3x %}
 #
 
 module Jekyll
@@ -57,6 +55,7 @@ Syntax error in tag 'icon' while parsing the following markup:
 Valid syntax:
   for icons: {% icon fa-camera-retro %}
   for icons with size/spin/rotate: {% icon fa-camera-retro fa-lg %}
+  for academicons: {% icon ai-researchgate-square fa-3x %}
 eos
         end
     end
@@ -65,3 +64,4 @@ eos
 end
  
 Liquid::Template.register_tag('icon', Jekyll::FontAwesomeTag)
+
