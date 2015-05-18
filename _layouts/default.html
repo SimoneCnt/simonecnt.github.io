@@ -1,77 +1,58 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!--<base href="http://3dz2.22web.org/index.php/publications" />-->
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="Simone Conti" />
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="description" content="Description" />
+    <meta name="keywords" content="Keywords" />
+    <meta name="author" content="Enlighten Designs" />
+    
     <title>{{ page.title }}</title>
-    <link href="/images/favicon.ico" rel="icon" type="image/x-icon" />
-    <link rel="stylesheet" href="/stylesheets/template.css" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
-    <style type="text/css">
-            h1,h2,h3,h4,h5,h6,.site-title{
-                font-family: 'Open Sans', sans-serif;
-            }
-    </style>
-    <style type="text/css">
-        body.site
-        {
-            border-top: 3px solid #0088cc;
-            background-color: #f4f6f7       }
-        a
-        {
-            color: #0088cc;
-        }
-        .navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
-        .btn-primary
-        {
-            background: #0088cc;
-        }
-        .navbar-inner
-        {
-            -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
-            -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
-            box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
-        }
+    <link rel="stylesheet" href="/css/main.css" type="text/css" />
+    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+    <link rel="stylesheet" href="/css/academicons_v1/academicons.css" />
+    <link rel="stylesheet" href="/css/font-awesome-4.3.0/css/font-awesome.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <style>
+      body {
+        font-family: 'Open Sans', sans-serif;
+      }
     </style>
 </head>
 
-<!-- Body -->
-<body class="site com_content view-article no-layout no-task itemid-483">
-    <div class="body">
-        <div class="container">
-            {% include header.html %}
-            <div class="row-fluid">
-                <div id="content" class="span9">
+<body>
 
-                    <!-- Banner -->
-                    <div class="moduletable">
-                        <div class="custom">
-                            <p><img src="/images/banners/stampa.jpg" alt="Stampa" width="700" height="180" /></p>
-                        </div>
-                    </div>
+<div id="page-container">
 
-                    <!-- Main Content -->
-                    <div class="item-page">
-                        <div class="page-header">
-                            <a href="#"><h2>{{ page.title }}</h2></a>
-                        </div>
-                        {{ content }}
-                    </div>
-                </div>
-
-                <!-- Right Sidebar -->
-                <div id="aside" class="span3">
-                    {% include content.html %}
-                    {% include quicklinks.html %}
-                </div>
-            </div>
-        </div>
+    <div id="header">
+        <h1>3dz2</h1>
+        <h3>Simone Conti personal website</h3>
     </div>
 
-    {% include footer.html %}
+    <div id="sidebar">
+        {% include content.html %}
+        {% include quicklinks.html %}
+    </div>
+   
+    <div id="banner">
+        <img src="/img/banners/stampa.jpg" alt="Stampa" width="700" height="180" /></p>
+    </div>
+
+   
+    <div id="content">
+        <h2>{{ page.title }}</h2>
+        <hr />
+        {{ content }}
+    </div>
  
+    <div id="footer">
+        <p>Copyright &copy; 2015 Simone Conti</p>
+    </div>
+
+</div>
+
 </body>
 </html>

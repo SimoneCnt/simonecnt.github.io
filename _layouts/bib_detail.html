@@ -16,8 +16,11 @@ title: Publication Details
 <p>{{ page.entry.abstract }}</p>
 
 <h4>BibTex:</h4>
-<p><pre>{% assign bib = page.entry.bibtex | newline_to_br | split: "<br />" %}{% for line in bib %}{% assign label = line | split: "=" | strip %}{% assign lab = label[0] | strip_newlines | remove: " " %}{% if lab != "researchgate" %}{{ line }}{% endif %}{% endfor %}</pre></p>
-
+<p>
+{% highlight latex linenos%}
+{% assign bib = page.entry.bibtex | newline_to_br | split: "<br />" %}{% for line in bib %}{% assign label = line | split: "=" | strip %}{% assign lab = label[0] | strip_newlines | remove: " " %}{% if lab != "researchgate" %}{{ line }}{% endif %}{% endfor %}
+{% endhighlight %}
+</p>
 
 
 {% assign cits = site.data.citations | where: "paper", page.entry.key %}
