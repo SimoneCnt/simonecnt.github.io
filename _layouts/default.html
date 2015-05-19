@@ -13,8 +13,7 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css" />
     <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-    <link rel="stylesheet" href="/css/academicons_v1/academicons.css" />
-    <link rel="stylesheet" href="/css/font-awesome-4.3.0/css/font-awesome.css" />
+    <link rel="stylesheet" href="/css/icons/icons.css" type="text/css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
     <style>
       body {
@@ -38,7 +37,11 @@
     </div>
    
     <div id="banner">
-        <img src="/img/banners/stampa.jpg" alt="Stampa" width="700" height="180" /></p>
+        {% if page.banner %}
+        <img src="/img/banners/{{ page.banner }}.jpg" alt="Stampa" width="700" height="180" /></p>
+        {% else %}
+        <img src="/img/banners/benzene.jpg" alt="Stampa" width="700" height="180" /></p>
+        {% endif %}
     </div>
 
    
