@@ -16,3 +16,7 @@ scholar:
   query: "@*"
   bibliography_list_tag: ul
 
+sass:
+    sass_dir: _sass
+    style: compressed
+

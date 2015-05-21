@@ -4,17 +4,20 @@ layout: default
 banner: stampa
 ---
 
+<h2>{{ page.title }}</h2>
+
+<hr />
+
 <p>Here a list of all my pubblications:</p>
 
-<h4>2015</h4>
+<h3>2015</h3>
 {% bibliography --query @*[key=bonacchi2015surface] %}
 
-<h4>2014</h4>
+<h3>2014</h3>
 {% bibliography --query @*[key=conti2015accurate] %}
 {% bibliography --query @*[key=haar2015supramolecular] %}
 
-<h4>2013</h4>
+<h3>2013</h3>
 {% bibliography --query @*[key=chaurasia2013molecular] %}
 {% bibliography --query @*[key=pieraccini2013modelling] %}
-
 

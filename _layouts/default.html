@@ -1,61 +1,41 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en-US">
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="Content-Language" content="en-us" />
-    <meta http-equiv="imagetoolbar" content="no" />
-    <meta name="MSSmartTagsPreventParsing" content="true" />
-    <meta name="description" content="Description" />
-    <meta name="keywords" content="Keywords" />
-    <meta name="author" content="Enlighten Designs" />
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" />
     <title>{{ page.title }}</title>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
     <link rel="stylesheet" href="/css/main.css" type="text/css" />
     <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
     <link rel="stylesheet" href="/css/icons/icons.css" type="text/css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
-    <style>
-      body {
-        font-family: 'Open Sans', sans-serif;
-      }
-    </style>
+    <style>body{font-family: 'Open Sans', sans-serif;}</style>
 </head>
-
 <body>
-
-<div id="page-container">
-
-    <div id="header">
+    <header>
         <h1>3dz2</h1>
         <h3>Simone Conti personal website</h3>
-    </div>
-
-    <div id="sidebar">
-        {% include content.html %}
+    </header>
+    <main> 
+        <div id="banner">
+            {% if page.banner %}
+            <img src="/img/banners/{{ page.banner }}.jpg" alt="Stampa" width="100%" />
+            {% else %}
+            <img src="/img/banners/benzene.jpg" alt="Stampa" width="100%" />
+            {% endif %}
+        </div>
+        <article>
+            {{ content }}
+        <article>
+    </main>
+    <aside>
+        {% include navigation.html %}
         {% include quicklinks.html %}
-    </div>
-   
-    <div id="banner">
-        {% if page.banner %}
-        <img src="/img/banners/{{ page.banner }}.jpg" alt="Stampa" width="700" height="180" /></p>
-        {% else %}
-        <img src="/img/banners/benzene.jpg" alt="Stampa" width="700" height="180" /></p>
-        {% endif %}
-    </div>
-
-   
-    <div id="content">
-        <h2>{{ page.title }}</h2>
-        <hr />
-        {{ content }}
-    </div>
- 
-    <div id="footer">
+    </aside>
+    <footer>
         <p>Copyright &copy; 2015 Simone Conti</p>
-    </div>
-
-</div>
-
+    </footer>
 </body>
 </html>
