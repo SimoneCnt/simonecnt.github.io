@@ -65,7 +65,7 @@
 .lineno::selection {background-color: transparent;} /* Other major browsers */
 
 .highlight .lineno { color: #ccc; display:inline-block; padding: 0 5px; border-right:1px solid #ccc; }
-.highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
+.highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal;}
 .highlight pre code.console { color:#666; background-color: black; padding: inherit;}
 .highlight pre code.console .go { color: #bbb; }
 .highlight pre code.console .gp { color: #999; }
@@ -78,5 +78,5 @@ h1 code, h2 code, h3 code, h4 code { color: #c7254e }
     border-radius: 5px;
     border: 1px solid #dddddd;
     padding: 0;
-    margin: 0;
+    margin: 1em;
 }
