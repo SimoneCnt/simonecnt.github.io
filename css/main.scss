@@ -72,6 +72,19 @@ main {
             margin-top: 1.5em;
         }
 
+        figure.graphabstract {
+            width: 50%;
+            float: right;
+            margin-top: 3.5em;
+            margin-bottom: 0.5em;
+            margin-left: 1.5em;
+            margin-right: 0.5em;
+
+            img {
+                width: 100%;
+            }
+        }
+
         a:link {
             text-decoration: none;
             color: #00c; 
@@ -147,6 +160,11 @@ footer {
     }
     aside .sideblock {
         margin-left: 1.5em;
+    }
+    main article figure.graphabstract {
+        float: none;
+        width: 100%;
+        margin: 0;
     }
 }
 
