@@ -1,10 +1,7 @@
 
-gems:
-  - jekyll-sitemap
-
 destination: ../master
 highlighter: pygments
-url: http://simonecnt.github.io
+url: "http://simonecnt.github.io"
 
 scholar:
   style: "_bibliography/mine.csl"

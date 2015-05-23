@@ -2,6 +2,7 @@
 title: Publications
 layout: default
 banner: stampa
+priority: 0.8
 ---
 
 {{ page.title }}

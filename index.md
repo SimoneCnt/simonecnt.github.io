@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome!
+priority: 1.0
 ---
 
 {{ page.title }}
