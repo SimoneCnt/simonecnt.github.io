@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width" />
     <meta name="google-site-verification" content="riBpdQWal9w_jxf97W3pf6jUQs7jkzT3U2UOi9MZuPY" />
-    <title>Welcome!</title>
+    <title>Cygne Install Instructions</title>
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -34,12 +34,32 @@
             
         </div>
         <article>
-            <h1 id="welcome">Welcome!</h1>
+            <h1 id="cygne-install-instructions">Cygne: Install Instructions</h1>
 <hr />
 
-<p style="text-align: center"><i class="fa fa-spinner fa-pulse fa-4x fa-fw margin-bottom "></i></p>
+<p>Since 16 Aug 2014 Cygne use CMake to generate the Makefiles. The basic commands
+to build the Cygne software and the libcygne library are:</p>
 
-<p style="text-align: center">Work in progress…</p>
+<pre><code>    mkdir build
+    cd build
+    cmake ..
+    make
+</code></pre>
+
+<p>You should find the compiled files directly inside the build/ directory.</p>
+
+<p>If you want to change the compiler, for example if you want to use the clang 
+compiler instead of the GNU C compiler (gcc), type something like:</p>
+
+<pre><code>    CC=clang cmake ..
+</code></pre>
+
+<p>This use of CMake is probably very superficial and probabably will fail on 
+some computers. Let me know if you have any problems and I will try to fix it.</p>
+
+<p>This procedure at the moment is tested on a Ubuntu GNOME 14.04 (with gcc 4.8.2
+and clang 3.4) and on Apple MacBookAir 10.9.3, upon install of the Apple Developer 
+Tools.</p>
 
 
         </article>
@@ -66,6 +86,16 @@
   <li><i class="fa fa-code fa-fw "></i> <a href="/cygne/index.html">Cygne</a>
   
     
+    
+      <ul>
+      
+        <li><a href="/cygne/index.html">Readme</a></li>
+      
+        <li><a href="/cygne/license.html">License</a></li>
+      
+        <li><a href="/cygne/install.html">Install</a></li>
+      
+      </ul>
     
   
   </li>
