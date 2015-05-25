@@ -1,0 +1,23 @@
+- title: "Home"
+  href: "/"
+  icon: "fa-home"
+ 
+- title: "Publications"
+  href: "/publications.html"
+  icon: "fa-book"
+ 
+- title: "Cygne"
+  href: "/cygne/index.html"
+  icon: "fa-code"
+  subcategories:
+    - subtitle: "Readme"
+      subhref: "/cygne/index.html"
+    - subtitle: "License"
+      subhref: "/cygne/license.html"
+    - subtitle: "Install"
+      subhref: "/cygne/install.html"
+ 
+- title: "Sitemap"
+  href: "/sitemap.xml"
+  icon: "fa-sitemap"
+ 

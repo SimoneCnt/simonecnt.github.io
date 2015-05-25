@@ -42,10 +42,17 @@ module Jekyll
   class FontAwesomeTag < Liquid::Tag
  
     def render(context)
-        icon_flags = @markup
-        icon_label = @markup.strip.split("-")[0]
-        if icon_label=="fa" or icon_label=="ai" 
-            "<i class=\"#{icon_label} #{icon_flags}\"></i>"
+        # Get the icon. If it is a variable, get its value
+        icon  = @markup.strip.split(" ")[0]
+        icon  = context[icon] || icon
+        # Get all the other flags
+        flags = @markup.strip.split(" ")
+        flags.shift
+        flags = flags.join(" ")
+        # Check if the icon is valid, and print
+        label = icon.split("-")[0]
+        if label=="fa" or label=="ai" 
+            "<i class=\"#{label} #{icon} #{flags} \"></i>"
         else
             raise ArgumentError.new <<-eos
 Syntax error in tag 'icon' while parsing the following markup:

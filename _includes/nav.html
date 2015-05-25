@@ -1,0 +1,23 @@
+<!-- Contents -->
+<div class="sideblock">
+<nav>
+<h3>Contents</h3>
+<hr />
+<ul>
+{% for link in site.data.nav %}
+  {% assign sec1 = page.url | split: "/" %}
+  <li>{% icon link.icon fa-fw %} <a href="{{ link.href }}">{{ link.title }}</a>
+  {% if link.subcategories %}
+    {% assign sec2 = link.href | split: "/" %}
+    {% if sec1[1] == sec2[1] %}
+      <ul>
+      {% for sublink in link.subcategories %}
+        <li><a href="{{ sublink.subhref }}">{{ sublink.subtitle }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+  </li>
+{% endfor %}
+</nav>
+</div>
