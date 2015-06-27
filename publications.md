@@ -12,13 +12,13 @@ priority: 0.8
 Here a list of all my pubblications:
 
 ## 2015
-{% bibliography --query @*[key=bonacchi2015surface] %}
+ - {% assign ref = "bonacchi2015surface" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %} Cited by {{ cits.size }}. [See details.](bib/{{ref}}.html)
 
 ## 2014
-{% bibliography --query @*[key=conti2015accurate] %}
-{% bibliography --query @*[key=haar2015supramolecular] %}
+ - {% assign ref = "conti2015accurate" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %} Cited by {{ cits.size }}. [See details.](bib/{{ref}}.html)
+ - {% assign ref = "haar2015supramolecular" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %} Cited by {{ cits.size }}. [See details.](bib/{{ref}}.html)
 
 ## 2013
-{% bibliography --query @*[key=chaurasia2013molecular] %}
-{% bibliography --query @*[key=pieraccini2013modelling] %}
+ - {% assign ref = "chaurasia2013molecular" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %} Cited by {{ cits.size }}. [See details.](bib/{{ref}}.html)
+ - {% assign ref = "pieraccini2013modelling" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %} Cited by {{ cits.size }}. [See details.](bib/{{ref}}.html)
 
