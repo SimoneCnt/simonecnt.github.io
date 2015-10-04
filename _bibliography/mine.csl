@@ -44,7 +44,7 @@
 
             <!-- Authors -->
             <names variable="author" suffix=". ">
-                <name and="text" initialize="false" initialize-with=". "/>
+                <name and="text" initialize="true" initialize-with=". "/>
                 <label form="short" prefix=", " text-case="capitalize-first"/>
             </names>
 
