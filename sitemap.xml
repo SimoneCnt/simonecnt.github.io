@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/cygne/index.html</loc>
+    <loc>http://simonecnt.github.io/program/index.html</loc>
     <priority>0.8</priority>
   </url>
   
@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/bib/pieraccini2013modelling.html</loc>
+    <loc>http://simonecnt.github.io/program/wordom.html</loc>
     <priority>0.6</priority>
   </url>
   
@@ -31,12 +31,17 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/bib/chaurasia2013molecular.html</loc>
+    <loc>http://simonecnt.github.io/bib/conti2015accurate.html</loc>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/bib/conti2015accurate.html</loc>
+    <loc>http://simonecnt.github.io/program/thermo.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/program/gpl.html</loc>
     <priority>0.6</priority>
   </url>
   
@@ -46,12 +51,17 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/cygne/install.html</loc>
+    <loc>http://simonecnt.github.io/program/cygne.html</loc>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/cygne/license.html</loc>
+    <loc>http://simonecnt.github.io/bib/chaurasia2013molecular.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/bib/pieraccini2013modelling.html</loc>
     <priority>0.6</priority>
   </url>
   
