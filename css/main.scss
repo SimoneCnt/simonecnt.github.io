@@ -35,10 +35,6 @@ li {
     margin-left: 2em;
 }
 
-p {
-    margin-bottom: 1em;
-}
-    
 header {
 
     padding: 1.5em;
@@ -82,6 +78,10 @@ main {
             font-size: 1.15em;
         }
 
+        p, ul, ol {
+            margin-bottom: 1em;
+        }
+    
         figure.graphabstract {
             width: 50%;
             float: right;

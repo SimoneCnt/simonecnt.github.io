@@ -1,14 +1,13 @@
 ---
 layout: default
 title: Cygne
-priority: 0.8
+priority: 0.6
+banner: coding
 ---
 
 Cygne
 =====
 ---
-
-## What is cygne?
 
 This project consists essentially in a set of tools to deal with some molecular 
 modeling troubles. I am a computational chemist and very often I face myself 
@@ -33,19 +32,5 @@ just considered a draft, a container to be filled of interesting
 functionalities. If you wish to get any option, capability or improvement 
 implemented feel free to ask. 
 
-
-## Where to go next?
-
-First of all I invite you to take a look at the licence under which this 
-software is released. I chose the GNU GPLv3 copyleft licence in order to keep
-this software as free as possible. Fell free to redistribute and/or modify it 
-under the terms of the GNU General Public License as published by the Free 
-Software Foundation, either version 3 of the License, or (at your option) any 
-later version. Obviously, cygne is distributed in the hope that it will be 
-useful, but WITHOUT ANY WARRANTY; without even the implied warranty of 
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
-See the [GNU General Public License](/cygne/license.html) for more details..
-
-If you agree with these licence, feel free to compile and install this 
-software. You can find the instructions in the [install page](/cygne/install.html). 
+For more information, see the [project main page](https://github.com/SimoneCnt/cygne).
 
