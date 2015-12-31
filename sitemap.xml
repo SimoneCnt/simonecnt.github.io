@@ -11,12 +11,12 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/program/index.html</loc>
+    <loc>http://simonecnt.github.io/publications.html</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/publications.html</loc>
+    <loc>http://simonecnt.github.io/program/index.html</loc>
     <priority>0.8</priority>
   </url>
   
@@ -46,11 +46,6 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/program/gpl.html</loc>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://simonecnt.github.io/bib/haar2015supramolecular.html</loc>
     <priority>0.6</priority>
   </url>
@@ -62,6 +57,11 @@
   
   <url>
     <loc>http://simonecnt.github.io/bib/chaurasia2013molecular.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/program/gpl.html</loc>
     <priority>0.6</priority>
   </url>
   
