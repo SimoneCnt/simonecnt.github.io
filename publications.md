@@ -36,6 +36,7 @@ priority: 0.8
 
 
 ## 2016
+ - {% assign ref = "conti2016predicting" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %}{% if cits.size > 1 %} Cited by {{ cits.size | minus:1 }}.{%endif %} [See details.](bib/{{ref}}.html)
  - {% assign ref = "conti2016perchlorination" %} {% reference ref %} {% assign cits = site.data.citations | where: "paper", ref %}{% if cits.size > 1 %} Cited by {{ cits.size | minus:1 }}.{%endif %} [See details.](bib/{{ref}}.html)
 
 ## 2015
