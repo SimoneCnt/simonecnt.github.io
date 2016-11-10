@@ -52,7 +52,7 @@ module Jekyll
         if (label == "hindex") 
             hindex = 0
             cits.each do |t|
-                if (t[1] >= hindex)
+                if (t[1] > hindex)  # >= does not work for e.g. 10 10 10 3 
                     hindex += 1
                 end
             end
