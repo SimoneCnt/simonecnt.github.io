@@ -11,32 +11,32 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/publications.html</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>http://simonecnt.github.io/program/index.html</loc>
     <priority>0.8</priority>
   </url>
   
   <url>
+    <loc>http://simonecnt.github.io/cv.html</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/research/index.html</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/publications.html</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/bib/pieraccini2013modelling.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://simonecnt.github.io/bib/conti2016predicting.html</loc>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonecnt.github.io/bib/conti2015accurate.html</loc>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonecnt.github.io/bib/bonacchi2015surface.html</loc>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonecnt.github.io/bib/conti2016perchlorination.html</loc>
     <priority>0.6</priority>
   </url>
   
@@ -51,12 +51,7 @@
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/bib/haar2015supramolecular.html</loc>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonecnt.github.io/program/cygne.html</loc>
+    <loc>http://simonecnt.github.io/research/2dselfassembly.html</loc>
     <priority>0.6</priority>
   </url>
   
@@ -66,12 +61,42 @@
   </url>
   
   <url>
+    <loc>http://simonecnt.github.io/bib/bonacchi2015surface.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/research/osmoprotectants.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/program/cygne.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://simonecnt.github.io/program/gpl.html</loc>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://simonecnt.github.io/bib/pieraccini2013modelling.html</loc>
+    <loc>http://simonecnt.github.io/bib/conti2016perchlorination.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/bib/haar2015supramolecular.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/research/hivbnabs.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://simonecnt.github.io/bib/conti2015accurate.html</loc>
     <priority>0.6</priority>
   </url>
   
