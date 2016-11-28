@@ -1,6 +1,21 @@
 - title: "Home"
   href: "/"
   icon: "fa-home"
+
+- title: "CV"
+  href: "/cv.html"
+  icon: "fa-user-circle"
+
+- title: "Research Projects"
+  href: "/research/index.html"
+  icon: "fa-flask"
+  subcategories:
+    - subtitle: "Elicit HIV bNAbs"
+      subhref: "/research/hivbnabs.html"
+    - subtitle: "2D self-assembly"
+      subhref: "/research/2dselfassembly.html"
+    - subtitle: "Osmoprotectants"
+      subhref: "/research/osmoprotectants.html"
  
 - title: "Publications"
   href: "/publications.html"
