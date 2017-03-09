@@ -32,17 +32,17 @@ layout: compress
 </head>
 <body>
     <header>
-        <h1>3dz2</h1>
-        <h3>Simone Conti personal website</h3>
+        <div id="title">
+            <h1>Simone Conti</h1>
+            <h2>Personal website</h2>
+        </div>
+        {% if page.banner %}
+        <img src="/img/banners/{{ page.banner }}.png" alt="image banner" />
+        {% else %}
+        <img src="/img/banners/research.png" alt="image banner" />
+        {% endif %}
     </header>
     <main> 
-        <div id="banner">
-            {% if page.banner %}
-            <img src="/img/banners/{{ page.banner }}.jpg" alt="image banner" />
-            {% else %}
-            <img src="/img/banners/benzene.jpg" alt="image banner" />
-            {% endif %}
-        </div>
         <article>
             {{ content }}
         </article>

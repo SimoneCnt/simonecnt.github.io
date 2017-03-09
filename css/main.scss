@@ -37,26 +37,35 @@ li {
 
 header {
 
-    padding: 1.5em;
+    position: relative;
 
-    h1 {
-        font-size: 3em;
+    img {
+        width: 100%;
+        height: auto;
     }
 
+    #title {
+        position: absolute;
+        bottom: 1em;
+        left: 1em;
+        color: white;
+        padding: 0.5em;
+        text-shadow: 1px 2px 10px black;
+
+        h1 {
+            font-size: 3em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+    }
 }
 
 main {
 
     float: left;
     width: 72%;
-
-    #banner {
-        padding: 0 1.5em;
-
-        img {
-            width: 100%;
-        }
-    }
 
     article {
 
@@ -172,6 +181,14 @@ footer {
 @media screen and (max-width: 640px) {
     body {
         margin: 0 auto;
+    }
+    header #title {
+        position: static;
+        color: black;
+        text-shadow: 0px 0px 0px black;
+    }
+    header img {
+        position: static;
     }
     main, aside {
         float: none;
