@@ -2,7 +2,7 @@
 layout: default
 title: Research Projects
 priority: 0.8
-banner: coding
+banner: benzene
 ---
 
 {{ page.title }}

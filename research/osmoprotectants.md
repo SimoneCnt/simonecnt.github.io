@@ -2,7 +2,7 @@
 layout: default
 title: Osmoprotectants effects on protein denaturation
 priority: 0.6
-banner: coding
+banner: research
 ---
 
 {{ page.title }}

@@ -2,7 +2,7 @@
 layout: default
 title: Elicit Broadly Neutralizing HIV Antibodies
 priority: 0.6
-banner: coding
+banner: research
 ---
 
 {{ page.title }}
