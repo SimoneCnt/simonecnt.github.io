@@ -22,21 +22,7 @@ priority: 0.6
 <p>{{ page.entry.abstract }}</p>
 
 <h3>BibTex:</h3>
-{% highlight latex linenos%}
+{% highlight latex linenos %}
 {% assign bib = page.entry.bibtex | newline_to_br | split: "<br />" %}{% for line in bib %}{% assign label = line | split: "=" | strip %}{% assign lab = label[0] | strip_newlines | remove: " " %}{% if lab != "researchgate" %}{{ line }}{% endif %}{% endfor %}
 {% endhighlight %}
-
-
-{% assign cits = site.data.citations | where: "paper", page.entry.key %}
-{% assign numcit = cits.size | minus: 1 %}
-{% if numcit > 0 %}
-<h3>Cited by {{numcit}}:</h3>
-<ul>
-{% for cit in cits %}
-{% if forloop.index0 != 0 %}
-<li>{% reference cit.citedby --file biblio_cite.bib %}</li>
-{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
 

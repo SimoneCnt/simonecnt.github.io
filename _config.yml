@@ -4,10 +4,10 @@ highlighter: pygments
 url: "http://simonecnt.github.io"
 
 scholar:
-  style: "_bibliography/mine.csl"
+  style: "_bibliography/biblio.csl"
   locale: en
   source: ./_bibliography
-  bibliography: biblio_mine.bib
+  bibliography: biblio.bib
   bibliography_template: "{{ reference }}"
   replace_strings: true
   join_strings: true
