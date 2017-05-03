@@ -31,4 +31,11 @@
       subhref: "/program/thermo.html"
     - subtitle: "Cygne"
       subhref: "/program/cygne.html"
+
+- title: "Stuff"
+  href: "/stuff/index.html"
+  icon: "fa-paper-plane"
+  subcategories:
+    - subtitle: "Periodic Tables"
+      subhref: "/stuff/periodictable.html"
  
