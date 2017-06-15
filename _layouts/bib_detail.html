@@ -5,24 +5,31 @@ banner: stampa
 priority: 0.6
 ---
 
-<h1>{{ page.title }}</h1> 
+<h1>{{ page.entry.title }}</h1>
 <hr />
-<h2>{{ page.entry.title }}</h2>
 
-<p>{% assign authors = page.entry.author | split: " and " %}{% for author in authors %}{% assign name = author | split: ", " %}{% if forloop.last %}and {{ name[1] }} {{ name[0] }}{% else %}{{ name[1] }} {{ name[0] }}, {% endif %}{% endfor %}</p>
+<p>
+{% assign authors = page.entry.author | split: " and " %}
+{% for author in authors %}
+    {% assign name = author | split: ", " %}
+    {% if forloop.last %}
+        {% if authors.size > 1 %}
+            and 
+        {% endif %}
+        {{ name[1] }} {{ name[0] }}
+    {% else %}
+        {{ name[1] }} {{ name[0] }}, 
+    {% endif %}
+{% endfor %}
+</p>
 
-<p> 
-<em>{{ page.entry.journal }}</em>, {{ page.entry.year }}, {{ page.entry.volume }}{% if page.entry.number %}({{ page.entry.number }}){% endif %}, pp {{ page.entry.pages }}.<br />
-<a href="http://dx.doi.org/{{ page.entry.doi }}" target="_blank">DOI:{{ page.entry.doi }}</a>
+<p>
+<em>{{ page.entry.journal }}</em>, {{ page.entry.year }}, {{ page.entry.volume }}{% if page.entry.number %}({{ page.entry.number }}){% endif %}{% if page.entry.pages %}, pp {{ page.entry.pages }}{% endif %}.<br />
+{% if page.entry.doi %}<a href="http://dx.doi.org/{{ page.entry.doi }}" target="_blank">DOI:{{ page.entry.doi }}</a> {% endif %}
 {% if page.entry.researchgate %}| <a href="{{ page.entry.researchgate }}" target="_blank" >Find on RG</a>{% endif %}
 </p>
 
 <figure class="graphabstract" ><img src="/img/papers/{{ page.entry.key }}.jpg" alt="{{ page.entry.title }}" /></figure>
 <h3>Abstract:</h3>
 <p>{{ page.entry.abstract }}</p>
-
-<h3>BibTex:</h3>
-{% highlight latex linenos %}
-{% assign bib = page.entry.bibtex | newline_to_br | split: "<br />" %}{% for line in bib %}{% assign label = line | split: "=" | strip %}{% assign lab = label[0] | strip_newlines | remove: " " %}{% if lab != "researchgate" %}{{ line }}{% endif %}{% endfor %}
-{% endhighlight %}
 

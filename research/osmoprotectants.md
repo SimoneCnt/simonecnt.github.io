@@ -52,9 +52,9 @@ Milan in the group of prof. Maurizio Sironi. A BOINC project (SimOne@home, the
 first in Italy, not active anymore) was created to manage the computational
 work.
 
-References:
 
- - {% assign ref = "pieraccini2013modelling" %} {% reference ref %} [See
-   details.](/bib/{{ref}}.html)
+### References:
+
+ - {% assign ref = "pieraccini2013modelling" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
 
 
