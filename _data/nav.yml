@@ -38,4 +38,6 @@
   subcategories:
     - subtitle: "Periodic Tables"
       subhref: "/stuff/periodictable.html"
+    - subtitle: "Little Library"
+      subhref: "/stuff/books.html"
  

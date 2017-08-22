@@ -9,5 +9,8 @@ banner: research
 =====
 ---
 
+Here some random pages...
+
  - [Periodic Tables](periodictable.html)
+ - [My little library](books.html)
 
