@@ -91,6 +91,11 @@
   </url>
   
   <url>
+    <loc>http://simonecnt.github.io/stuff/books.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://simonecnt.github.io/bib/pieraccini2013modelling.html</loc>
     <priority>0.6</priority>
   </url>
