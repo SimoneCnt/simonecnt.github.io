@@ -36,6 +36,11 @@
   </url>
   
   <url>
+    <loc>http://simonecnt.github.io/stuff/solareclipse.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://simonecnt.github.io/stuff/periodictable.html</loc>
     <priority>0.6</priority>
   </url>
