@@ -40,4 +40,6 @@
       subhref: "/stuff/periodictable.html"
     - subtitle: "Little Library"
       subhref: "/stuff/books.html"
+    - subtitle: "Solar Eclipse"
+      subhref: "/stuff/solareclipse.html"
  
