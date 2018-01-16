@@ -29,6 +29,7 @@ the supervision of Dr. Marco Cecchini
 ### References:
 
  - {% assign ref = "conti2016predicting" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
+ - {% assign ref = "conti2018modeling" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
  - {% assign ref = "conti2016computational" %} {% reference ref %} [See details.](bib/{{ref}}.html)
  - {% assign ref = "conti2016perchlorination" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
  - {% assign ref = "bonacchi2015surface" %} {% reference ref %} [See details.](/bib/{{ref}}.html)

@@ -9,6 +9,9 @@ priority: 0.8
 ================
 ---
 
+## 2018
+ - {% assign ref = "conti2018modeling" %} {% reference ref %} [See details.](bib/{{ref}}.html)
+
 ## 2016
  - {% assign ref = "conti2016predicting" %} {% reference ref %} [See details.](bib/{{ref}}.html)
  - {% assign ref = "conti2016computational" %} {% reference ref %} [See details.](bib/{{ref}}.html)
