@@ -32,6 +32,6 @@ you want to make me a gift!
 }
 </style>
 <center>
-<script src="https://www.goodreads.com/review/grid_widget/70370591.Simone's%20owned%20book%20montage?cover_size=small&hide_link=&hide_title=true&num_books=64&order=d&shelf=owned&sort=random&widget_id=1505786572" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/70370591.Simone's%20owned%20book%20montage?cover_size=small&hide_link=&hide_title=true&num_books=100&order=d&shelf=owned&sort=random&widget_id=1505786572" type="text/javascript" charset="utf-8"></script>
 </center>
 

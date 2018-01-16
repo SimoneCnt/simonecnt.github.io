@@ -15,8 +15,8 @@ States from nord west to the east coast. Living in Massachusetts, it didn't
 allow me to see the total eclipse, but I enjoyed a nice partial eclipse (around
 63% coverage). 
 
-As always, I waked up too late to prepare myself, and the day of the eclipse I
-decided I wanted to take some photoes of it without having any proper tool.
+As always, I didn't prepare myself in time, and, the day of the eclipse, I
+decided I wanted to take some photos of it without having any proper tool.
 Actually, I just needed two: a photocamera and a solar filter.  The photo
 camera on the smartphone is not good enough, not having any optical zoom.
 Fortunately, I had a compact digital camera having a nice 14x optical zoom, which

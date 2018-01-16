@@ -14,8 +14,7 @@ A small collection of periodic tables I found and
 photographed. I will add more as I find them here and there.
 
 If you like Periodic Tables, take a look at 
-[The Internet Database of Periodic Tables](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php)
-and at the [Eric Scerri website](http://ericscerri.com/) and books for more in depth discussions.
+[The Internet Database of Periodic Tables](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php).
 
 ---
 
