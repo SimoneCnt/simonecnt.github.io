@@ -6,11 +6,13 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% assign sorted_pages = site.pages | sort:"priority" %}
-  {% for page in sorted_pages reversed %}{% assign ext = page.url | split: "." %}{% if ext[1] == 'html' %}
+  {% for page in sorted_pages reversed %}{% assign ext = page.url | split: "." %}{% unless ext[1] %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     {% if page.priority %}<priority>{{ page.priority}}</priority>{% else %}<priority>0.5</priority>{% endif %}
+    {% if page.date %}<lastmod>{{ page.date }}</lastmod>{% endif %}
   </url>
-  {% endif %}{% endfor %}
+  {% endunless %}
+  {% endfor %}
 </urlset>
 

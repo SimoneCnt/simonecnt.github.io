@@ -11,7 +11,8 @@ banner: research
 
 Here some random pages...
 
- - [Periodic Tables](periodictable.html)
- - [My little library](books.html)
- - [Take photos of the solar eclipse! (21 Aug 2017)](solareclipse.html)
+ - [Periodic Tables](periodictable/)
+ - [My little library](books/)
+ - [Take photos of the solar eclipse! (21 Aug 2017)](solareclipse/)
+ - [Introduction to radioactivity](radioactivity/)
 

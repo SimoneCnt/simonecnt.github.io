@@ -11,7 +11,7 @@ banner: research
 
 Here a list of the research project I am/was involved in:
 
- - [Elicit broadly neutralizing HIV antibodies](hivbnabs.html)
- - [Predicting molecular self-assembly at surfaces](2dselfassembly.html)
- - [Osmoprotectants effects on protein denaturation](osmoprotectants.html)
+ - [Elicit broadly neutralizing HIV antibodies](hivbnabs/)
+ - [Predicting molecular self-assembly at surfaces](2dselfassembly/)
+ - [Osmoprotectants effects on protein denaturation](osmoprotectants/)
 

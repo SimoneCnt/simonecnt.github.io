@@ -1,6 +1,7 @@
 
 destination: ../master
 highlighter: pygments
+permalink: pretty
 url: "http://simonecnt.github.io"
 
 scholar:
@@ -11,7 +12,7 @@ scholar:
   bibliography_template: "{{ reference }}"
   replace_strings: true
   join_strings: true
-  details_dir: bib
+  details_dir: publications
   details_layout: bib_detail.html
   details_link: " Details"
   query: "@*"
