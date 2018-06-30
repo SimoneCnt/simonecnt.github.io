@@ -23,6 +23,9 @@ layout: compress
         ga('create', 'UA-62864614-1', 'auto');
         ga('send', 'pageview');
     </script>
+    {% if page.mathjax %}
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    {% endif %}
 </head>
 <body>
     <header>
@@ -39,6 +42,9 @@ layout: compress
     <main> 
         <article>
             {{ content }}
+            {% if page.date %}
+            <i>Last update: {{ page.date | date_to_long_string }}</i>
+            {% endif %}
         </article>
     </main>
     <aside>

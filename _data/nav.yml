@@ -42,4 +42,15 @@
       subhref: "/stuff/books.html"
     - subtitle: "Solar Eclipse"
       subhref: "/stuff/solareclipse.html"
- 
+    - subtitle: "Radioactivity"
+      subhref: "/stuff/radioactivity.html"
+      subsubcategories:
+        - subsubtitle: "Atoms & Nuclides"
+          subsubhref: "/stuff/radioactivity/nuclides.html"
+        - subsubtitle: "Types of radioactivity"
+          subsubhref: "/stuff/radioactivity/types.html"
+        - subsubtitle: "Units of Measure"
+          subsubhref: "/stuff/radioactivity/units.html"
+        - subsubtitle: "Home Samples"
+          subsubhref: "/stuff/radioactivity/samples.html"
+

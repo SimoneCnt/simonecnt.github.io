@@ -4,7 +4,7 @@
 * {
     margin: 0;
     padding: 0;
-    line-height: 1.6em;
+    //line-height: 1.6em;
 }
 
 html, body {
@@ -85,11 +85,11 @@ main {
         }
 
         h3 {
-            font-size: 1.15em;
+            font-size: 1.1em;
         }
 
         p, ul, ol {
-            margin-bottom: 1em;
+            margin: 1em 0em;
         }
     
         figure.graphabstract {
@@ -102,6 +102,19 @@ main {
 
             img {
                 width: 100%;
+            }
+        }
+
+        table.nice {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+            th {
+                border-top: 1px solid black;
+                border-bottom: 1px solid black;
+            }
+            tr:last-child {
+                border-bottom: 1px solid black;
             }
         }
 
@@ -147,7 +160,11 @@ aside {
         margin-left: 0;
         ul li {
             list-style-type: circle;
-            margin-left: 3em;
+            margin-left: 2em;
+            ul li {
+                list-style-type: square;
+                margin-left: 1em;
+            }
         }
     }
 

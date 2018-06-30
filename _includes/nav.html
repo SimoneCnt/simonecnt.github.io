@@ -12,7 +12,18 @@
     {% if sec1[1] == sec2[1] %}
       <ul>
       {% for sublink in link.subcategories %}
-        <li><a href="{{ sublink.subhref }}">{{ sublink.subtitle }}</a></li>
+        <li><a href="{{ sublink.subhref }}">{{ sublink.subtitle }}</a>
+        {% if sublink.subsubcategories %}
+          {% assign sec3 = sublink.subhref | split: "/" %}
+          {% if sec1[2] == sec3[2] %}
+            <ul>
+            {% for subsublink in sublink.subsubcategories %}
+              <li><a href="{{ subsublink.subsubhref }}">{{ subsublink.subsubtitle }}</a></li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endif %}
+        </li>
       {% endfor %}
       </ul>
     {% endif %}
