@@ -53,4 +53,11 @@
           subsubhref: "/stuff/radioactivity/units/"
         - subsubtitle: "Home Samples"
           subsubhref: "/stuff/radioactivity/samples/"
+    - subtitle: "Juggling"
+      subhref: "/stuff/juggling/"
+      subsubcategories:
+        - subsubtitle: "Siteswaps"
+          subsubhref: "/stuff/juggling/siteswaps/"
+        - subsubtitle: "References"
+          subsubhref: "/stuff/juggling/references/"
 

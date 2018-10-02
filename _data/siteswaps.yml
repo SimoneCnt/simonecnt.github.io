@@ -1,0 +1,301 @@
+
+# 1 Ball
+- 
+    pattern: 1
+    nballs: 1
+    notes: >
+        First siteswap to learn! Start with one ball in your R hand, and pass
+        it quick to your L hand. Repeat! Only note: the passages must be very 
+        quick and horizontal, almost downwards directly to the other hand.
+-
+    pattern: 20
+    nballs: 1
+    notes: >
+        Even easier than **1**! Just hold one ball in your R hand and do nothing... 
+        This pattern is asymmetric, you can start with your ball in your L 
+        hand instead!
+-
+    pattern: 300
+    nballs: 1
+    notes: >
+        Useful pattern for your first 2 minutes learning juggling. Take one ball 
+        on your R hand and pass it to the L hand with a high pass. The pass 
+        should pass in front of your eyes. When it land on your L, throw it 
+        again to your R and continue. You see the pattern has **00** after the **3**. 
+        This means you have time to do something while the ball is in the air. 
+        You can try to clap your hands, so to have something like: 
+        throw, clap, catch, throw, clap, catch, ... 
+
+# 2 Balls
+-
+    pattern: 31
+    name: 2 balls shower
+    nballs: 2
+    notes: >
+        The 2 balls shower. While not formally juggling, this is the first
+        pattern everyone can juggle when trying to learn. The only note, learn
+        to make a nice **1** keeping your hands at a good distance and throwing
+        the **1** very horizontally, almost downwards. Will help in the future!
+-
+    pattern: 312
+    nballs: 2
+    notes: >
+        Asymmetric version of the two balls shower, or a two balls shower which
+        changes direction continously. The **3** is always the same ball.
+        A kind of very simple ping-pong.
+-
+    pattern: 40
+    name: two in one hand
+    nballs: 2
+    notes: >
+        Play two balls in one hand. Practice both L and R. First step to learn 
+        four balls!
+-
+    pattern: 501
+    nballs: 2
+    notes: >
+        Start with both balls in the same hand and throw a high **5** followed
+        by a quick **1**, and repeat. You need to be very quick, not super easy!
+
+# 3 Balls
+-
+    pattern: 3
+    name: 3 balls cascade
+    nballs: 3
+    prime: y
+    notes: >
+        The cascade and all its many viariations.
+-
+    pattern: 42
+    nballs: 3
+    prime: y
+    notes: >
+        Hold one ball in one hand (the **2**), and in the other play the other 
+        two in a fountain. You can use this as base for a lot of tricks, like
+        moving the ball doing the **2** back and forth, chasing the other balls
+        or ''playing'' with them.
+-
+    pattern: 423
+    name: half-shower box
+    nballs: 3
+    notes: >
+        One ball hops back and forth (the **3**), while the other two hops up
+        and down one in the R and one in the L. The three balls do not mix.
+        Try to make the **4** external.
+-
+    pattern: 51
+    nballs: 3
+    prime: y
+    excited: y
+    notes: >
+        The 3 balls shower.
+-
+    pattern: 441
+    nballs: 3
+    prime: y
+    notes: >
+        A nice pattern. Usefull to improve your **1**. See also **4413** and
+        **44133**
+-
+    pattern: 4413
+    nballs: 3
+    notes: >
+        An asymmetric version of **441**. Just add a three at the end.
+-
+    pattern: 44133
+    nballs: 3
+    notes: >
+        A slower version of **441**. You can extend it with how many **3** you
+        want at the end.
+-
+    pattern: 522
+    nballs: 3
+    prime: y
+-
+    pattern: 531
+    nballs: 3
+    difficulty: 3.9
+    prime: y
+    excited: y
+    notes: >
+        A tricky pattern. Think of it as a **5** followed by a quick **31**
+        swap of the other two balls. Keep the **3** low!
+-
+    pattern: 5313
+    nballs: 3
+    difficulty: 3.7
+    excited: y
+    notes: >
+        Asymmetric version of **531**.
+-
+    pattern: 450
+    nballs: 3
+    difficulty1: 4.08
+    difficulty2: 4.17
+    prime: y
+    excited: y
+    notes: >
+        The rhythm of this pattern is strange... "A complete waste of a 5-balls
+        juggler". You can start with two balls in the L and one in the R; throw
+        L first. To enter while doing **3** just throw a 4: ...3334{450}233...
+-
+    pattern: 4440
+    nballs: 3
+    prime: y
+    notes: >
+        Three out of a 4 fountain. Very easy if you can play **4**.
+-
+    pattern: 4530
+    nballs: 3
+    prime: y
+-
+    pattern: 5241
+    nballs: 3
+    prime: y
+-
+    pattern: 5340
+    nballs: 3
+    prime: y
+-
+    pattern: 5511
+    nballs: 3
+    prime: y
+-
+    pattern: 5520
+    nballs: 3
+    prime: y
+-
+    pattern: 52512
+    nballs: 3
+    difficulty: 3.9
+    notes: >
+        The baby-juggling. Two balls are doing *55*, and the third *122*.
+        Not a hard pattern.
+-
+    pattern: 45501
+    nballs: 3
+    prime: y
+-
+    pattern: 52440
+    nballs: 3
+    prime: y
+-
+    pattern: 52530
+    nballs: 3
+    prime: y
+-
+    pattern: 53502
+    nballs: 3
+    prime: y
+-
+    pattern: 55140
+    nballs: 3
+    prime: y
+-
+    pattern: 55500
+    name: 3-flash
+    nballs: 3
+    difficulty: 4.3
+    prime: y
+    notes: >
+        3-balls flash (3 out of 5). Can replace the **00** with a clap or a 
+        pirouette.
+-
+    pattern: 55050
+    name: 3-snake
+    nballs: 3
+    difficulty: 4.3
+    prime: y
+    excited: y
+    notes: >
+        3-balls snake (3 out of 5). Take all three balls in one hand and throw
+        them to the other. Throw the last before catching the first. Repeat.
+        Useful to learn **5** balls. (aka **50505**)
+-
+    pattern: 455040
+    nballs: 3
+    prime: y
+-
+    pattern: 525501
+    nballs: 3
+    prime: y
+-
+    pattern: 551502
+    nballs: 3
+    prime: y
+-
+    pattern: 5255040
+    nballs: 3
+    prime: y
+-
+    pattern: 5350530
+    nballs: 3
+    prime: y
+-
+    pattern: 55150530
+    nballs: 3
+    prime: y
+-
+    pattern: 72312
+    nballs: 3
+-
+    pattern: 51414
+    nballs: 3
+
+
+# 4 Ballis
+-
+    pattern: 53
+    name: 4-balls half-shower
+    nballs: 4
+    difficulty: 4.2
+    prime: y
+    excited: y
+    notes: >
+        The 4-balls half-shower. Keep it asynchronous!
+-
+    pattern: 5551
+    nballs: 4
+    difficulty1: 4.65
+    difficulty2: 4.75
+    prime: y
+    excited: y
+    notes: >
+        Nice  asymmetric pattern. You can play it in the middle of the **4** 
+        fountain like flashing 4.
+-
+    pattern: 55514
+    nballs: 4
+    difficulty1: 4.53
+    difficulty2: 4.60
+    notes: >
+        Similar to **5551** but symmetric. The same ball is doing the 
+        **14** continuously, while the other three are doing the **555**.
+-
+    pattern: 56414
+    nballs: 4
+-
+    pattern: 7531
+    nballs: 4
+-
+    pattern: 85241
+    nballs: 4
+
+
+# 5 Balls
+-
+    pattern: 771
+    nballs: 5
+-
+    pattern: 7562
+    nballs: 5
+-
+    pattern: 66661
+    nballs: 5
+-
+    pattern: 75751
+    nballs: 5
+-
+    pattern: 95551
+    nballs: 5
+
