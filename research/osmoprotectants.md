@@ -55,6 +55,6 @@ work.
 
 ### References:
 
- - {% assign ref = "pieraccini2013modelling" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
+ - {% assign ref = "pieraccini2013modelling" %} {% reference ref %} [See details.](/publications/{{ref}}/)
 
 

@@ -33,5 +33,5 @@ This project a collaboration between three research groups:
 
 ### References:
 
- - {% assign ref = "conti2019estimation" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
+ - {% assign ref = "conti2019estimation" %} {% reference ref %} [See details.](/publications/{{ref}}/)
 
