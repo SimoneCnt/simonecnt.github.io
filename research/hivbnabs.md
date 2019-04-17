@@ -31,3 +31,7 @@ This project a collaboration between three research groups:
  - Arup Chakraborty at the Massachusetts Institute of Technology (MIT)
  - Felice Lightstone at the Lawrence Livermore National Laboratory (LLNL)
 
+### References:
+
+ - {% assign ref = "conti2019estimation" %} {% reference ref %} [See details.](/bib/{{ref}}.html)
+
