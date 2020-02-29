@@ -6,238 +6,259 @@
   
   
   <url>
-    <loc>http://simonecnt.github.io/</loc>
+    <loc>https://3dz2.com/</loc>
     <priority>1.0</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/cv/</loc>
+    <loc>https://3dz2.com/cv/</loc>
     <priority>0.8</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/programming/</loc>
+    <loc>https://3dz2.com/stuff/</loc>
     <priority>0.8</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/research/</loc>
+    <loc>https://3dz2.com/research/</loc>
     <priority>0.8</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/</loc>
+    <loc>https://3dz2.com/programming/</loc>
     <priority>0.8</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/</loc>
+    <loc>https://3dz2.com/minerals/</loc>
+    <priority>0.8</priority>
+    <lastmod>2020-02-28</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/</loc>
     <priority>0.8</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/conti2016predicting/</loc>
+    <loc>https://3dz2.com/publications/conti2016computational/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/conti2016computational/</loc>
+    <loc>https://3dz2.com/publications/conti2018modeling/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/conti2018modeling/</loc>
+    <loc>https://3dz2.com/publications/conti2019estimation/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/conti2019estimation/</loc>
+    <loc>https://3dz2.com/programming/wordom/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/programming/wordom/</loc>
+    <loc>https://3dz2.com/programming/thermo/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/programming/thermo/</loc>
+    <loc>https://3dz2.com/stuff/solareclipse/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/solareclipse/</loc>
+    <loc>https://3dz2.com/publications/pieraccini2013modelling/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/research/2dselfassembly/</loc>
+    <loc>https://3dz2.com/publications/chaurasia2013molecular/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/chaurasia2013molecular/</loc>
+    <loc>https://3dz2.com/publications/haar2015supramolecular/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/haar2015supramolecular/</loc>
+    <loc>https://3dz2.com/publications/conti2016perchlorination/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/conti2016perchlorination/</loc>
+    <loc>https://3dz2.com/publications/conti2015accurate/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/conti2015accurate/</loc>
+    <loc>https://3dz2.com/publications/bonacchi2015surface/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/bonacchi2015surface/</loc>
+    <loc>https://3dz2.com/publications/conti2016predicting/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/periodictable/</loc>
+    <loc>https://3dz2.com/stuff/periodictable/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/research/osmoprotectants/</loc>
+    <loc>https://3dz2.com/research/osmoprotectants/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/radioactivity/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/</loc>
     <priority>0.6</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/juggling/</loc>
+    <loc>https://3dz2.com/stuff/juggling/</loc>
     <priority>0.6</priority>
     <lastmod>2018-10-01</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/research/hivbnabs/</loc>
+    <loc>https://3dz2.com/research/hivbnabs/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/programming/gpl/</loc>
+    <loc>https://3dz2.com/programming/gpl/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/programming/cygne/</loc>
+    <loc>https://3dz2.com/minerals/fluocollection/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-02-28</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/fluobooks/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-02-24</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/programming/cygne/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/books/</loc>
+    <loc>https://3dz2.com/stuff/books/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/publications/pieraccini2013modelling/</loc>
+    <loc>https://3dz2.com/research/2dselfassembly/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/radioactivity/units/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/nuclides/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/radioactivity/types/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/juggling/references/</loc>
+    <loc>https://3dz2.com/stuff/juggling/siteswaps/</loc>
     <priority>0.4</priority>
     <lastmod>2018-10-01</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/radioactivity/samples/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/units/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/juggling/siteswaps/</loc>
+    <loc>https://3dz2.com/stuff/juggling/references/</loc>
     <priority>0.4</priority>
     <lastmod>2018-10-01</lastmod>
   </url>
   
   
   <url>
-    <loc>http://simonecnt.github.io/stuff/radioactivity/nuclides/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/types/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
