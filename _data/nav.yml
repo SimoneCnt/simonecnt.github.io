@@ -32,6 +32,10 @@
     - subtitle: "Cygne"
       subhref: "/programming/cygne/"
 
+- title: "Minerals"
+  href: "/minerals/"
+  icon: "fa-gem"
+
 - title: "Stuff"
   href: "/stuff/"
   icon: "fa-paper-plane"
