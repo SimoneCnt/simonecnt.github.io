@@ -1,5 +1,6 @@
 ---
 title: Publications
+date: 2020-03-10
 layout: default
 banner: stampa
 priority: 0.8
