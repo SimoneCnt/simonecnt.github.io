@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-02-28
+date: 2020-03-10
 priority: 0.6
 banner: research
 ---
@@ -39,4 +39,11 @@ banner: research
 {% assign MSLabels = "Visible light|Longwave UV|Visible and longwave UV" | split: "|" %}
 {% include slideshow.html %}
 
+## Hourglass Gypsum from Poland
 
+{% assign MSName = "SC238gypsum" %}
+{% assign MSImages = "283-01-hourglass-gypsum-visible.jpg|283-02-hourglass-gypsum-lw.jpg" | split: "|" %}
+{% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
+{% include slideshow.html %}
+
+ 
