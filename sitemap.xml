@@ -50,7 +50,7 @@
   <url>
     <loc>https://3dz2.com/publications/</loc>
     <priority>0.8</priority>
-    
+    <lastmod>2020-03-10</lastmod>
   </url>
   
   
@@ -70,6 +70,13 @@
   
   <url>
     <loc>https://3dz2.com/publications/conti2019estimation/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/ovchinnikov2020microsecond/</loc>
     <priority>0.6</priority>
     
   </url>
