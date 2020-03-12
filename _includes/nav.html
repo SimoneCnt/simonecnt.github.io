@@ -6,7 +6,7 @@
 <ul>
 {% for link in site.data.nav %}
   {% assign sec1 = page.url | split: "/" %}
-  <li>{% icon link.icon fa-fw %} <a href="{{ link.href }}">{{ link.title }}</a>
+  <li><i class="fas {{ link.icon }} fa-fw"></i> <a href="{{ link.href }}">{{ link.title }}</a>
   {% if link.subcategories %}
     {% assign sec2 = link.href | split: "/" %}
     {% if sec1[1] == sec2[1] %}
