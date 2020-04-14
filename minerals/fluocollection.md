@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-03-10
+date: 2020-04-13
 priority: 0.6
 banner: research
 ---
@@ -45,5 +45,17 @@ banner: research
 {% assign MSImages = "283-01-hourglass-gypsum-visible.jpg|283-02-hourglass-gypsum-lw.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
+
+## Scapolite/Wernerite from Canada
+
+Bright fluorescence under all wavelengths, in particular under longwave UV (365nm) and blue laser (405nm).
+
+Dimension: 5x5x3cm; Weight: 51g
+
+{% assign MSName = "SC121scapolite" %}
+{% assign MSImages = "121-01-scapolite-visible.jpg|121-02-scapolite-lwuv.jpg" | split: "|" %}
+{% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
+{% include slideshow.html %}
+
 
  
