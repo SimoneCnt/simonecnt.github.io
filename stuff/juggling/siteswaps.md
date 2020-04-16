@@ -15,13 +15,16 @@ date: 2018-10-01
 {% for nballs in (1..5) %}
 ### {{ nballs }} Balls
 
-{% assign sws = site.data.siteswaps | where: "nballs", nballs %}
+{% assign sws = site.data.siteswaps %}
 {% for sw in sws %}
+{% if sw.nballs == nballs %}
+
 **{{ sw.pattern }}{% if sw.name and sw.name != sw.pattern %} -- {{ sw.name }}{% endif %}**
 {% if sw.prime %} (Prime!){% endif %}
 
 {{ sw.notes }}
 
+{% endif %}
 {% endfor %}
 {% endfor %}
 

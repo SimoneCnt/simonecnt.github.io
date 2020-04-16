@@ -1,6 +1,5 @@
 
 destination: ../master
-highlighter: pygments
 permalink: pretty
 url: "https://3dz2.com"
 
@@ -19,6 +18,12 @@ scholar:
   bibliography_list_tag: ul
 
 sass:
-    sass_dir: _sass
     style: compressed
+    sourcemap: never
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
