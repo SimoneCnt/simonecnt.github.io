@@ -13,4 +13,5 @@ banner: research
  - [MineralApp](mineralapp/)
  - [Fluorescent Minerals](fluocollection/)
  - [Books about fluorescent minerals](fluobooks/)
+ - [From Spectrum to RGB Color - A practical protocol](spectrum2color/)
 
