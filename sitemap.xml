@@ -13,13 +13,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/cv/</loc>
-    <priority>0.8</priority>
-    
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/research/</loc>
     <priority>0.8</priority>
     
@@ -27,9 +20,16 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/</loc>
+    <loc>https://3dz2.com/cv/</loc>
     <priority>0.8</priority>
     
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/</loc>
+    <priority>0.8</priority>
+    <lastmod>2020-03-04</lastmod>
   </url>
   
   
@@ -41,9 +41,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/minerals/</loc>
+    <loc>https://3dz2.com/stuff/</loc>
     <priority>0.8</priority>
-    <lastmod>2020-03-04</lastmod>
+    
   </url>
   
   
@@ -93,6 +93,13 @@
     <loc>https://3dz2.com/programming/thermo/</loc>
     <priority>0.6</priority>
     
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/spectrum2color/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-04-15</lastmod>
   </url>
   
   
@@ -153,16 +160,16 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/</loc>
+    <loc>https://3dz2.com/stuff/juggling/</loc>
     <priority>0.6</priority>
-    <lastmod>2018-06-29</lastmod>
+    <lastmod>2018-10-01</lastmod>
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/</loc>
     <priority>0.6</priority>
-    <lastmod>2018-10-01</lastmod>
+    <lastmod>2018-06-29</lastmod>
   </url>
   
   
