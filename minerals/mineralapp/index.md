@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MineralApp
-date: 2020-03-04
+date: 2020-04-16
 priority: 0.6
 banner: research
 ---
@@ -24,12 +24,13 @@ hometown.
 
 You can find the source code on <a href="https://github.com/SimoneCnt/MineralApp" target="_blank">GitHub</a>.
 
+You can [read the manual](manual/).
+
 For MacOS you can
 [download the application in a dmg archive](https://github.com/SimoneCnt/MineralApp/raw/master/MineralApp.dmg).
 For Linux you will have to compile it from source.
 I can not test it for Windows at the moment, but you should be able to compile it from source.
-For more informations on the installation process 
-<a href="https://github.com/SimoneCnt/MineralApp/raw/master/mineralapp.pdf" target="_blank">see the manual</a>.
+For more informations on the installation process [see the manual](manual/)
 If you have any problem [let me know](mailto:simonecnt@gmail.com?subject=Help%20with%20MineralApp).
 
 Below a couple of screenshots:
