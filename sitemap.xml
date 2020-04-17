@@ -13,9 +13,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/</loc>
+    <loc>https://3dz2.com/minerals/</loc>
     <priority>0.8</priority>
-    
+    <lastmod>2020-03-04</lastmod>
   </url>
   
   
@@ -27,14 +27,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/minerals/</loc>
-    <priority>0.8</priority>
-    <lastmod>2020-03-04</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/programming/</loc>
+    <loc>https://3dz2.com/research/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -42,6 +35,13 @@
   
   <url>
     <loc>https://3dz2.com/stuff/</loc>
+    <priority>0.8</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/programming/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -160,9 +160,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/</loc>
+    <loc>https://3dz2.com/minerals/mineralapp/</loc>
     <priority>0.6</priority>
-    <lastmod>2018-10-01</lastmod>
+    <lastmod>2020-03-04</lastmod>
   </url>
   
   
@@ -170,6 +170,13 @@
     <loc>https://3dz2.com/stuff/radioactivity/</loc>
     <priority>0.6</priority>
     <lastmod>2018-06-29</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/stuff/juggling/</loc>
+    <priority>0.6</priority>
+    <lastmod>2018-10-01</lastmod>
   </url>
   
   
@@ -209,13 +216,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/books/</loc>
-    <priority>0.6</priority>
-    
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/publications/pieraccini2013modelling/</loc>
     <priority>0.6</priority>
     
@@ -233,13 +233,6 @@
     <loc>https://3dz2.com/research/osmoprotectants/</loc>
     <priority>0.6</priority>
     
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/minerals/mineralapp/</loc>
-    <priority>0.6</priority>
-    <lastmod>2020-03-04</lastmod>
   </url>
   
   
