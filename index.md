@@ -27,5 +27,6 @@ Here some external links where to find my publications / CV / coding projects / 
  - <a href="http://www.linkedin.com/in/simonecnt" target="_blank" title="Linkedin" >Linkedin</a>
  - <a href="https://github.com/SimoneCnt" target="_blank" title="GitHub">GitHub</a>
  - <a href="https://twitter.com/SimoneCnt" target="_blank" title="Twitter">Twitter</a>
+ - <a href="https://www.goodreads.com/user/show/70370591-simone" target="_blank" title="goodreads">goodreads</a>
 
 

@@ -42,8 +42,6 @@
   subcategories:
     - subtitle: "Periodic Tables"
       subhref: "/stuff/periodictable/"
-    - subtitle: "Little Library"
-      subhref: "/stuff/books/"
     - subtitle: "Solar Eclipse"
       subhref: "/stuff/solareclipse/"
     - subtitle: "Radioactivity"
