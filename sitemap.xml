@@ -13,28 +13,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/cv/</loc>
-    <priority>0.8</priority>
-    
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/research/</loc>
-    <priority>0.8</priority>
-    
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/minerals/</loc>
-    <priority>0.8</priority>
-    <lastmod>2020-03-04</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/stuff/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -48,6 +27,13 @@
   
   
   <url>
+    <loc>https://3dz2.com/stuff/</loc>
+    <priority>0.8</priority>
+    
+  </url>
+  
+  
+  <url>
     <loc>https://3dz2.com/publications/</loc>
     <priority>0.8</priority>
     <lastmod>2020-03-10</lastmod>
@@ -55,9 +41,23 @@
   
   
   <url>
-    <loc>https://3dz2.com/publications/conti2016computational/</loc>
-    <priority>0.6</priority>
+    <loc>https://3dz2.com/cv/</loc>
+    <priority>0.8</priority>
     
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/contact/</loc>
+    <priority>0.8</priority>
+    <lastmod>2020-04-18</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/</loc>
+    <priority>0.8</priority>
+    <lastmod>2020-03-04</lastmod>
   </url>
   
   
@@ -111,6 +111,20 @@
   
   
   <url>
+    <loc>https://3dz2.com/stuff/periodictable/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/research/osmoprotectants/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
     <loc>https://3dz2.com/research/2dselfassembly/</loc>
     <priority>0.6</priority>
     
@@ -154,6 +168,13 @@
   
   <url>
     <loc>https://3dz2.com/publications/conti2016predicting/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/conti2016computational/</loc>
     <priority>0.6</priority>
     
   </url>
@@ -223,20 +244,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/periodictable/</loc>
-    <priority>0.6</priority>
-    
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/research/osmoprotectants/</loc>
-    <priority>0.6</priority>
-    
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/minerals/mineralapp/manual/</loc>
     <priority>0.6</priority>
     <lastmod>2020-04-16</lastmod>
@@ -251,14 +258,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/units/</loc>
-    <priority>0.4</priority>
-    <lastmod>2018-06-29</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/stuff/radioactivity/nuclides/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/types/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
@@ -272,7 +272,14 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/types/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/units/</loc>
+    <priority>0.4</priority>
+    <lastmod>2018-06-29</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/stuff/radioactivity/nuclides/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
