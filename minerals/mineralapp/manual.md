@@ -13,7 +13,7 @@ banner: research
 
 <img src="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/mineralapp.png" alt="MineralApp logo" style="float:right;width:30%;margin:15px;">
 
-**Simone Conti**  **[simonecnt@gmail.com](mailto:simonecnt@gmail.com)**
+**Simone Conti**  **[[3dz2.com](https://3dz2.com)]**
 
 A small and simple application to create a database of your minerals. You can
 add your mineral collection, storing any details you are interested in, helping
@@ -26,7 +26,7 @@ you (hopefully...) to keep your mineral collection well organized!
 
 This code and manual has been written by Simone Conti.
 
-©️ 2019-2020 Simone Conti [simonecnt@gmail.com](mailto:simonecnt@gmail.com) 
+©️ 2019-2020 Simone Conti - [3dz2.com](https://3dz2.com)
 
 MineralApp is free software: you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software
@@ -39,7 +39,7 @@ PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with
 this program. If not, see
-[http://www.gnu.org/licenses/](http://www.gnu.org/licenses/). 
+[https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html). 
 
 
 ## Postcardware
@@ -47,8 +47,7 @@ this program. If not, see
 You are free to use this software. If you like it and find it useful, I would
 highly appreciate you sending me a postcard (or a mineral!) from your hometown.
 
-You can find my current address on my website:
-[https://3dz2.com](https://3dz2.com) 
+You can find my current address on my website: [3dz2.com/contact](https://3dz2.com/contact) 
 
 
 ## Install
@@ -108,7 +107,7 @@ and I can not provide a pre-compiled package. You can follow the Linux
 instructions to compile it from the source code.
 
 If you *really* want a Windows precompiled executable, [let me
-know](mailto:simonecnt@gmail.com) and I'll see if I can do something...
+know](https://3dz2.com/contact/) and I'll see if I can do something...
 
 
 ## How to Use

@@ -20,7 +20,7 @@ organized!
 
 The application is free to use for everyone. If you like it and find it useful,
 I would highly appreciate you sending me a postcard (or a mineral!) from your
-hometown.
+hometown; here [my current address](/contact).
 
 You can find the source code on <a href="https://github.com/SimoneCnt/MineralApp" target="_blank">GitHub</a>.
 
@@ -31,7 +31,7 @@ For MacOS you can
 For Linux you will have to compile it from source.
 I can not test it for Windows at the moment, but you should be able to compile it from source.
 For more informations on the installation process [see the manual](manual/)
-If you have any problem [let me know](mailto:simonecnt@gmail.com?subject=Help%20with%20MineralApp).
+If you have any problem [let me know](/contact).
 
 Below a couple of screenshots:
 

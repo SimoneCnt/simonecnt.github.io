@@ -66,3 +66,7 @@
         - subsubtitle: "References"
           subsubhref: "/stuff/juggling/references/"
 
+- title: "Contact"
+  href: "/contact/"
+  icon: "fa-envelope"
+
