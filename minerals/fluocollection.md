@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-04-13
+date: 2020-04-25
 priority: 0.6
 banner: research
 ---
@@ -10,52 +10,11 @@ banner: research
 =====
 ---
 
-{% assign MSPath = "/img/minerals/" %}
+{% include minerals/121-scapolite-canada.md %}
+{% include minerals/235-caliche-on-sandstone.md %}
+{% include minerals/236-amber-sumatra.md %}
+{% include minerals/238-hourglass-gypsum.md %}
+{% include minerals/258-la-sassa-quartz.md %}
+{% include minerals/284-aragonite-vitosov.md %}
+{% include minerals/286-eureka-fluorite.md %}
 
-## Yellow Quartz
-
-{% assign MSName = "SC258quartz" %}
-{% assign MSImages = "258-01-quartz-visible.jpg|258-02-quartz-lwuv.jpg" | split: "|" %}
-{% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
-{% include slideshow.html %}
-
-
-{% assign MSName = "SC258quartzmacro" %}
-{% assign MSImages = "258-03-quartz-marco-visible.jpg|258-04-quartz-marco-lwuv.jpg" | split: "|" %}
-{% assign MSLabels = "Macro in visible light|Macro in longwave UV" | split: "|" %}
-{% include slideshow.html %}
-
-## Orange Caliche on Blue Sandstone
-
-{% assign MSName = "SC235caliche" %}
-{% assign MSImages = "235-01-caliche-visible.jpg|235-02-caliche-lwuv.jpg" | split: "|" %}
-{% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
-{% include slideshow.html %}
-
-## Blue Amber from Sumatra, Indonesia
-
-{% assign MSName = "SC236amber" %}
-{% assign MSImages = "236-01-amber-visible.jpg|236-02-amber-lwuv.jpg|236-03-amber-lwuv-visible.jpg" | split: "|" %}
-{% assign MSLabels = "Visible light|Longwave UV|Visible and longwave UV" | split: "|" %}
-{% include slideshow.html %}
-
-## Hourglass Gypsum from Poland
-
-{% assign MSName = "SC238gypsum" %}
-{% assign MSImages = "283-01-hourglass-gypsum-visible.jpg|283-02-hourglass-gypsum-lw.jpg" | split: "|" %}
-{% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
-{% include slideshow.html %}
-
-## Scapolite/Wernerite from Canada
-
-Bright fluorescence under all wavelengths, in particular under longwave UV (365nm) and blue laser (405nm).
-
-Dimension: 5x5x3cm; Weight: 51g
-
-{% assign MSName = "SC121scapolite" %}
-{% assign MSImages = "121-01-scapolite-visible.jpg|121-02-scapolite-lwuv.jpg" | split: "|" %}
-{% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
-{% include slideshow.html %}
-
-
- 
