@@ -14,7 +14,7 @@ The field of view in the macro 1 and 2 is about 2 and 1cm, respectively.
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC238fluorite" %}
-{% assign MSImages = "286-01-fluorite-visible.jpg|286-02-fluorite-lwuv.jpg|286-03-fluorite-macro1-visible.jpg|286-04-fluorite-macro1-lwuv.jpg|286-05-fluorite-macro2-visible.jpg|286-06-fluorite-macro2-lwuv.jpg" | split: "|" %}
+{% assign MSImages = "286-fluorite-01-visible.jpg|286-fluorite-02-365led.jpg|286-fluorite-03-macro1-visible.jpg|286-fluorite-04-macro1-365led.jpg|286-fluorite-05-macro2-visible.jpg|286-fluorite-06-macro2-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV|Macro 1 (visible)|Macro 1 (LW)|Macro 2 (visible)|Macro 2 (LW)" | split: "|" %}
 {% include slideshow.html %}
 

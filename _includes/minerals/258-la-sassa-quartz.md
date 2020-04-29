@@ -9,14 +9,14 @@ Quartz is rarely fluorescent. Quartz from La Sassa in Tuscany, Italy is one of t
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC258quartz" %}
-{% assign MSImages = "258-01-quartz-visible.jpg|258-02-quartz-lwuv.jpg" | split: "|" %}
+{% assign MSImages = "258-quartz-01-visible.jpg|258-quartz-02-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
 
 This sample has also tiny fluorescent crystals (the magenta speckles are artifact from the camera sensor).
 
 {% assign MSName = "SC258quartzmacro" %}
-{% assign MSImages = "258-03-quartz-marco-visible.jpg|258-04-quartz-marco-lwuv.jpg" | split: "|" %}
+{% assign MSImages = "258-quartz-03-marco-visible.jpg|258-quartz-04-marco-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Macro in visible light|Macro in longwave UV" | split: "|" %}
 {% include slideshow.html %}
 

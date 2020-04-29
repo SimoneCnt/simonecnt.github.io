@@ -10,7 +10,7 @@ orange, the sandstone light blue. The sandstone is also briefly phosphorescent.
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC235caliche" %}
-{% assign MSImages = "235-01-caliche-visible.jpg|235-02-caliche-lwuv.jpg" | split: "|" %}
+{% assign MSImages = "235-caliche-01-visible.jpg|235-caliche-02-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
 

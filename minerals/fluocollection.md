@@ -11,6 +11,7 @@ banner: research
 ---
 
 {% include minerals/121-scapolite-canada.md %}
+{% include minerals/176-bayleyite.md %}
 {% include minerals/235-caliche-on-sandstone.md %}
 {% include minerals/236-amber-sumatra.md %}
 {% include minerals/238-hourglass-gypsum.md %}

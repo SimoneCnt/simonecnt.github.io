@@ -9,7 +9,7 @@ Bright fluorescence under all wavelengths, in particular under longwave UV (365n
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC121scapolite" %}
-{% assign MSImages = "121-01-scapolite-visible.jpg|121-02-scapolite-lwuv.jpg" | split: "|" %}
+{% assign MSImages = "121-scapolite-01-visible.jpg|121-scapolite-02-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
 

@@ -12,7 +12,7 @@ Major diagonal is 6cm long.
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC238gypsum" %}
-{% assign MSImages = "283-01-hourglass-gypsum-visible.jpg|283-02-hourglass-gypsum-lw.jpg" | split: "|" %}
+{% assign MSImages = "283-hourglass-gypsum-01-visible.jpg|283-hourglass-gypsum-02-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
 
