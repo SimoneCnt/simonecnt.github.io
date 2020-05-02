@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-04-25
+date: 2020-05-02
 priority: 0.6
 banner: research
 ---
@@ -10,8 +10,10 @@ banner: research
 =====
 ---
 
+{% include minerals/111-uraninite.md %}
 {% include minerals/121-scapolite-canada.md %}
 {% include minerals/176-bayleyite.md %}
+{% include minerals/195-autunite.md %}
 {% include minerals/235-caliche-on-sandstone.md %}
 {% include minerals/236-amber-sumatra.md %}
 {% include minerals/238-hourglass-gypsum.md %}
