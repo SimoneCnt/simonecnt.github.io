@@ -35,9 +35,13 @@
 - title: "Minerals"
   href: "/minerals/"
   icon: "fa-gem"
+
+- title: "MineralApp"
+  href: "/mineralapp/"
+  icon: "fa-star"
   subcategories:
-    - subtitle: "MineralApp"
-      subhref: "/minerals/mineralapp/"
+    - subtitle: "Manual"
+      subhref: "/mineralapp/manual/"
 
 - title: "Stuff"
   href: "/stuff/"
