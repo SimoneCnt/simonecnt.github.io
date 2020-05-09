@@ -10,7 +10,7 @@ banner: research
 =====
 ---
 
-<img src="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/mineralapp.png" alt="MineralApp logo" style="float:right;width:20%;margin:15px;">
+<img src="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/icon/mineralapp-hires.png" alt="MineralApp logo" style="float:right;width:20%;margin:15px;">
 
 **Simone Conti**  **[[3dz2.com/mineralapp](https://3dz2.com/mineralapp)]**
 
@@ -78,7 +78,7 @@ Otherwise you can compile it from source (see below).
 
 For Microsoft Windows, MineralApp is packaged in a `MineralApp-install.exe` file. You can download the latest version from: 
 
-[https://github.com/SimoneCnt/MineralApp/raw/master/dist/MineralApp-install.exe](https://github.com/SimoneCnt/MineralApp/raw/master/dist/MineralApp-install.exe)
+[https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp-install.exe](https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp-install.exe)
 
 Run (click) it and it will self-install. Only tested on Windows 10.
 

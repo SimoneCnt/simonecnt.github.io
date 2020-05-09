@@ -11,7 +11,7 @@ banner: research
 ---
 
 
-<img src="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/mineralapp.png" alt="MineralApp logo" style="float:right;width:20%;margin:15px;">
+<img src="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/icon/mineralapp-hires.png" alt="MineralApp logo" style="float:right;width:20%;margin:15px;">
 
 MineralApp is a small and simple application to create a database of your
 minerals. You can add your mineral collection, storing any details you are
@@ -24,11 +24,11 @@ hometown; here [my current address](/contact).
 
 MineralApp is available for MacOS, Linux and Windows:
 
-<i class="fab fa-apple fa-2x fa-fw"></i> <a href="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/dist/mineralapp.dmg">Download MineralApp for MacOS</a>
+<i class="fab fa-apple fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/raw/master/dist/MineralApp.dmg">Download MineralApp for MacOS</a>
 
-<i class="fab fa-linux fa-2x fa-fw"></i> <a href="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/dist/mineralapp">Download MineralApp for Linux</a>
+<i class="fab fa-linux fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp">Download MineralApp for Linux</a>
 
-<i class="fab fa-windows fa-2x fa-fw"></i> <a href="https://raw.githubusercontent.com/SimoneCnt/MineralApp/master/dist/mineralapp-setup.exe">Download MineralApp for Windows</a>
+<i class="fab fa-windows fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp-install.exe">Download MineralApp for Windows</a>
 
 If you have problems with the setup, or need any more information of how to use it, please, take a look at the [manual](manual/).
 
