@@ -158,6 +158,16 @@ main {
         text-align: left;
         background-color: #ccc;
     }
+
+    img {
+        transition:transform 0.25s ease;
+    }
+
+    img:hover {
+        -webkit-transform:scale(3);
+        transform:scale(3);
+    }
+
 }
 
 aside {

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescence Spectra DB
-date: 2020-05-02
+date: 2020-05-17
 priority: 0.6
 banner: research
 ---
@@ -48,7 +48,11 @@ banner: research
 {% for sp in site.data.flspectra %}
   <tr>
     <td>{{ sp.mineral }} (#{{ sp.minid }})</td>
+    {% if sp.locid %}
     <td><a href="https://www.mindat.org/loc-{{ sp.locid }}.html" target="_blank" title="Open locality on MINDAT">{{ sp.locality }}</a></td>
+    {% else %}
+    <td>{{ sp.locality }}</td>
+    {% endif %}
     <td>{{ sp.excitation }}</td>
     <td>{{ sp.activators }}</td>
     <td><a href="/img/spectra/{{ sp.dataname }}.png" target="_blank" title="Open image in new page"><img width="80%" src="/img/spectra/{{ sp.dataname }}.png"></a>  <a href="/img/spectra/{{ sp.dataname }}.txt" title="Download spectrum data"><i class="fas fa-save"></i></a></td>
