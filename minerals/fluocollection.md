@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-05-17
+date: 2020-05-30
 priority: 0.6
 banner: research
 ---
@@ -22,4 +22,11 @@ banner: research
 {% include minerals/284-aragonite-vitosov.md %}
 {% include minerals/286-eureka-fluorite.md %}
 {% include minerals/290-diamond.md %}
+{% include minerals/291-adamite.md %}
+{% include minerals/292-adamite-calcite.md %}
+{% include minerals/294-calcozincite.md %}
+{% include minerals/295-willemite.md %}
+{% include minerals/296-willemite.md %}
+{% include minerals/297-willemite.md %}
+{% include minerals/298-willemite.md %}
 

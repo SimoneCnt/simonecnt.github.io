@@ -192,7 +192,7 @@ beginning, we get that the color is a yellow:
 <span style="background-color:#FFC900">#FFC900</span>, 
 which quite matches the color obtained from a photo:
 
-<p align='center'><img src='/img/minerals/121-02-scapolite-lwuv.jpg' width='70%'></p>
+<p align='center'><img src='/img/minerals/121-scapolite-02-365led.jpg' width='70%'></p>
 
 
 ### References
