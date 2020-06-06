@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-05-30
+date: 2020-06-06
 priority: 0.6
 banner: research
 ---
@@ -29,4 +29,6 @@ banner: research
 {% include minerals/296-willemite.md %}
 {% include minerals/297-willemite.md %}
 {% include minerals/298-willemite.md %}
+{% include minerals/299-clinohedrite.md %}
+{% include minerals/300-agrellite.md %}
 
