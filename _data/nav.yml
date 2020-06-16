@@ -51,17 +51,6 @@
       subhref: "/stuff/periodictable/"
     - subtitle: "Solar Eclipse"
       subhref: "/stuff/solareclipse/"
-    - subtitle: "Radioactivity"
-      subhref: "/stuff/radioactivity/"
-      subsubcategories:
-        - subsubtitle: "Atoms & Nuclides"
-          subsubhref: "/stuff/radioactivity/nuclides/"
-        - subsubtitle: "Types of radioactivity"
-          subsubhref: "/stuff/radioactivity/types/"
-        - subsubtitle: "Units of Measure"
-          subsubhref: "/stuff/radioactivity/units/"
-        - subsubtitle: "Home Samples"
-          subsubhref: "/stuff/radioactivity/samples/"
     - subtitle: "Juggling"
       subhref: "/stuff/juggling/"
       subsubcategories:
