@@ -181,13 +181,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/</loc>
-    <priority>0.6</priority>
-    <lastmod>2018-10-01</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/mineralapp/</loc>
     <priority>0.6</priority>
     <lastmod>2020-05-07</lastmod>
@@ -230,6 +223,13 @@
   
   
   <url>
+    <loc>https://3dz2.com/stuff/elements/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://3dz2.com/programming/cygne/</loc>
     <priority>0.6</priority>
     
@@ -254,6 +254,13 @@
     <loc>https://3dz2.com/stuff/radioactivity/</loc>
     <priority>0.6</priority>
     <lastmod>2018-06-29</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/stuff/juggling/</loc>
+    <priority>0.6</priority>
+    <lastmod>2018-10-01</lastmod>
   </url>
   
   
