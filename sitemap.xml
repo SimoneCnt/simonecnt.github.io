@@ -13,21 +13,21 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/</loc>
+    <loc>https://3dz2.com/minerals/</loc>
     <priority>0.8</priority>
-    
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/programming/</loc>
-    <priority>0.8</priority>
-    
+    <lastmod>2020-03-04</lastmod>
   </url>
   
   
   <url>
     <loc>https://3dz2.com/stuff/</loc>
+    <priority>0.8</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/research/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -55,9 +55,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/minerals/</loc>
+    <loc>https://3dz2.com/programming/</loc>
     <priority>0.8</priority>
-    <lastmod>2020-03-04</lastmod>
+    
   </url>
   
   
@@ -181,13 +181,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/mineralapp/</loc>
-    <priority>0.6</priority>
-    <lastmod>2020-05-07</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/research/hivbnabs/</loc>
     <priority>0.6</priority>
     
@@ -237,6 +230,13 @@
   
   
   <url>
+    <loc>https://3dz2.com/stuff/checkhdd/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-06-19</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://3dz2.com/publications/pieraccini2013modelling/</loc>
     <priority>0.6</priority>
     
@@ -251,6 +251,20 @@
   
   
   <url>
+    <loc>https://3dz2.com/stuff/juggling/</loc>
+    <priority>0.6</priority>
+    <lastmod>2018-10-01</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/mineralapp/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-05-07</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://3dz2.com/stuff/radioactivity/</loc>
     <priority>0.6</priority>
     <lastmod>2018-06-29</lastmod>
@@ -258,9 +272,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/</loc>
-    <priority>0.6</priority>
-    <lastmod>2018-10-01</lastmod>
+    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
+    <priority>0.4</priority>
+    <lastmod>2018-06-29</lastmod>
   </url>
   
   
@@ -272,16 +286,16 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/units/</loc>
+    <loc>https://3dz2.com/stuff/juggling/siteswaps/</loc>
     <priority>0.4</priority>
-    <lastmod>2018-06-29</lastmod>
+    <lastmod>2018-10-01</lastmod>
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/siteswaps/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/units/</loc>
     <priority>0.4</priority>
-    <lastmod>2018-10-01</lastmod>
+    <lastmod>2018-06-29</lastmod>
   </url>
   
   
@@ -296,13 +310,6 @@
     <loc>https://3dz2.com/stuff/juggling/references/</loc>
     <priority>0.4</priority>
     <lastmod>2018-10-01</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
-    <priority>0.4</priority>
-    <lastmod>2018-06-29</lastmod>
   </url>
   
   
