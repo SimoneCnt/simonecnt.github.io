@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-06-06
+date: 2020-06-19
 priority: 0.6
 banner: research
 ---
@@ -14,11 +14,13 @@ banner: research
 {% include minerals/121-scapolite-canada.md %}
 {% include minerals/164-ruby.md %}
 {% include minerals/176-bayleyite.md %}
+{% include minerals/186-calcite-ma.md %}
 {% include minerals/195-autunite.md %}
 {% include minerals/235-caliche-on-sandstone.md %}
 {% include minerals/236-amber-sumatra.md %}
 {% include minerals/238-hourglass-gypsum.md %}
 {% include minerals/258-la-sassa-quartz.md %}
+{% include minerals/264-amazonite.md %}
 {% include minerals/284-aragonite-vitosov.md %}
 {% include minerals/286-eureka-fluorite.md %}
 {% include minerals/290-diamond.md %}
@@ -31,4 +33,8 @@ banner: research
 {% include minerals/298-willemite.md %}
 {% include minerals/299-clinohedrite.md %}
 {% include minerals/300-agrellite.md %}
+{% include minerals/302-fluorite-cerrusite.md %}
+{% include minerals/303-chalcedony.md %}
+{% include minerals/304-septarian-nodule.md %}
+{% include minerals/305-fluorite.md %}
 
