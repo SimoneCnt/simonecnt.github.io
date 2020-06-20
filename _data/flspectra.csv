@@ -19,3 +19,7 @@
 300,"Agrellite","Kipawa,Quebec,Canada",614,3,"254nm Hg","REE","300-agrellite-254hg"
 300,"Agrellite","Kipawa,Quebec,Canada",614,3,"365nm LED","REE","300-agrellite-365led"
 300,"Agrellite","Kipawa,Quebec,Canada",614,3,"405nm Laser","REE","300-agrellite-405laser"
+302,"Cerussite","Blanchard Mine, New Mexico, USA",3993,2,"365nm LED","Lead?","302-cerussite-365led"
+302,"Fluorite","Blanchard Mine, New Mexico, USA",3993,3,"365nm LED","Eu<sup>2+</sup>","302-fluorite-365led"
+303,"Chalcedony","Mule Creek, New Mexico, USA",130978,3,"365nm LED","UO<sub>2</sub><sup>2+</sup>","303-chalcedony-365led"
+305,"Fluorite","Small Fry prospect, New Mexico, USA",179959,3,"365nm LED","Eu<sup>2+</sup>","305-fluorite-365led"
