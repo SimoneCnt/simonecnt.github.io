@@ -1,5 +1,5 @@
 
-### #300 - Agrellite from Kipawa, Quebec, Canada
+### SC300 - Agrellite from Kipawa, Quebec, Canada
 
 **Locality:**  Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Témiscamingue RCM, Abitibi-Témiscamingue, Québec, Canada ([MINDAT](https://www.mindat.org/loc-614.html))  
 **Size:** 12 x 5 x 2 cm  

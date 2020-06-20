@@ -1,5 +1,5 @@
 
-### #164 - Corundum var Ruby
+### SC164 - Corundum var Ruby
 
 **Size:** 3 x 3 x 1 cm  
 

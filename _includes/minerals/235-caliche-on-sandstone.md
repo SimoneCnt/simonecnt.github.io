@@ -1,5 +1,5 @@
 
-### #235 - Caliche on Sandstone from Utah, USA
+### SC235 - Caliche on Sandstone from Utah, USA
 
 **Locality:** Utah, USA  
 **Size:** 8 x 5 x 5 cm  

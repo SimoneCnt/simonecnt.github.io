@@ -1,5 +1,5 @@
 
-### #284 - Aragonite from Vitošov quarry, Czech Republic
+### SC284 - Aragonite from Vitošov quarry, Czech Republic
 
 **Locality:** Vitošov quarry, Šumperk District, Olomouc Region, Czech Republic ([MINDAT](https://www.mindat.org/loc-145723.html))  
 **Size:** 3 x 4 x 2 cm  

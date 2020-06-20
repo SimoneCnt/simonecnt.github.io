@@ -1,5 +1,5 @@
 
-### #291 - Adamite from the Ojuela Mine, Mexico
+### SC291 - Adamite from the Ojuela Mine, Mexico
 
 **Locality:**  Ojuela Mine, Mapimí, Mapimí Municipality, Durango, Mexico ([MINDAT](https://www.mindat.org/loc-2318.html))  
 **Size:** 6.5 x 4.5 x 2 cm  

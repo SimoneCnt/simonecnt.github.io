@@ -1,5 +1,5 @@
 
-### #195 - Autunite from Streuberg Quarry, Germany
+### SC195 - Autunite from Streuberg Quarry, Germany
 
 **Locality:** Streuberg Quarry, Bergen, Vogtlandkreis, Saxony, Germany  ([MINDAT](https://www.mindat.org/loc-1907.html))  
 **Size:** 0.5 x 0.5 x 0.5 cm  

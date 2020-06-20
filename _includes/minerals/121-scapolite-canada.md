@@ -1,5 +1,5 @@
 
-### #121 - Scapolite/Wernerite from Canada
+### SC121 - Scapolite/Wernerite from Canada
 
 **Locality:** Canada  
 **Size:** 5 x 5 x 3 cm  

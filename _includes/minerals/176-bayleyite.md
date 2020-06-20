@@ -1,5 +1,5 @@
 
-### #176 - Bayleyite from Hideout Mine, Utah, USA
+### SC176 - Bayleyite from Hideout Mine, Utah, USA
 
 **Locality:** Hideout Mine, Deer Flat, White Canyon, San Juan Co., Utah, USA ([MINDAT](https://www.mindat.org/loc-35984.html))  
 **Size:** 5 x 3 x 1 cm  

@@ -1,5 +1,5 @@
 
-### #238 - Hourglass Gypsum from Poland
+### SC238 - Hourglass Gypsum from Poland
 
 **Locality:** Chodziez Co., Greater Poland Voivodeship, Poland ([MINDAT](https://www.mindat.org/loc-62646.html))  
 **Size:** 6.5 x 2 x 1 cm  

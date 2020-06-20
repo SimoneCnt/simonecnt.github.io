@@ -1,5 +1,5 @@
 
-### #290 - Rough diamond
+### SC290 - Rough diamond
 
 **Size:** 5 x 5 x 3 mm  
 **Weight:** 1.2 ct    
