@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescence Spectra DB
-date: 2020-06-19
+date: 2020-06-25
 priority: 0.6
 banner: research
 ---

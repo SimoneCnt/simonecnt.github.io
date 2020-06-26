@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-06-19
+date: 2020-06-25
 priority: 0.6
 banner: research
 ---
@@ -20,6 +20,7 @@ banner: research
 {% include minerals/236-amber-sumatra.md %}
 {% include minerals/238-hourglass-gypsum.md %}
 {% include minerals/258-la-sassa-quartz.md %}
+{% include minerals/262-nosean-sanidine.md %}
 {% include minerals/264-amazonite.md %}
 {% include minerals/284-aragonite-vitosov.md %}
 {% include minerals/286-eureka-fluorite.md %}
