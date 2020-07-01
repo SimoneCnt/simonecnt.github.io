@@ -1,6 +1,8 @@
 
 <div class="w3-content w3-display-container" style="width:70%">
 
+{% if MSImages.size > 1 %}
+
 {% for image in MSImages %}
   <div class="w3-display-container {{ MSName }}">
     <img src="{{ MSPath }}{{ image }}" style="width:100%">
@@ -34,6 +36,13 @@ function showDivs_{{ MSName }}(n) {
   x[slideIndex_{{ MSName }}-1].style.display = "block";  
 }
 </script>
+
+{% else %}
+
+<img src="{{ MSPath }}{{ MSImages }}" style="width:100%">
+</div>
+
+{% endif %}
 
 <p></p>
 

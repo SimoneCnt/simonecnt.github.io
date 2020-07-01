@@ -1,5 +1,5 @@
 
-### SC238 - Hourglass Gypsum from Poland
+### SC283 - Hourglass Gypsum from Poland
 
 **Locality:** Chodziez Co., Greater Poland Voivodeship, Poland ([MINDAT](https://www.mindat.org/loc-62646.html))  
 **Size:** 6.5 x 2 x 1 cm  
@@ -11,7 +11,7 @@ impurities (hydrocarbons?) along crystallographic faces during crystal growth.
 Major diagonal is 6cm long.
 
 {% assign MSPath = "/img/minerals/" %}
-{% assign MSName = "SC238gypsum" %}
+{% assign MSName = "SC283gypsum" %}
 {% assign MSImages = "283-hourglass-gypsum-01-visible.jpg|283-hourglass-gypsum-02-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV" | split: "|" %}
 {% include slideshow.html %}

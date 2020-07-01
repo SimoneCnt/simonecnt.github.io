@@ -4,10 +4,9 @@
 **Locality:**  Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Témiscamingue RCM, Abitibi-Témiscamingue, Québec, Canada ([MINDAT](https://www.mindat.org/loc-614.html))  
 **Size:** 12 x 5 x 2 cm  
 
-Pink fluorescent agrellite from the type locality.
-
-White in normal light, fluoresces pink under SW or MW, more orange under LW,
-and redder under blue laser.  The orange/red fluorescence is due to manganese
+Pink fluorescent agrellite from the type locality. White in normal light,
+fluoresces pink under shortwave or middlewave, more orange under longwave, and
+redder under blue laser.  The orange/red fluorescence is due to manganese
 (broad band centered at ~580nm) and a mix or rare earth elements (REE), like
 dysprosium and samarium. 
 
@@ -17,12 +16,13 @@ dysprosium and samarium.
 {% assign MSLabels = "Visible light|Shortwave UV|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
 
-Fluorescence spectra from SW, LW, and blue laser. The main peaks are almost the
-same, but the relative intensities change, causing the shift in color.
-
-{% assign MSPath = "/img/spectra/" %}
-{% assign MSName = "SC300agrellitespectra" %}
-{% assign MSImages = "300-agrellite-254hg.png|300-agrellite-365led.png|300-agrellite-405laser.png|300-agrellite-compare.png" | split: "|" %}
-{% assign MSLabels = "Shortwave UV|Longwave UV|Blue laser|Comparison" | split: "|" %}
-{% include slideshow.html %}
+<table width="100%">
+<tr>
+<td with="50%"><img src="/img/spectra/300-agrellite-compare.png" width="100%" ></td>
+<td width="50%" style="padding:10px">
+The fluorescence spectra from shortwave, longwave, and blue laser show that the
+main peaks are almost the same, but the relative intensities change, causing
+the shift in color.
+</td></tr></table>
+<br>
 
