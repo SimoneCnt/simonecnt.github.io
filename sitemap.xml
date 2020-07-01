@@ -13,9 +13,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/minerals/</loc>
+    <loc>https://3dz2.com/programming/</loc>
     <priority>0.8</priority>
-    <lastmod>2020-03-04</lastmod>
+    
   </url>
   
   
@@ -27,9 +27,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/</loc>
+    <loc>https://3dz2.com/minerals/</loc>
     <priority>0.8</priority>
-    
+    <lastmod>2020-06-30</lastmod>
   </url>
   
   
@@ -55,7 +55,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/programming/</loc>
+    <loc>https://3dz2.com/research/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -181,13 +181,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/hivbnabs/</loc>
-    <priority>0.6</priority>
-    
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/programming/gpl/</loc>
     <priority>0.6</priority>
     
@@ -197,14 +190,14 @@
   <url>
     <loc>https://3dz2.com/minerals/fluospectra/</loc>
     <priority>0.6</priority>
-    <lastmod>2020-06-25</lastmod>
+    <lastmod>2020-06-30</lastmod>
   </url>
   
   
   <url>
     <loc>https://3dz2.com/minerals/fluocollection/</loc>
     <priority>0.6</priority>
-    <lastmod>2020-06-25</lastmod>
+    <lastmod>2020-06-30</lastmod>
   </url>
   
   
@@ -226,6 +219,13 @@
     <loc>https://3dz2.com/programming/cygne/</loc>
     <priority>0.6</priority>
     
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/collection/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-06-30</lastmod>
   </url>
   
   
@@ -272,14 +272,21 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
-    <priority>0.4</priority>
-    <lastmod>2018-06-29</lastmod>
+    <loc>https://3dz2.com/research/hivbnabs/</loc>
+    <priority>0.6</priority>
+    
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/types/</loc>
+    <loc>https://3dz2.com/stuff/juggling/references/</loc>
+    <priority>0.4</priority>
+    <lastmod>2018-10-01</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
@@ -307,9 +314,9 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/references/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/types/</loc>
     <priority>0.4</priority>
-    <lastmod>2018-10-01</lastmod>
+    <lastmod>2018-06-29</lastmod>
   </url>
   
   
