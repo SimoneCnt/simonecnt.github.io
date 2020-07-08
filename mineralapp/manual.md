@@ -52,35 +52,45 @@ You can find my current address on my website:
 
 MineralApp is written in C++ and uses wxWidgets
 ([https://wxwidgets.org/](https://wxwidgets.org/)). Precompiled binaries are
-available for MacOS, Windows and Linux (see below). It has been tested on Arch
-Linux, MacOS (10.15) and Windows 10. The source code is maintained on GitHub:
+available for MacOS, Windows and Ubuntu (see below). It has been tested on Arch
+Linux, Ubuntu 20.04, MacOS (10.15) and Windows 10. The source code is maintained on GitHub:
 
 [https://github.com/SimoneCnt/MineralApp](https://github.com/SimoneCnt/MineralApp)
 
+And the latest release can be download from
+
+[https://github.com/SimoneCnt/MineralApp/releases/latest](https://github.com/SimoneCnt/MineralApp/releases/latest)
 
 ### MacOS
 
 For MacOS, MineralApp is packaged in a `dmg` file. You can download the latest version from:
 
-[https://github.com/SimoneCnt/MineralApp/raw/master/dist/MineralApp.dmg](https://github.com/SimoneCnt/MineralApp/raw/master/dist/MineralApp.dmg)
+[https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp.dmg](https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp.dmg)
 
 Open it, and drag MineralApp.app into the Applications directory. Done!
 
-### Linux
-
-A Linux binary is available for download from:
-
-[https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp](https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp)
-
-Otherwise you can compile it from source (see below).
-
 ### Windows
 
-For Microsoft Windows, MineralApp is packaged in a `MineralApp-install.exe` file. You can download the latest version from: 
+For Microsoft Windows, MineralApp is packaged in a `mineralapp-install.exe` file. You can download the latest version from: 
 
-[https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp-install.exe](https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp-install.exe)
+[https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp-install.exe](https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp-install.exe)
 
 Run (click) it and it will self-install. Only tested on Windows 10.
+
+### Linux Ubuntu
+
+A `.deb` package is available for download from:
+
+[https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp.deb](https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp.deb)
+
+On Ubuntu 20.04 you can install this with:
+
+```bash
+sudo dpkg -i mineralapp.deb
+sudo apt-get -f install
+```
+
+Otherwise you can compile it from source.
 
 ### Compile from source
 
@@ -94,6 +104,16 @@ installed. Precompiled packages may be available from your package manager. On
 Linux and MacOS just clone the repository and run `make; make install` (make
 sure `wx-config --cxxflags` runs without errors). On Windows there is a README
 file in the `msw` directory for compiling MineralApp in Visual Studio.
+
+On Ubuntu 20.04 this should work:
+
+```bash
+sudo apt-get install git make g++ libsqlite3-dev libwxgtk3.0-gtk3-dev
+git clone https://github.com/SimoneCnt/MineralApp.git mineralapp
+cd mineralapp
+make
+sudo make install
+```
 
 
 ## How to Use

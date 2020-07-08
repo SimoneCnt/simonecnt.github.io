@@ -22,19 +22,18 @@ The application is free to use for everyone. If you like it and find it useful,
 I would highly appreciate you sending me a postcard (or a mineral!) from your
 hometown; here [my current address](/contact).
 
-MineralApp is available for MacOS, Linux and Windows:
+MineralApp is available for MacOS, Windows and Linux:
 
-<i class="fab fa-apple fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/raw/master/dist/MineralApp.dmg">Download MineralApp for MacOS</a>
+<i class="fab fa-apple fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp.dmg">Download MineralApp for MacOS</a>
 
-<i class="fab fa-linux fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp">Download MineralApp for Linux</a>
+<i class="fab fa-windows fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp-install.exe">Download MineralApp for Windows</a>
 
-<i class="fab fa-windows fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/raw/master/dist/mineralapp-install.exe">Download MineralApp for Windows</a>
+<i class="fab fa-ubuntu fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/releases/latest/download/mineralapp.deb">Download MineralApp for Ubuntu</a>
 
-If you have problems with the setup, or need any more information of how to use it, please, take a look at the [manual](manual/).
+<i class="fab fa-github fa-2x fa-fw"></i> <a href="https://github.com/SimoneCnt/MineralApp/">Download the source code from GitHub</a>
 
-If you still have any problem [let me know](/contact).
-
-The source code is also available. You can find it on <a href="https://github.com/SimoneCnt/MineralApp" target="_blank"><i class="fab fa-github"></i> GitHub</a>.
+If you have problems with the setup, or need any information of how to use MineralApp,
+you can take a look at the [manual](manual/) or [write me](/contact).
 
 Below a couple of screenshots:
 
