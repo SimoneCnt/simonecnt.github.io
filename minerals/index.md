@@ -3,7 +3,7 @@ layout: default
 title: Minerals Collection
 date: 2020-06-30
 priority: 0.8
-banner: research
+banner: fluominerals
 ---
 
 {{ page.title }}

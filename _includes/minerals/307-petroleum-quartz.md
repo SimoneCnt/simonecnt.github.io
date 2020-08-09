@@ -20,7 +20,7 @@ difference in the photo...
 
 <table width="100%">
 <tr>
-<td with="50%"><img src="/img/spectra/307-petroleum-quartz-365led.png" width="100%" ></td>
+<td width="50%"><img src="/img/spectra/307-petroleum-quartz-365led.png" width="100%" ></td>
 <td width="50%" style="padding:10px">
 The fluorescence spectrum shows a lot of superimposed peaks in the blue region
 (400-500nm), with the maximum of emission in the green region (500-550nm).

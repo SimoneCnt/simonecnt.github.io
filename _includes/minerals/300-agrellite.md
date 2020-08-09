@@ -18,7 +18,7 @@ dysprosium and samarium.
 
 <table width="100%">
 <tr>
-<td with="50%"><img src="/img/spectra/300-agrellite-compare.png" width="100%" ></td>
+<td width="50%"><img src="/img/spectra/300-agrellite-compare.png" width="100%" ></td>
 <td width="50%" style="padding:10px">
 The fluorescence spectra from shortwave, longwave, and blue laser show that the
 main peaks are almost the same, but the relative intensities change, causing

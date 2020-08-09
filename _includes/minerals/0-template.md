@@ -4,6 +4,9 @@
 **Locality:**   ([MINDAT](https://www.mindat.org/loc-.html))  
 **Size:** 4 x 3 x 2 cm  
 **Weight:** g  
+**minID:** [](https://www.mindat.org/)
+
+See on [Nature's Rainbow](https://www.naturesrainbows.com/single-post/2020/07/12/Fluorite-and-Cerussite-from-the-Blanchard-Mine-Bingham-NM)
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC111uraninite" %}
@@ -13,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td with="50%"><img src="/img/spectra/300-agrellite-compare.png" width="100%" ></td>
+<td width="50%"><img src="/img/spectra/300-agrellite-compare.png" width="100%" ></td>
 <td width="50%" style="padding:10px">
 The fluorescence spectra from shortwave, longwave, and blue laser show that the
 main peaks are almost the same, but the relative intensities change, causing

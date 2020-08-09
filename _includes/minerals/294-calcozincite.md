@@ -2,13 +2,15 @@
 ### SC294 - Calcozincite from the Sterling Hill Mine, New Jersey, USA
 
 **Locality:**  Sterling Mine, Sterling Hill, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA ([MINDAT](https://www.mindat.org/loc-3948.html))  
+**Size:** 12 x 9 x 3 cm  
+**Weight:** 550 g  
+**minID:** [0P3-RJ0](https://www.mindat.org/0P3-RJ0)
 
-Calcozincite is a composite material of calcite and zincite with embedded
-tremolite-like fibers
-
-In this sample the calcozincite is surrounded by strongly fluorescent red
-calcite with few speckles of green fluorescent willemite and non-fluorescent
-black franklinite.
+Calcozincite (orange) surrounded by calcite (white) with black dots of
+franklinite. The calcite fluoresces a bright red under shortwave UV light. The
+calcozincite (a mix of calcite, zincite and tremolite fibers) fluoresces a
+weaker zoned pink/white. The back size is covered by calcite and franklinite
+with a little willemite, which fluorescences bright green.
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC294calcozincite" %}

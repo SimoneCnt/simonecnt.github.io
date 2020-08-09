@@ -3,7 +3,7 @@ layout: default
 title: From Spectrum to RGB Color - A practical protocol
 date: 2020-04-15
 priority: 0.6
-banner: research
+banner: fluominerals
 mathjax: true
 ---
 

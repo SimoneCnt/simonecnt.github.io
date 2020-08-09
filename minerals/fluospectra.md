@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fluorescence Spectra DB
-date: 2020-06-30
+date: 2020-08-09
 priority: 0.6
-banner: research
+banner: fluominerals
 ---
 
 {{ page.title }}
@@ -98,4 +98,4 @@ function FS_filter() {
 </script>
 
 
-
+<br>

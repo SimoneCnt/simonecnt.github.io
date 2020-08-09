@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-06-30
+date: 2020-08-09
 priority: 0.6
-banner: research
+banner: fluominerals
 ---
 
 {{ page.title }}
@@ -18,6 +18,7 @@ banner: research
 {% include minerals/195-autunite.md %}
 {% include minerals/235-caliche-on-sandstone.md %}
 {% include minerals/236-amber-sumatra.md %}
+{% include minerals/237-sterling-slab.md %}
 {% include minerals/258-la-sassa-quartz.md %}
 {% include minerals/262-nosean-sanidine.md %}
 {% include minerals/264-amazonite.md %}
@@ -27,6 +28,7 @@ banner: research
 {% include minerals/290-diamond.md %}
 {% include minerals/291-adamite.md %}
 {% include minerals/292-adamite-calcite.md %}
+{% include minerals/293-esperite.md %}
 {% include minerals/294-calcozincite.md %}
 {% include minerals/295-willemite.md %}
 {% include minerals/296-willemite.md %}
@@ -34,9 +36,13 @@ banner: research
 {% include minerals/298-willemite.md %}
 {% include minerals/299-clinohedrite.md %}
 {% include minerals/300-agrellite.md %}
+{% include minerals/301-tremolite.md %}
 {% include minerals/302-fluorite-cerrusite.md %}
 {% include minerals/303-chalcedony.md %}
 {% include minerals/304-septarian-nodule.md %}
 {% include minerals/305-fluorite.md %}
 {% include minerals/307-petroleum-quartz.md %}
+{% include minerals/311-zircon.md %}
+{% include minerals/312-yooper.md %}
+{% include minerals/313-chalcedony.md %}
 

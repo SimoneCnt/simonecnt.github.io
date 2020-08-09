@@ -3,7 +3,7 @@ layout: default
 title: Fluorescent Minerals Books
 date: 2020-02-24
 priority: 0.6
-banner: research
+banner: fluominerals
 ---
 
 {{ page.title }}
