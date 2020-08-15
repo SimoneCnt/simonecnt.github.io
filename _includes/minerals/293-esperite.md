@@ -1,5 +1,5 @@
 
-### SC293 - Esperite from Franklin Mine, NJ
+### <a name="SC293"></a> SC293 - Esperite from Franklin Mine, NJ
 
 **Locality:** Franklin Mine, Franklin, Franklin Mining District, Sussex County, New Jersey, USA ([MINDAT](https://www.mindat.org/loc-8541.html))  
 **Size:** 12 x 9 x 5 cm  

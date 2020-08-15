@@ -1,5 +1,5 @@
 
-### SC304 - Septarian from New Mexico, USA
+### <a name="SC304"></a> SC304 - Septarian from New Mexico, USA
 
 **Locality:**  Nacimiento Mine, San Pablo, Sandoval Co., New Mexico, USA ([MINDAT](https://www.mindat.org/loc-7971.html))  
 **Size:** 5 x 3.5 x 2 cm  

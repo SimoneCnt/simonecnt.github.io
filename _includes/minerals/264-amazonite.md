@@ -1,5 +1,5 @@
 
-### SC264 - Amazonite from Sweden
+### <a name="SC264"></a> SC264 - Amazonite from Sweden
 
 **Locality:** Zinkgruvan Mine, Zinkgruvan, Askersund, Örebro County, Sweden ([MINDAT](https://www.mindat.org/loc-10005.html))  
 **Size:** 3.5 x 3.5 x 2.5 cm  

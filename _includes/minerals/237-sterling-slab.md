@@ -1,5 +1,5 @@
 
-### SC237 - Polished slab from Sterling Mine, NJ
+### <a name="SC237"></a> SC237 - Polished slab from Sterling Mine, NJ
 
 **Locality:** Sterling Mine, Sterling Hill, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA ([MINDAT](https://www.mindat.org/loc-3948.html))  
 **Size:** 9 x 8 x 2 cm  

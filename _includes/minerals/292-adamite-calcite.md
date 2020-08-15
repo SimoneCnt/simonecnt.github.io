@@ -1,5 +1,5 @@
 
-### SC292 - Adamite and Calcite from the Ojuela Mine, Mexico
+### <a name="SC292"></a> SC292 - Adamite and Calcite from the Ojuela Mine, Mexico
 
 **Locality:**  Ojuela Mine, Mapimí, Mapimí Municipality, Durango, Mexico ([MINDAT](https://www.mindat.org/loc-2318.html))  
 **Size:** 6 x 4 x 3 cm  

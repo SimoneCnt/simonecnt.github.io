@@ -1,5 +1,5 @@
 
-### SC319 - Dumortierite from Vaca Morta quarry, Brazil
+### <a name="SC319"></a> SC319 - Dumortierite from Vaca Morta quarry, Brazil
 
 **Locality:** Vaca Morta quarry, Serra da Vereda, Boquira, Bahia, Brazil ([MINDAT](https://www.mindat.org/loc-47117.html))  
 **Size:** 1.5 x 0.5 x 0.5 cm  

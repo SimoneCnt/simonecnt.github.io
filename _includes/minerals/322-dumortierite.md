@@ -1,5 +1,5 @@
 
-### SC322 - Dumortierite from Mazowe, Mozambique
+### <a name="SC322"></a> SC322 - Dumortierite from Mazowe, Mozambique
 
 **Locality:** Mazowe, Changara, Tete Province, Mozambique ([MINDAT](https://www.mindat.org/loc-109710.html))  
 **Size:** 4 x 3.5 x 1 cm  

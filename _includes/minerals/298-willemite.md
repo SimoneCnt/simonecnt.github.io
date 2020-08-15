@@ -1,5 +1,5 @@
 
-### SC298 - Willemite from the Franklin Mine, New Jersey, USA
+### <a name="SC298"></a> SC298 - Willemite from the Franklin Mine, New Jersey, USA
 
 **Locality:**  Franklin Mine, Franklin, Franklin Mining District, Sussex County, New Jersey, USA ([MINDAT](https://www.mindat.org/loc-8541.html))  
 

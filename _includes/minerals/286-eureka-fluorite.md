@@ -1,5 +1,5 @@
 
-### SC286 - Fluorite from the Eureka Mine, Kentucky, USA
+### <a name="SC286"></a> SC286 - Fluorite from the Eureka Mine, Kentucky, USA
 
 **Locality:** Eureka Mine, Marion, Crittenden Co., Kentucky, USA ([MINDAT](https://www.mindat.org/loc-63261.html))  
 **Size:** 11 x 8 x 4 cm  

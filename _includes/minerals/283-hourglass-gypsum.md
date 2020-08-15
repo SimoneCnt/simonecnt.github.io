@@ -1,5 +1,5 @@
 
-### SC283 - Hourglass Gypsum from Poland
+### <a name="SC283"></a> SC283 - Hourglass Gypsum from Poland
 
 **Locality:** Chodziez Co., Greater Poland Voivodeship, Poland ([MINDAT](https://www.mindat.org/loc-62646.html))  
 **Size:** 6.5 x 2 x 1 cm  

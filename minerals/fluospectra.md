@@ -47,7 +47,7 @@ banner: fluominerals
   </tr>
 {% for sp in site.data.flspectra %}
   <tr>
-    <td>{{ sp.mineral }} (#{{ sp.minid }})</td>
+    <td><a href="/minerals/collection/#SC{{ sp.minid }}" target="_blank" title="See mineral info">{{ sp.mineral }} (#{{ sp.minid }})</a></td>
     {% if sp.locid %}
     <td><a href="https://www.mindat.org/loc-{{ sp.locid }}.html" target="_blank" title="Open locality on MINDAT">{{ sp.locality }}</a></td>
     {% else %}

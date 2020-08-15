@@ -1,5 +1,5 @@
 
-### SC236 - Blue fluorescent amber from Sumatra, Indonesia
+### <a name="SC236"></a> SC236 - Blue fluorescent amber from Sumatra, Indonesia
 
 **Locality:** Sumatra, Indonesia  
 **Size:** 7 pieces  

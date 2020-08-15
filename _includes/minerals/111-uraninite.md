@@ -1,5 +1,5 @@
 
-### SC111 - Uraninite with Schröckingerite from Utah, USA
+### <a name="SC111"></a> SC111 - Uraninite with Schröckingerite from Utah, USA
 
 **Locality:**  Mi Vida Mine, Big Indian Mining District, San Juan Co., Utah, USA ([MINDAT](https://www.mindat.org/loc-38514.html))  
 **Size:** 4 x 3 x 2 cm  

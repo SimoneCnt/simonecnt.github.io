@@ -1,5 +1,5 @@
 
-### SC321 - Dumortierite from Mazowe, Mozambique
+### <a name="SC321"></a> SC321 - Dumortierite from Mazowe, Mozambique
 
 **Locality:** Mazowe, Changara, Tete Province, Mozambique ([MINDAT](https://www.mindat.org/loc-109710.html))  
 **Size:** 5 x 4 x 1 cm  

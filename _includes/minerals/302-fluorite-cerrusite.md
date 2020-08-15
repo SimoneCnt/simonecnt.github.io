@@ -1,5 +1,5 @@
 
-### SC302 - Fluorite cubes with Cerussite from New Mexico, USA
+### <a name="SC302"></a> SC302 - Fluorite cubes with Cerussite from New Mexico, USA
 
 **Locality:** Blanchard Mine, Bingham, Socorro Co., New Mexico, USA ([MINDAT](https://www.mindat.org/loc-3993.html))  
 **Size:** 12 x 10 x 7 cm  

@@ -1,5 +1,5 @@
 
-### SC258 - Yellow fluorescent quartz from La Sassa, Italy
+### <a name="SC258"></a> SC258 - Yellow fluorescent quartz from La Sassa, Italy
 
 **Locality:** La Sassa, Montecatini Val di Cecina, Pisa Province, Tuscany, Italy ([MINDAT](https://www.mindat.org/loc-107392.html))  
 **Size:** 7 x 5 x 5 cm   

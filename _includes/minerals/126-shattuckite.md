@@ -1,5 +1,5 @@
 
-### SC126 - Shattuckite from Kaokoveld Plateau, Namibia
+### <a name="SC126"></a> SC126 - Shattuckite from Kaokoveld Plateau, Namibia
 
 **Locality:** Kaokoveld Plateau, Kunene Region, Namibia ([MINDAT](https://www.mindat.org/loc-30243.html))  
 **Size:** 6.5 x 3 x 3 cm  

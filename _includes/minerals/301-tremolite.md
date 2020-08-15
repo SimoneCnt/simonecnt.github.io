@@ -1,5 +1,5 @@
 
-### SC301 - Tremolite, Anthophyllite and Clino-Suenoite from Talcville, NY
+### <a name="SC301"></a> SC301 - Tremolite, Anthophyllite and Clino-Suenoite from Talcville, NY
 
 **Locality:** International Talc Company Mine, Talcville, St. Lawrence Co., New York, USA ([MINDAT](https://www.mindat.org/loc-158617.html))  
 **Size:** 10 x 6 x 2 cm  

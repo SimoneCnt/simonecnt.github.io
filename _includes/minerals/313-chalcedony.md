@@ -1,5 +1,5 @@
 
-### SC313 - Chalcedony from Milwaukee Co., Wisconsin, USA
+### <a name="SC313"></a> SC313 - Chalcedony from Milwaukee Co., Wisconsin, USA
 
 **Locality:** Milwaukee Co., Wisconsin, USA ([MINDAT](https://www.mindat.org/loc-26813.html))  
 **Size:** 5 x 4 x 4 cm  

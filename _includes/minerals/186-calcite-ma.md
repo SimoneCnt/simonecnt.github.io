@@ -1,5 +1,5 @@
 
-### SC186 - Calcite from Massachusetts, USA
+### <a name="SC186"></a> SC186 - Calcite from Massachusetts, USA
 
 **Locality:**  Lane Quarry, Northfield, Franklin Co., Massachusetts, USA ([MINDAT](https://www.mindat.org/loc-69230.html))  
 **Size:** 2 x 2 x 1 cm

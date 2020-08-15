@@ -1,5 +1,5 @@
 
-### SC297 - Willemite from the Sterling Hill Mine, New Jersey, USA
+### <a name="SC297"></a> SC297 - Willemite from the Sterling Hill Mine, New Jersey, USA
 
 **Locality:**  Sterling Mine, Sterling Hill, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA ([MINDAT](https://www.mindat.org/loc-3948.html))  
 

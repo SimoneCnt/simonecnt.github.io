@@ -1,5 +1,5 @@
 
-### SC312 - Yooper Sodalite from Milwaukee Co., Wisconsin, USA
+### <a name="SC312"></a> SC312 - Yooper Sodalite from Milwaukee Co., Wisconsin, USA
 
 **Locality:** Milwaukee Co., Wisconsin, USA ([MINDAT](https://www.mindat.org/loc-26813.html))  
 **Size:** 4 x 3 x 3 cm  

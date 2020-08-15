@@ -1,5 +1,5 @@
 
-### SC128 - Galena from Sweetwater Mine, Missouri, USA
+### <a name="SC128"></a> SC128 - Galena from Sweetwater Mine, Missouri, USA
 
 **Locality:** Sweetwater Mine, Ellington, Reynolds Co., Missouri, USA  ([MINDAT](https://www.mindat.org/loc-3866.html))  
 **Size:** 4 x 3 x 3.5 cm  

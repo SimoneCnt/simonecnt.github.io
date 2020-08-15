@@ -1,5 +1,5 @@
 
-### SCXXX - MINERAL from LOCALITY
+### <a name="SC"></a> SCXXX - MINERAL from LOCALITY
 
 **Locality:**   ([MINDAT](https://www.mindat.org/loc-.html))  
 **Size:** 4 x 3 x 2 cm  

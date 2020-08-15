@@ -1,5 +1,5 @@
 
-### SC324 - Sørensenite from Kvanefjeld, Greenland
+### <a name="SC324"></a> SC324 - Sørensenite from Kvanefjeld, Greenland
 
 **Locality:** Kvanefjeld, Ilímaussaq complex, Narsaq, Kujalleq, Greenland ([MINDAT](https://www.mindat.org/loc-30754.html))  
 **Size:** 3.5 x 3 x 2 cm  

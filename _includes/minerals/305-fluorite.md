@@ -1,5 +1,5 @@
 
-### SC305 - Fluorite from New Mexico, USA
+### <a name="SC305"></a> SC305 - Fluorite from New Mexico, USA
 
 **Locality:**   Small Fry prospect, El Rito, El Rito District, Rio Arriba Co., New Mexico, USA ([MINDAT](https://www.mindat.org/loc-179959.html))  
 **Size:** 4.5 x 4.5 x 1 cm  

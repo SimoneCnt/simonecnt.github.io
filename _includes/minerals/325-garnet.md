@@ -1,5 +1,5 @@
 
-### SC325 - Raspberry Garnet from Sierra de Cruces, Mexico
+### <a name="SC325"></a> SC325 - Raspberry Garnet from Sierra de Cruces, Mexico
 
 **Locality:** Sierra de Cruces, Sierra Mojada Municipality, Coahuila, Mexico ([MINDAT](https://www.mindat.org/loc-5433.html))  
 **Size:** 2.5 x 2 x 2 cm  

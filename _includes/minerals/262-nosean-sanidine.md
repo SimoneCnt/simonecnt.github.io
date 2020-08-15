@@ -1,5 +1,5 @@
 
-### SC262 - Nosean on Sanidine from In den Dellen quarries, Germany
+### <a name="SC262"></a> SC262 - Nosean on Sanidine from In den Dellen quarries, Germany
 
 **Locality:**  In den Dellen quarries, Mendig, Mayen-Koblenz District, Rhineland-Palatinate, Germany ([MINDAT](https://www.mindat.org/loc-71520.html))  
 **Size:** 6 x 5 x 4 cm  
