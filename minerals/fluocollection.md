@@ -45,6 +45,10 @@ banner: fluominerals
 {% include minerals/311-zircon.md %}
 {% include minerals/312-yooper.md %}
 {% include minerals/313-chalcedony.md %}
+{% include minerals/315-diopside.md %}
+{% include minerals/316-celestine.md %}
+{% include minerals/317-celestine.md %}
+{% include minerals/318-celestine.md %}
 {% include minerals/319-dumortierite.md %}
 {% include minerals/320-dumortierite.md %}
 {% include minerals/325-garnet.md %}

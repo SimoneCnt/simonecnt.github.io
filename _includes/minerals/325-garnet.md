@@ -16,3 +16,13 @@ Raspberry garnet var grossular, also called Rosolite. The main crystal is about
 {% assign MSLabels = "Visible light|405nm blue laser|Longwave UV" | split: "|" %}
 {% include slideshow.html %}
 
+<table width="100%">
+<tr>
+<td width="50%"><img src="/img/spectra/325-garnet-405laser.png" width="100%" ></td>
+<td width="50%" style="padding:10px">
+The fluorescence spectra from a 405nm blue laser shows a broad peak centered at
+about 610nm due to Mn<sup>2+</sup> substituting Ca<sup>2+</sup> (the spike at
+536nm is from the blue laser).
+</td></tr></table>
+<br>
+

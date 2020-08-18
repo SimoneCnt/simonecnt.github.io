@@ -35,5 +35,8 @@
 311,"Zircon","Malawi",16079,3,"254nm Hg",,"311-zircon-254hg"
 312,"Sodalite","Milwaukee Co., Wisconsin, USA",26813,3,"365nm LED","S<sub>2</sub><sup>2-</sup>","312-yooper-365led"
 313,"Chalcedony","Milwaukee Co., Wisconsin, USA",26813,3,"365nm LED","??","313-chalcedony-365led"
+315,"Diopside","Lake Valhalla Quarry, New Jersey, USA",12551,3,"275nm LED","TiO6","315-diopside-275led"
+316,"Celestine","La Grasta mine, Sicily, Italy",55885,3,"275nm LED","Organic","316-celestine-275led"
 320,"Dumortierite","Vaca Morta quarry, Brazil",47117,3,"275nm LED","??","320-dumortierite-275led"
 320,"Unknown","Vaca Morta quarry, Brazil",47117,0,"365nm LED","??","320-unknown-365led"
+325,"Grossular","Sierra de Cruces, Coahuila, Mexico",5433,3,"405nm Laser","Mn<sup>2+</sup>","325-garnet-405laser"
