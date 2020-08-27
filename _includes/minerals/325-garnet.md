@@ -6,6 +6,8 @@
 **Weight:** 14.4 g  
 **minID:** [L70-47Q](https://www.mindat.org/L70-47Q)
 
+See on [Nature's Rainbow](https://www.naturesrainbows.com/single-post/2020/08/19/Raspberry-Garnet-from-Sierra-de-Cruces-Mexico)
+
 Raspberry garnet var grossular, also called Rosolite. The main crystal is about
 10mm in size.  Nice orange fluorescence under long wave UV light, best under
 405nm blue laser (but you need a filter to block the blue light).

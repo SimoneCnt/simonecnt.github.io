@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-08-15
+date: 2020-08-26
 priority: 0.6
 banner: fluominerals
 ---
@@ -47,6 +47,7 @@ banner: fluominerals
 {% include minerals/305-fluorite.md %}
 {% include minerals/306-vanadinite.md %}
 {% include minerals/307-petroleum-quartz.md %}
+{% include minerals/308-benitoite.md %}
 {% include minerals/311-zircon.md %}
 {% include minerals/312-yooper.md %}
 {% include minerals/313-chalcedony.md %}
