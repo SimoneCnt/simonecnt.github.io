@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-08-26
+date: 2020-09-02
 priority: 0.6
 banner: fluominerals
 ---
@@ -12,7 +12,9 @@ banner: fluominerals
 
 {% include minerals/111-uraninite.md %}
 {% include minerals/121-scapolite-canada.md %}
+{% include minerals/122-wollastonite.md %}
 {% include minerals/164-ruby.md %}
+{% include minerals/166-wollastonite.md %}
 {% include minerals/176-bayleyite.md %}
 {% include minerals/186-calcite-ma.md %}
 {% include minerals/195-autunite.md %}

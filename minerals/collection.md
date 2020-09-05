@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-08-26
+date: 2020-09-05
 priority: 0.6
 banner: fluominerals
 ---
@@ -12,10 +12,12 @@ banner: fluominerals
 
 {% include minerals/111-uraninite.md %}
 {% include minerals/121-scapolite-canada.md %}
+{% include minerals/122-wollastonite.md %}
 {% include minerals/126-shattuckite.md %}
 {% include minerals/128-galena.md %}
 {% include minerals/154-hemimorphite.md %}
 {% include minerals/164-ruby.md %}
+{% include minerals/166-wollastonite.md %}
 {% include minerals/176-bayleyite.md %}
 {% include minerals/186-calcite-ma.md %}
 {% include minerals/195-autunite.md %}
@@ -29,6 +31,7 @@ banner: fluominerals
 {% include minerals/284-aragonite-vitosov.md %}
 {% include minerals/285-almandine.md %}
 {% include minerals/286-eureka-fluorite.md %}
+{% include minerals/289-diamond.md %}
 {% include minerals/290-diamond.md %}
 {% include minerals/291-adamite.md %}
 {% include minerals/292-adamite-calcite.md %}
@@ -60,4 +63,6 @@ banner: fluominerals
 {% include minerals/321-dumortierite.md %}
 {% include minerals/322-dumortierite.md %}
 {% include minerals/325-garnet.md %}
+{% include minerals/326-amethyst.md %}
+{% include minerals/327-pumpkin-calcite.md %}
 

@@ -4,6 +4,7 @@
 **Locality:** Balochistan Region, Pakistan ([MINDAT](https://www.mindat.org/loc-16258.html))  
 **Size:** 2 x 1 x 1 cm  
 **Weight:** 2.7 g  
+**minID:** [3GM-QHL](https://www.mindat.org/3GM-QHL)
 
 A nice little quartz crystal, doubly terminated, with lots of yellow oil
 inclusions. Most are small and "solid", one is larger, and contains a moving

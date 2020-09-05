@@ -15,9 +15,9 @@
 
 <table width="100%">
 <tr>
-<td width="50%"><img src="/img/spectra/311-zircon-254hg.png" width="100%" ></td>
+<td width="50%"><img src="/img/spectra/311-zircon-275led.png" width="100%" ></td>
 <td width="50%" style="padding:10px">
-Broad band centered at 590nm. All other lines are due to the mercury lamp.
+Broad band centered at 580nm. Fluorescence under 275nm LED light.
 </td></tr></table>
 <br>
 

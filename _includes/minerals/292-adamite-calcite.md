@@ -4,6 +4,7 @@
 **Locality:**  Ojuela Mine, Mapimí, Mapimí Municipality, Durango, Mexico ([MINDAT](https://www.mindat.org/loc-2318.html))  
 **Size:** 6 x 4 x 3 cm  
 **Weigth:** 77g  
+**minID:** [NNV-T7Q](https://www.mindat.org/NNV-T7Q)
 
 The adamite is greenish under normal light and fluoresces bright green. The calcite is white and fluoresces bluish white.
 

@@ -2,6 +2,9 @@
 ### <a name="SC295"></a> SC295 - Willemite from the Franklin Mine, New Jersey, USA
 
 **Locality:**  Franklin Mine, Franklin, Franklin Mining District, Sussex County, New Jersey, USA ([MINDAT](https://www.mindat.org/loc-8541.html))  
+**Size:** 8 x 4 x 4 cm  
+**Weight:** 145g  
+**minID:** [1E7-XQC](https://www.mindat.org/1E7-XQC)
 
 Green fluorescent willemite with black franklinite and red zincite.
 

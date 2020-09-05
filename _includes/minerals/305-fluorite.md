@@ -3,6 +3,8 @@
 
 **Locality:**   Small Fry prospect, El Rito, El Rito District, Rio Arriba Co., New Mexico, USA ([MINDAT](https://www.mindat.org/loc-179959.html))  
 **Size:** 4.5 x 4.5 x 1 cm  
+**Weight:** 23g  
+**minID:** [TUP-DT8](https://www.mindat.org/TUP-DT8)
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC305fluorite" %}

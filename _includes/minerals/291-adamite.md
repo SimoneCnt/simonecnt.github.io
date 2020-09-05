@@ -4,6 +4,7 @@
 **Locality:**  Ojuela Mine, Mapimí, Mapimí Municipality, Durango, Mexico ([MINDAT](https://www.mindat.org/loc-2318.html))  
 **Size:** 6.5 x 4.5 x 2 cm  
 **Weigth:** 60g  
+**minID:** [YAU-4XH](https://www.mindat.org/YAU-4XH)
 
 Green fluorescent adamite.
 

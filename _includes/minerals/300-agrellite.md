@@ -3,6 +3,7 @@
 
 **Locality:**  Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Témiscamingue RCM, Abitibi-Témiscamingue, Québec, Canada ([MINDAT](https://www.mindat.org/loc-614.html))  
 **Size:** 12 x 5 x 2 cm  
+**minID:** [A26-9F4](https://www.mindat.org/A26-9F4)
 
 Pink fluorescent agrellite from the type locality. White in normal light,
 fluoresces pink under shortwave or middlewave, more orange under longwave, and

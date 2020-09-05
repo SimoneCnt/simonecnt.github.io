@@ -3,6 +3,8 @@
 
 **Locality:**  Nacimiento Mine, San Pablo, Sandoval Co., New Mexico, USA ([MINDAT](https://www.mindat.org/loc-7971.html))  
 **Size:** 5 x 3.5 x 2 cm  
+**Weight:** 50g  
+**minID:** [8JT-PDP](https://www.mindat.org/8JT-PDP)
 
 {% assign MSPath = "/img/minerals/" %}
 {% assign MSName = "SC304septariannodule" %}
