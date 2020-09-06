@@ -10,31 +10,25 @@ priority: 1.0
 
 <img src="/img/boston-2017.jpg" style="float:left;width:30%;margin:10px;">
 
-Hello, my name is Simone.
+<br>
 
-I'm Italian, currently living in Cambridge, Massachusetts, USA. In the past
-I've lived and worked in Italy (in the north, near Milan), and in France (in
-Strasbourg).
+Hello, my name is Simone and this is my website.
 
-I'm a chemist and do research in computational chemistry. I've been affiliated
-with the Università degli Studi di Milano in Italy, the Institut de Science et
-d'Ingénierie Supramoléculaires In Strasbourg, France, and, currently, Harvard
-University in Massachusetts, USA. You can [see my curriculum](/cv/) if you want
-to...
+I am a research associate in the Computational Chemistry and Biophysics group
+of Professor Martin Karplus at Harvard University.  In the past I have been
+affiliated with the Università degli Studi di Milano in Italy, and the Institut
+de Science et d'Ingénierie Supramoléculaires in Strasbourg, France.  More
+details on [my curriculum](/cv/).
 
-My research is focused on computer modeling of molecular systems. I've worked
+My research is focused on computer modeling of molecular systems. I have worked
 on molecular self-assembly and protein-protein interactions. Currently, I study
 how to design vaccines for highly mutable viruses, like HIV and Influenza. You
-can read some details about my [research projects](/research/).
+can read some details about my [research projects](/research/) or look at [my pubblications](/pubblications).
 
-As of today, I've published 10 [research papers](/publications/).
-
-I like programming. During my doctorate I programmed mostly in C, shifting now
-more to Python...
-
-I collect [minerals](/minerals/), in particular fluorescent ones. I wrote an
-[application](/minerals/mineralapp) to catalog my collection. I'm currently
-member of the Boston Mineral Club and the Fluorescent Mineral Society.
+In my free time I collect [minerals](/minerals/), in particular fluorescent
+ones. I wrote [MineralApp](/mineralapp), an application to catalog my
+collection (freely available to anyone).  I am currently member of the Boston
+Mineral Club and the Fluorescent Mineral Society.
 
 I like [Juggling](/stuff/juggling/). I find interesting the siteswaps notation.
 
@@ -51,5 +45,6 @@ whatever...
  - <a href="https://github.com/SimoneCnt" target="_blank" title="GitHub">GitHub</a>
  - <a href="https://twitter.com/SimoneCnt" target="_blank" title="Twitter">Twitter</a>
  - <a href="https://www.goodreads.com/user/show/70370591-simone" target="_blank" title="goodreads">goodreads</a>
+ - <a href="https://www.mindat.org/user-60109.html" target="_blank" title="MINDAT">Mindat</a>
 
 

@@ -3,7 +3,8 @@ layout: default
 title: MineralApp
 date: 2020-05-07
 priority: 0.6
-banner: research
+banner: fluominerals
+redirect_from: /mineralapp/
 ---
 
 {{ page.title }}
