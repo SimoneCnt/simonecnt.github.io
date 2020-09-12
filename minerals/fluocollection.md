@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-09-02
+date: 2020-09-11
 priority: 0.6
 banner: fluominerals
 ---
@@ -54,5 +54,7 @@ banner: fluominerals
 {% include minerals/318-celestine.md %}
 {% include minerals/319-dumortierite.md %}
 {% include minerals/320-dumortierite.md %}
+{% include minerals/324-sorensenite.md %}
 {% include minerals/325-garnet.md %}
+{% include minerals/328-calcite.md %}
 

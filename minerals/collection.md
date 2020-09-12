@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-09-05
+date: 2020-09-11
 priority: 0.6
 banner: fluominerals
 ---
@@ -62,7 +62,9 @@ banner: fluominerals
 {% include minerals/320-dumortierite.md %}
 {% include minerals/321-dumortierite.md %}
 {% include minerals/322-dumortierite.md %}
+{% include minerals/324-sorensenite.md %}
 {% include minerals/325-garnet.md %}
 {% include minerals/326-amethyst.md %}
 {% include minerals/327-pumpkin-calcite.md %}
+{% include minerals/328-calcite.md %}
 
