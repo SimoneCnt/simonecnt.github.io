@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescence Spectra DB
-date: 2020-09-11
+date: 2020-09-19
 priority: 0.6
 banner: fluominerals
 ---
@@ -9,6 +9,40 @@ banner: fluominerals
 {{ page.title }}
 =====
 ---
+
+This is the database of fluorescence spectra I measured for my fluorescent
+minerals.  You can search it by name, by (proposed/assumed) activator, and by
+excitation light.
+
+On the table below, if you click on, you will see:
+ - Name &rarr; Photo and possibly some details about the mineral and the spectra
+ - Locality &rarr; Locality on MINDAT
+ - Spectrum image &rarr; A bigger version of the spectrum
+ - Disk-like icon &rarr; A text file of the spectrum (wavelenght, intensity)
+
+I measure these spectra as a hobby, without professional equipment. So be sure
+that this database contains errors and artifacts.  List of errors and
+artifacts is, but not limited to:
+ - Errors in identification of the minerals
+ - Spurious light leaking from the excitation source
+ - Random noise, in particular in weak fluorescent specimens.
+
+Known artifacts are:
+ - Sharp peaks at 436nm, and >690nm in spectra obtained with a shortwave
+   mercury light (254nm Hg). These are mercury lines that can pass the filter.
+ - Sharp peak at 508nm in spectra obtained with a shortwave mercury light
+   (254nm Hg). This is a resonance line of the 254nm mercury line created by
+   the spectrometer. In some spectra I avoid this line by using an acrylic filter
+   to filter the 254nm line to enter the spectrometer.
+ - Broad peak at ~540nm in spectra obtained with a 275nm LED light. As for the
+   508nm peak before. Resonance of the 275nm peak.
+ - Sharp peak at 536nm in spectra obtained with a 405nm blue laser. I think it
+   is a leaking from my laser... not sure.
+ - The region between 400nm and ~450nm in spectra obtained by a 365nm LED light
+   could be affected by leaking of the filter, in particular when the fluorescence
+   is not strong.
+
+If you find errors, need more details, or are curious to have your mineral analysed, please [let me know](/contact/).
 
 {% capture activators %}
 {% for sp in site.data.flspectra %}
