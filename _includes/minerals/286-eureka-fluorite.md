@@ -13,7 +13,7 @@ weak,but clearly visible. If you know better about this locality [let me know](/
 The field of view in the macro 1 and 2 is about 2 and 1cm, respectively.
 
 {% assign MSPath = "/img/minerals/" %}
-{% assign MSName = "SC238fluorite" %}
+{% assign MSName = "SC286fluorite" %}
 {% assign MSImages = "286-fluorite-01-visible.jpg|286-fluorite-02-365led.jpg|286-fluorite-03-macro1-visible.jpg|286-fluorite-04-macro1-365led.jpg|286-fluorite-05-macro2-visible.jpg|286-fluorite-06-macro2-365led.jpg" | split: "|" %}
 {% assign MSLabels = "Visible light|Longwave UV|Macro 1 (visible)|Macro 1 (LW)|Macro 2 (visible)|Macro 2 (LW)" | split: "|" %}
 {% include slideshow.html %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-09-19
+date: 2020-09-30
 priority: 0.6
 banner: fluominerals
 ---
@@ -16,6 +16,8 @@ banner: fluominerals
 {% include minerals/126-shattuckite.md %}
 {% include minerals/128-galena.md %}
 {% include minerals/154-hemimorphite.md %}
+{% include minerals/162-tremolite.md %}
+{% include minerals/163-hexagonite.md %}
 {% include minerals/164-ruby.md %}
 {% include minerals/166-wollastonite.md %}
 {% include minerals/176-bayleyite.md %}
@@ -27,9 +29,15 @@ banner: fluominerals
 {% include minerals/235-caliche-on-sandstone.md %}
 {% include minerals/236-amber-sumatra.md %}
 {% include minerals/237-sterling-slab.md %}
+{% include minerals/238-fluorite.md %}
+{% include minerals/239-calcite.md %}
+{% include minerals/242-calcite.md %}
+{% include minerals/252-blue-sodalite.md %}
+{% include minerals/253-fuchsia-agate.md %}
 {% include minerals/258-la-sassa-quartz.md %}
 {% include minerals/262-nosean-sanidine.md %}
 {% include minerals/264-amazonite.md %}
+{% include minerals/268-calcite.md %}
 {% include minerals/283-hourglass-gypsum.md %}
 {% include minerals/284-aragonite-vitosov.md %}
 {% include minerals/285-almandine.md %}
