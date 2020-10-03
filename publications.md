@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2020-03-10
+date: 2020-10-03
 layout: default
 banner: stampa
 priority: 0.8
@@ -11,6 +11,7 @@ priority: 0.8
 ---
 
 ## 2020
+ - {% assign ref = "ovchinnikov2020restrained" %} {% reference ref %} [See details.]({{ref}}/)
  - {% assign ref = "ovchinnikov2020microsecond" %} {% reference ref %} [See details.]({{ref}}/)
 
 ## 2019
