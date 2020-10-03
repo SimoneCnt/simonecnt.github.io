@@ -8,3 +8,9 @@
 
 Tiny diamond cube.
 
+{% assign MSPath = "/img/minerals/" %}
+{% assign MSName = "SC289diamond" %}
+{% assign MSImages = "289-diamond-01-visible.jpg" | split: "|" %}
+{% assign MSLabels = "Visible light" | split: "|" %}
+{% include slideshow.html %}
+
