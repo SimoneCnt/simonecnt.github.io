@@ -1,0 +1,61 @@
+"nballs","pattern","prime","excited","difficulty","notes"
+"1","1","y","n","1.00","First siteswap to learn! Start with one ball in your R hand, and pass it quick to your L hand. Repeat! Only note: the passages must be very quick and horizontal, almost downwards directly to the other hand."
+"1","20","y","n","1.25","Even easier than **1**! Just hold one ball in your R hand and do nothing... This pattern is asymmetric, you can start with your ball in your L hand instead!"
+"1","300","y","n","1.50","Useful pattern for your first 2 minutes learning juggling. Take one ball on your R hand and pass it to the L hand with a high pass. The pass should pass in front of your eyes. When it land on your L, throw it again to your R and continue. You see the pattern has **00** after the **3**. This means you have time to do something while the ball is in the air. You can try to clap your hands, so to have something like: throw, clap, catch, throw, clap, catch, ..."
+"2","31","y","y","2.25","The 2 balls shower. While not formally juggling, this is the first pattern everyone can juggle when trying to learn. The only note, learn to make a nice **1** keeping your hands at a good distance and throwing the **1** very horizontally, almost downwards. Will help in the future!"
+"2","312","n","n","2.17","Asymmetric version of the two balls shower, or a two balls shower which changes direction continuously. The **3** is always the same ball. A kind of very simple ping-pong. Start 1L 1R; after each **312** you return to have 1L 1R."
+"2","41401","n","y","2.70",
+"2","602040","y","y","2.75","Two in one hand. Low-high-wait-low-high-wait. Probably better to learn **40** before.."
+"2","40","y","y","3.00","Play two balls in one hand. Practice both L and R. First step to learn four balls!"
+"2","501","y","y","3.17","Start with both balls in the same hand and throw a high **5** followed by a quick **1**, and repeat. You need to be very quick, not super easy!"
+"3","3","y","n","3.00","The 3 balls cascade and all its many variations."
+"3","42","y","y","3.25","Hold one ball in one hand (the **2**), and in the other play the other two in a fountain. You can use this as base for a lot of tricks, like moving the ball doing the **2** back and forth, chasing the other balls or “playing” with them."
+"3","423","n","y","3.17","Half shower box. One ball hops back and forth (the **3**), while the other two hops up and down one in the R and one in the L. The three balls do not mix. Try to make the **4** external."
+"3","51","y","y","4.00","The 3 balls shower."
+"3","441","y","y","3.50","A nice pattern. Useful to improve your **1**. See also **4413** and **44133**"
+"3","4413","n","n","3.38","An asymmetric version of **441**. Just add a three at the end."
+"3","44133","n","y","3.30","A slower version of **441**. It’s asymmetric."
+"3","522","y","y","3.50","It’s essentially **3**, but throw higher and keep the other 2 balls in your hands. A slowed down cascade, not much interesting."
+"3","531","y","y","3.67","A tricky pattern. Think of it as a **5** followed by a quick **31** swap of the other two balls. Keep the **3** low!"
+"3","5313","n","y","3.50","Asymmetric version of **531**."
+"3","450","y","y","4.17","The rhythm of this pattern is strange... ""A complete waste of a 5-balls juggler"". You can start with two balls in the R and one in the L; throw L first. To enter while doing **3** just throw a 4: ...3334{450}233.. Do the 5 much higher that the 4."
+"3","4440","y","n","3.75","Three out of a 4 fountain. Very easy if you can play **4**."
+"3","4530","y","y","3.88","One hand does the 4 (always the same ball) while the other 3 balls exchange hands with the 53."
+"3","5241","y","y","3.62","One hand does the 4 (always the same ball) while the other 3 balls exchange hands with the 15. Very similar to **4530**."
+"3","4512","n","y","3.62",
+"3","45125241","n","y","3.62","Concatenate **4512** and **5241**."
+"3","5340","y","y","3.88",
+"3","5511","y","y","4.00",
+"3","5520","y","y","4.12",
+"3","52512","n","n","3.70","The baby-juggling. Two balls are doing *55*, and the third *122*. Not a hard pattern."
+"3","45141","n","n","3.70","5 is always the same ball, the other two do **41401**. I like this pattern!"
+"3","45501","y","n","4.10","Nice pattern, not too hard."
+"3","52440","y","n","3.80",
+"3","6231","y","y","3.88",
+"3","52530","y","n","3.90",
+"3","53502","y","n","3.90",
+"3","55140","y","n","4.10",
+"3","51612","n","y","4.10","Concatenate **51** and **612**: L **51**, **612** box, R **51**, **612** box, etc. Similar to **45141** (aka **51414**). "
+"3","612","y","y","6.17",
+"3","55500","y","n","4.50","3-balls flash (3 out of 5). Can replace the **00** with a clap or a pirouette."
+"3","55050","y","y","4.50","3-balls snake (3 out of 5). Take all three balls in one hand and throw them to the other. Throw the last before catching the first. Repeat. Useful to learn **5** balls. (aka **50505**)"
+"3","455040","y","y","4.17",
+"3","525501","y","y","4.08",
+"3","551502","y","y","4.08",
+"3","5255040","y","y","4.14",
+"3","5350530","y","y","4.07",
+"3","55150530","y","y","4.19",
+"3","72312","y","y","4.10",
+"4","53","y","y","4.25","The 4-balls half-shower. Keep it asynchronous!"
+"4","5551","y","y","4.75","Nice  asymmetric pattern. You can play it in the middle of the **4** fountain like flashing 4."
+"4","55514","n","n","4.60","Similar to **5551** but symmetric. The same ball is doing the **14** continuously, while the other three are doing the **555**."
+"4","642","y","y","4.67","High-low-wait-high-low-wait. Balls do not mix, L stay L, and R stay R."
+"4","662244","n","n","5.67","Very similar to **642** but two hands do the same throw each time: low-low-high-high-wait-wait."
+"4","56414","n","y","4.70",
+"4","7531","y","y","5.25",
+"4","85241","y","y","5.50",
+"5","771","y","y","7.00",
+"5","7562","y","y","5.88",
+"5","66661","y","y","6.00",
+"5","75751","y","y","6.20",
+"5","95551","y","y","6.60",
