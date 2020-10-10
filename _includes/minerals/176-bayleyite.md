@@ -4,6 +4,7 @@
 **Locality:** Hideout Mine, Deer Flat, White Canyon, San Juan Co., Utah, USA ([MINDAT](https://www.mindat.org/loc-35984.html))  
 **Size:** 5 x 3 x 1 cm  
 **Weight:** 4 g  
+**minID:** [7J2-KFP](https://www.mindat.org/7J2-KFP)
 
 Bright green fluorescent under all wavelengths. Under short wave UV  it is has
 a uniform green/blue color, while under long wave and 405nm laser there is a

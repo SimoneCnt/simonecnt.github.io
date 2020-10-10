@@ -4,6 +4,7 @@
 **Locality:** La Sassa, Montecatini Val di Cecina, Pisa Province, Tuscany, Italy ([MINDAT](https://www.mindat.org/loc-107392.html))  
 **Size:** 7 x 5 x 5 cm   
 **Weight:** 140g  
+**minID:** [XW4-7QC](https://www.mindat.org/XW4-7QC)
 
 Quartz is rarely fluorescent. Quartz from La Sassa in Tuscany, Italy is one of the most notable exceptions.
 

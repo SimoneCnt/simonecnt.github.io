@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-09-30
+date: 2020-10-09
 priority: 0.6
 banner: fluominerals
 ---
@@ -15,6 +15,8 @@ banner: fluominerals
 {% include minerals/122-wollastonite.md %}
 {% include minerals/126-shattuckite.md %}
 {% include minerals/128-galena.md %}
+{% include minerals/129-wollastonite.md %}
+{% include minerals/130-wollastonite.md %}
 {% include minerals/154-hemimorphite.md %}
 {% include minerals/162-tremolite.md %}
 {% include minerals/163-hexagonite.md %}
@@ -65,6 +67,7 @@ banner: fluominerals
 {% include minerals/311-zircon.md %}
 {% include minerals/312-yooper.md %}
 {% include minerals/313-chalcedony.md %}
+{% include minerals/314-tugtupite.md %}
 {% include minerals/315-diopside.md %}
 {% include minerals/316-celestine.md %}
 {% include minerals/317-celestine.md %}
@@ -79,4 +82,5 @@ banner: fluominerals
 {% include minerals/326-amethyst.md %}
 {% include minerals/327-pumpkin-calcite.md %}
 {% include minerals/328-calcite.md %}
+{% include minerals/330-tugtupite-sorensenite.md %}
 

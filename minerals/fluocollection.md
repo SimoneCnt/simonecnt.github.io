@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescent Minerals Collection
-date: 2020-09-30
+date: 2020-10-09
 priority: 0.6
 banner: fluominerals
 ---
@@ -57,6 +57,7 @@ banner: fluominerals
 {% include minerals/311-zircon.md %}
 {% include minerals/312-yooper.md %}
 {% include minerals/313-chalcedony.md %}
+{% include minerals/314-tugtupite.md %}
 {% include minerals/315-diopside.md %}
 {% include minerals/316-celestine.md %}
 {% include minerals/317-celestine.md %}
@@ -67,4 +68,5 @@ banner: fluominerals
 {% include minerals/324-sorensenite.md %}
 {% include minerals/325-garnet.md %}
 {% include minerals/328-calcite.md %}
+{% include minerals/330-tugtupite-sorensenite.md %}
 
