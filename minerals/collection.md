@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-10-09
+date: 2020-10-10
 priority: 0.6
 banner: fluominerals
 ---
@@ -83,4 +83,5 @@ banner: fluominerals
 {% include minerals/327-pumpkin-calcite.md %}
 {% include minerals/328-calcite.md %}
 {% include minerals/330-tugtupite-sorensenite.md %}
+{% include minerals/331-carpathite.md %}
 

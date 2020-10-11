@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescence Spectra DB
-date: 2020-09-30
+date: 2020-10-10
 priority: 0.6
 banner: fluominerals
 ---
