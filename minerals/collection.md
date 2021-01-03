@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral Collection
-date: 2020-11-25
+date: 2021-01-02
 priority: 0.6
 banner: fluominerals
 ---
@@ -10,83 +10,77 @@ banner: fluominerals
 =====
 ---
 
-{% include minerals/111-uraninite.md %}
-{% include minerals/118-halite.md %}
-{% include minerals/121-scapolite-canada.md %}
-{% include minerals/122-wollastonite.md %}
-{% include minerals/126-shattuckite.md %}
-{% include minerals/128-galena.md %}
-{% include minerals/129-wollastonite.md %}
-{% include minerals/130-wollastonite.md %}
-{% include minerals/153-fluorite.md %}
-{% include minerals/154-hemimorphite.md %}
-{% include minerals/162-tremolite.md %}
-{% include minerals/163-hexagonite.md %}
-{% include minerals/164-ruby.md %}
-{% include minerals/166-wollastonite.md %}
-{% include minerals/176-bayleyite.md %}
-{% include minerals/186-calcite-ma.md %}
-{% include minerals/195-autunite.md %}
-{% include minerals/231-calcite.md %}
-{% include minerals/232-calcite.md %}
-{% include minerals/233-calcite.md %}
-{% include minerals/235-caliche-on-sandstone.md %}
-{% include minerals/236-amber-sumatra.md %}
-{% include minerals/237-sterling-slab.md %}
-{% include minerals/238-fluorite.md %}
-{% include minerals/239-calcite.md %}
-{% include minerals/242-calcite.md %}
-{% include minerals/252-blue-sodalite.md %}
-{% include minerals/253-fuchsia-agate.md %}
-{% include minerals/257-sphalerite.md %}
-{% include minerals/258-la-sassa-quartz.md %}
-{% include minerals/262-nosean-sanidine.md %}
-{% include minerals/264-amazonite.md %}
-{% include minerals/268-calcite.md %}
-{% include minerals/283-hourglass-gypsum.md %}
-{% include minerals/284-aragonite-vitosov.md %}
-{% include minerals/285-almandine.md %}
-{% include minerals/286-eureka-fluorite.md %}
-{% include minerals/289-diamond.md %}
-{% include minerals/290-diamond.md %}
-{% include minerals/291-adamite.md %}
-{% include minerals/292-adamite-calcite.md %}
-{% include minerals/293-esperite.md %}
-{% include minerals/294-calcozincite.md %}
-{% include minerals/295-willemite.md %}
-{% include minerals/296-willemite.md %}
-{% include minerals/297-willemite.md %}
-{% include minerals/298-willemite.md %}
-{% include minerals/299-clinohedrite.md %}
-{% include minerals/300-agrellite.md %}
-{% include minerals/301-tremolite.md %}
-{% include minerals/302-fluorite-cerrusite.md %}
-{% include minerals/303-chalcedony.md %}
-{% include minerals/304-septarian-nodule.md %}
-{% include minerals/305-fluorite.md %}
-{% include minerals/306-vanadinite.md %}
-{% include minerals/307-petroleum-quartz.md %}
-{% include minerals/308-benitoite.md %}
-{% include minerals/311-zircon.md %}
-{% include minerals/312-yooper.md %}
-{% include minerals/313-chalcedony.md %}
-{% include minerals/314-tugtupite.md %}
-{% include minerals/315-diopside.md %}
-{% include minerals/316-celestine.md %}
-{% include minerals/317-celestine.md %}
-{% include minerals/318-celestine.md %}
-{% include minerals/319-dumortierite.md %}
-{% include minerals/320-dumortierite.md %}
-{% include minerals/321-dumortierite.md %}
-{% include minerals/322-dumortierite.md %}
-{% include minerals/323-sodalite.md %}
-{% include minerals/324-sorensenite.md %}
-{% include minerals/325-garnet.md %}
-{% include minerals/326-amethyst.md %}
-{% include minerals/327-pumpkin-calcite.md %}
-{% include minerals/328-calcite.md %}
-{% include minerals/330-tugtupite-sorensenite.md %}
-{% include minerals/331-carpathite.md %}
-{% include minerals/334-talc.md %}
-{% include minerals/335-tremolite.md %}
+<label for='FS_name'>Mineral name:</label>
+<input type='text' class='FS_input' id='FS_name' onkeyup='FS_filter()' placeholder='Search for names..' title='Type in a name'>
+<label for='FS_loco'>Locality:</label>
+<input type='text' class='FS_input' id='FS_loco' onkeyup='FS_filter()' placeholder='Search for locality...' title='Type in a locality'>
+<br>
+<input type="checkbox" id="FS_fluo" name="FS_fluo" value="fluo" onclick='FS_filter()'>
+<label for="FS_fluo">Fluorescent only!</label><br>
+<input type="checkbox" id="FS_nonf" name="FS_nonf" value="nonf" onclick='FS_filter()'>
+<label for="FS_nonf">Not-fluorescent only</label><br>
+
+<table id="min_collection_table">
+{% assign sminerals = site.minerals | sort: 'name' %}
+{% for mineral in sminerals %}
+{% if mineral.deaccessioned != true %}
+<tr>
+<td width="25%">
+<img src="/img/minerals/{{ mineral.figure }}">
+</td>
+<td width="75%">
+<h2><span class='min_collection_name'>{{ mineral.name }}</span></h2>
+{% if mineral.locality %}<b>Locality:</b> <span class='min_collection_locality'>{{ mineral.locality }}</span> <a href="https://www.mindat.org/loc-{{ mineral.locid}}.html" target="_blank">(MINDAT)</a><br>{% endif %}
+{% if mineral.size %}<b>Size:</b> {{ mineral.size }}<br>{% endif %}
+{% if mineral.weight %}<b>Weight:</b> {{ mineral.weight }}<br>  {% endif %}
+{% if mineral.minid %}<b>minID:</b> <a href="https://www.mindat.org/{{ mineral.minid }}" target="_blank">{{ mineral.minid }}</a><br>{% endif %}
+<a href="{{ mineral.url }}">See more details</a>
+{% if mineral.is_fluorescent %}<span class='min_collection_fluorescent' style='display:none'>fluorescent!</span>{% endif %}
+</td>
+</tr>
+{% endif %}
+{% endfor %}
+</table>
+
+<br>
+
+<script>
+function FS_filter() {
+  var table, tr, i;
+  var filter_name, td_name, txt_name;
+  var filter_loco, td_loco, txt_loco;
+  var filter_fluo, td_fluo;
+  var filter_nonf;
+  var test;
+  filter_name = document.getElementById("FS_name").value.toUpperCase();
+  filter_loco = document.getElementById("FS_loco").value.toUpperCase();
+  filter_fluo = document.getElementById("FS_fluo").checked;
+  filter_nonf = document.getElementById("FS_nonf").checked;
+  table = document.getElementById("min_collection_table");
+  tr = table.getElementsByTagName("tr");
+  for (i=0; i<tr.length; i++) {
+    td_name = tr[i].getElementsByClassName("min_collection_name")[0];
+    txt_name = td_name.textContent || td_name.innerText;
+    td_loco = tr[i].getElementsByClassName("min_collection_locality")[0];
+    td_fluo = tr[i].getElementsByClassName("min_collection_fluorescent")[0];
+    if (td_loco) {
+      txt_loco = td_loco.textContent || td_loco.innerText;
+    } else {
+      txt_loco = "";
+    }
+    test = true;
+    if (filter_name) test = test && txt_name.toUpperCase().indexOf(filter_name)>-1;
+    if (filter_loco) test = test && txt_loco.toUpperCase().indexOf(filter_loco) > -1;
+    if (filter_fluo) test = test && td_fluo;
+    if (filter_nonf) test = test && !td_fluo;
+    if (test) {
+      tr[i].style.display = "";
+    } else {
+      tr[i].style.display = "none";
+    }
+  }
+}
+
+</script>
+
 

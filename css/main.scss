@@ -170,6 +170,29 @@ main {
 
 }
 
+#min_collection_table {
+    border-spacing: 0 1.5em;
+    td {
+        padding: 0 1em;
+        vertical-align:top;
+    }
+    td:first-child {
+        padding: 0 0em;
+        vertical-align:middle;
+    }
+    h2 {
+        margin-top: 0;
+    }
+    img {
+        width: 100%;
+        transition:transform 0.25s ease;
+    }
+    img:hover {
+        -webkit-transform:scale(3);
+        transform:scale(3);
+    }
+}
+
 aside {
 
     float: right;

@@ -33,3 +33,8 @@ plugins:
 redirect_from:
   json: false
 
+collections:
+  minerals:
+    output: true
+    permalink: /:collection/collection/:name
+

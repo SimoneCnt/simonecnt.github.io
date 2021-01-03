@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescence Spectra DB
-date: 2020-11-22
+date: 2021-01-02
 priority: 0.6
 banner: fluominerals
 ---
@@ -81,7 +81,7 @@ If you find errors, need more details, or are curious to have your mineral analy
   </tr>
 {% for sp in site.data.flspectra %}
   <tr>
-    <td><a href="/minerals/collection/#SC{{ sp.minid }}" target="_blank" title="See mineral info">{{ sp.mineral }} (#{{ sp.minid }})</a></td>
+    <td><a href="/minerals/collection/{{ sp.minid }}" title="See mineral info">{{ sp.mineral }} (#{{ sp.minid }})</a></td>
     {% if sp.locid %}
     <td><a href="https://www.mindat.org/loc-{{ sp.locid }}.html" target="_blank" title="Open locality on MINDAT">{{ sp.locality }}</a></td>
     {% else %}
