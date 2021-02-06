@@ -109,7 +109,7 @@ file in the `msw` directory for compiling MineralApp in Visual Studio.
 On Ubuntu 20.04 this should work:
 
 ```bash
-sudo apt-get install git make g++ libsqlite3-dev libwxgtk3.0-gtk3-dev
+sudo apt-get install git make g++ libsqlite3-dev libwxgtk3.0-gtk3-dev libjpeg-turbo8-dev libpng-dev
 git clone https://github.com/SimoneCnt/MineralApp.git mineralapp
 cd mineralapp
 make
