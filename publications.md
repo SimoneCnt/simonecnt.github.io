@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2020-10-03
+date: 2021-02-26
 layout: default
 banner: stampa
 priority: 0.8
@@ -9,6 +9,13 @@ priority: 0.8
 {{ page.title }}
 ================
 ---
+
+## In preparation / Submitted / In press
+ - {% assign ref = "conti2021computational" %} {% reference ref %}
+ - {% assign ref = "sprenger2021multiscale" %} {% reference ref %}
+
+## 2021
+ - {% assign ref = "conti2021design" %} {% reference ref %} [See details.]({{ref}}/)
 
 ## 2020
  - {% assign ref = "ovchinnikov2020restrained" %} {% reference ref %} [See details.]({{ref}}/)
