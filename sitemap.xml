@@ -13,16 +13,16 @@
   
   
   <url>
-    <loc>https://3dz2.com/cv/</loc>
+    <loc>https://3dz2.com/contact/</loc>
     <priority>0.8</priority>
-    
+    <lastmod>2020-04-18</lastmod>
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/contact/</loc>
+    <loc>https://3dz2.com/cv/</loc>
     <priority>0.8</priority>
-    <lastmod>2020-04-18</lastmod>
+    
   </url>
   
   
@@ -36,7 +36,7 @@
   <url>
     <loc>https://3dz2.com/publications/</loc>
     <priority>0.8</priority>
-    <lastmod>2020-10-03</lastmod>
+    <lastmod>2021-02-26</lastmod>
   </url>
   
   
@@ -84,6 +84,27 @@
   
   <url>
     <loc>https://3dz2.com/publications/ovchinnikov2020restrained/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/conti2021design/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/sprenger2021multiscale/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/conti2021computational/</loc>
     <priority>0.6</priority>
     
   </url>
