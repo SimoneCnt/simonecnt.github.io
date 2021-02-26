@@ -1,0 +1,36 @@
+
+<title>{{ page.title }}</title>
+
+<meta charset="UTF-8">
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+{% endif %}
+<meta name="author" content="Simone Conti">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:title" content="{{ page.title }}">
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description }}">
+{% endif %}
+{% if page.image %}
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% endif %}
+<meta name="twitter:site" content="@simonecnt">
+<meta name="twitter:creator" content="@simonecnt">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{% if page.image %}
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% endif %}
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+{% endif %}
+<meta property="og:locale" content="en_US" />
+
