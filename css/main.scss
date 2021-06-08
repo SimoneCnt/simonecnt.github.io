@@ -90,6 +90,12 @@ main {
         p, ul, ol {
             margin: 1em 0em;
         }
+
+        table {
+            p, ul, ol {
+                margin: 0;
+            }
+        }
     
         figure.graphabstract {
             width: 50%;
