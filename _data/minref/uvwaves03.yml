@@ -1,0 +1,66 @@
+
+# UV Waves vol 3 num 1 1973
+
+- journal: "UV Waves"
+  year: 1973
+  volume: 3
+  number: 1
+  pages: "1-6"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1973
+  volume: 3
+  number: 1
+  pages: "S1"
+  title: "Fluorescent minerals information sheet #5 - Eucryptite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Eucryptite]
+
+
+# UV Waves vol 3 num 2 1973
+
+- journal: "UV Waves"
+  year: 1973
+  volume: 3
+  number: 2
+  pages: "1-2"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1973
+  volume: 3
+  number: 2
+  pages: "2"
+  title: "Fluorescent minerals information sheet #6 - Smithsonite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Smithsonite]
+
+
+# UV Waves vol 3 num 3 1973
+
+- journal: "UV Waves"
+  year: 1973
+  volume: 3
+  number: 3
+  pages: "1-4"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1973
+  volume: 3
+  number: 3
+  pages: "4"
+  title: "Fluorescent minerals information sheet #7 - Hydrozincite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Hydrozincite]
+

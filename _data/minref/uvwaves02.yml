@@ -1,0 +1,75 @@
+
+# UV Waves vol 2 num 1 1972
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 1
+  pages: "1-5"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 1
+  pages: "3-4"
+  title: "'Doing my thing' or 'A mineral lecture'"
+  authors:
+      - {id: 0, name: "Nevin Yeakel"}
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 1
+  pages: "S1"
+  title: "Fluorescent minerals information sheet #2 - Powellite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Powellite]
+
+
+# UV Waves vol 2 num 2 1972
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 2
+  pages: "1"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 2
+  pages: "1"
+  title: "Fluorescent minerals information sheet #3 - Wollastonite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Wollastonite]
+
+
+# UV Waves vol 2 num 3 1972
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 3
+  pages: "1-5"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1972
+  volume: 2
+  number: 3
+  pages: "S1"
+  title: "Fluorescent minerals information sheet #4 - Cerussite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Cerussite]
+

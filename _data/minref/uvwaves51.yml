@@ -1,0 +1,192 @@
+
+# UV Waves vol 51 num 1 (January-February 2021)
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 1
+  pages: "1-4"
+  title: "From the editor - Boo!"
+  authors:
+      - {id: 1164, name: "Howard Green"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 1
+  pages: "4-6"
+  title: "Santa Eulalia Smithsonite"
+  authors:
+      - {id: 1936, name: "John Rofrano"}
+  minerals: [Smithsonite]
+  localities:
+      - {id: 8958, name: "Buena Tierra Mine, Santa Eulalia Mining District, Chihuahua, Mexico"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 1
+  pages: "7-10"
+  title: "Yellow fluorescent chalcedony from Wisconsin - A new location?"
+  authors:
+      - {id: 1869, name: "Michael Crawford"}
+  minerals: [Chalcedony, Quartz]
+  localities:
+      - {id: 26813, name: "Milwaukee Co., Wisconsin, USA"}
+      - {id: 107392, name: "La Sassa, Montecatini Val di Cecina, Pisa Province, Tuscany, Italy"}
+      - {id: 0, name: "Manhattan Mine, Napa Co., California, USA"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 1
+  pages: "10-12"
+  title: "Constructing the visual world"
+  authors:
+      - {id: 774, name: "Robert Fendrich"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 1
+  pages: "13-14"
+  title: "FMS southwest chapter field trip report - the Nelly James mine"
+  authors:
+      - {id: 2019, name: "Bruce Bannon"}
+  localities:
+      - {id: 22750, name: "Nelly James Mine, Miller Canyon, Cochise County, Arizona, USA"}
+
+
+# UV Waves vol 51 num 2 (March - April 2021)
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 2
+  pages: "1-5"
+  title: "From the editor - To a mouse"
+  authors:
+      - {id: 1164, name: "Howard Green"}
+  minerals: [Tugtupite, Sodalite, Hackmanite, Chkalovite, Polylithionite, Fluorite]
+  localities:
+      - {id: 4302, name: "Ilímaussaq complex, Kujalleq, Greenland"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 2
+  pages: "5-12"
+  title: "Radiaton alteraton of sodalite from Sar-e-Sang, Badakhshan, Afghanistan"
+  authors:
+      - {id: 1869, name: "Michael Crawford"}
+  minerals: [Sodalite, Hackmanite]
+  localities:
+      - {id: 227629, name: "Sar-e-Sang, Koksha Valley, Badakhshan, Afghanistan"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 2
+  pages: "13-15"
+  title: "Solarization and cost analysis of the HOYA Optics UL254L SW filters vs. the U-325C filters"
+  authors:
+        - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 2
+  pages: "16-18"
+  title: "Chapter Report: The NERF Chapter collaborates with the Liberty Science Center's fluorescent mineral display"
+  authors:
+        - {id: 0, name: "Deepesh Dhingra"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 2
+  pages: "18"
+  title: "Sustaining member: Polman Minerals"
+  authors:
+        - {id: 520, name: "George V. Polman"}
+
+
+# UV Waves vol 51 num 3 (June - July 2021)
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 3
+  pages: "1-5"
+  title: "Feature Article - Sushi Tug Saga"
+  authors:
+      - {id: 545, name: "Herb Yeates"}
+  minerals: [Tugtupite]
+  localities:
+      - {id: 4302, name: "Ilímaussaq complex, Kujalleq, Greenland"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 3
+  pages: "6-9"
+  title: "Fromthe Editor - All Good Things"
+  authors:
+      - {id: 1164, name: "Howard Green"}
+  minerals: [Tugtupite]
+  localities:
+      - {id: 4302, name: "Ilímaussaq complex, Kujalleq, Greenland"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 3
+  pages: "10-11"
+  title: "Collecting: An Urge That's Hard to Resist"
+  authors:
+      - {id: 0, name: "Shirley M. Mueller"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 3
+  pages: "12-14"
+  title: "The sledge hammer and the penny: searching from tugtupite in Greenland"
+  authors:
+      - {id: 1723, name: "Pat Hintz"}
+  minerals: [Tugtupite]
+  localities:
+      - {id: 4302, name: "Ilímaussaq complex, Kujalleq, Greenland"}
+
+
+# UV Waves vol 51 num 3 Supplement 1 (August 2021)
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: "3 Supplement 1"
+  pages: "1-15"
+  title: "Silver Foxes of Fluorescence"
+  authors:
+      - {id: 1904, name: "Conrad North"}
+  minerals: [Fluorite, Cerussite, Caliche, Opal, Barite, Calcite]
+  localities:
+      - {id: 3993, name: "Blanchard Mine, Bingham, Socorro Co., New Mexico, USA"}
+      - {id: 10573, name: "Desert Rose Mine, Bingham, Socorro Co., New Mexico, USA"}
+      - {id: 33392, name: "Nitt Shaft, Magdalena Mining District, Socorro Co., New Mexico, USA"}
+      - {id: 6766, name: "Graphic Mine, Magdalena Mining District, Socorro Co., New Mexico, USA"}
+      - {id: 3986, name: "Kelly Mine, Magdalena Mining District, Socorro Co., New Mexico, USA"}
+      - {id: 35399, name: "Chupadera Mine, Chupadero Mining District, Socorro Co., New Mexico, USA"}
+
+- journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: "3 Supplement 1"
+  pages: "16-17"
+  title: "Planning the Socorro, NM Fluorescent Mineral Trip"
+  authors:
+      - {id: 2064, name: "Brian Walko"}
+  localities:
+      - {id: 3992, name: "Socorro Co., New Mexico, USA"}
+ 
+

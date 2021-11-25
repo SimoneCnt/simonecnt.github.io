@@ -1,0 +1,162 @@
+
+# UV Waves vol 5 num 1 1975
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 1
+  pages: "1-5"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 1
+  pages: "6"
+  title: "Fluorescent minerals information sheet #11 - Autunite"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+  minerals: [Autunite]
+
+
+# UV Waves vol 5 num 2 1975
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 2
+  pages: "1-5"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 2
+  pages: "6"
+  title: "Fluorescent minerals information sheet #12 - Fluorite"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+  minerals: [Fluorite]
+
+
+# UV Waves vol 5 num 3 1975
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 3
+  pages: "1-3"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 0, name: "Ted Rutherford"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 3
+  pages: "3-4"
+  title: "Fluorescent minerals information sheet #13 - Willemite"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+  minerals: [Willemite]
+
+
+# UV Waves vol 5 num 4 1975
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 4
+  pages: "1-4"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 0, name: "Ted Rutherford"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 4
+  pages: "4"
+  title: "Fluorescent minerals information sheet #14 - Esperite"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+  minerals: [Esperite]
+
+
+# UV Waves vol 5 num 5 1975
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 5
+  pages: "1-4"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 0, name: "Ted Rutherford"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 5
+  pages: "4"
+  title: "Fluorescent minerals information sheet #15 - Margarosanite"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+  minerals: [Margarosanite]
+
+
+# UV Waves vol 5 num 5 1975
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 6
+  pages: "1"
+  title: "President's Column"
+  authors:
+      - {id: 0, name: "Ted Rutherford"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 6
+  pages: "2"
+  title: "Mone news on the 1976 California Federation show"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 6
+  pages: "2-3"
+  title: "Letterd from members"
+  authors:
+      - {id: 0, name: "Dennis H. Hammond"}
+      - {id: 0, name: "Ian Turnbull"}
+      - {id: 0, name: "Tom Warren"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 6
+  pages: "4"
+  title: "More notes on Tugtupite"
+  authors:
+      - {id: 0, name: "Ian Turnbull"}
+
+- journal: "UV Waves"
+  year: 1975
+  volume: 5
+  number: 6
+  pages: "5"
+  title: "Fluorescent minerals information sheet #16 - Scheelite"
+  authors:
+      - {id: 0, name: "Clarence Chittenden"}
+  minerals: [Scheelite]
+
+

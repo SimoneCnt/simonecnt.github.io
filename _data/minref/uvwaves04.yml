@@ -1,0 +1,96 @@
+
+# UV Waves vol 4 num 1 1974
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 1
+  pages: "1-10"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 1
+  pages: "4"
+  title: "Fluorescent minerals information sheet #8 - Sphalerite"
+  authors:
+      - {id: 0, name: "Stan Foster"}
+  minerals: [Sphalerite]
+
+
+# UV Waves vol 4 num 2 1974
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 2
+  pages: "1-4"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+
+# UV Waves vol 4 num 3 1974
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 3
+  pages: "1-5"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 3
+  pages: "2-3"
+  title: "Featured Collectors: Introductionto Clarence and Jessie Chittenden"
+  authors:
+      - {id: 171, name: "Clarence Chittenden"}
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 3
+  pages: "3"
+  title: "Fluorescence Mineral Study Group"
+  authors:
+      - {id: 171, name: "Clarence Chittenden"}
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 3
+  pages: "4"
+  title: "Fluorescent minerals information sheet #9 - Manganapatite"
+  authors:
+      - {id: 175, name: "William N. Childers"}
+  minerals: [Manganapatite]
+
+
+# UV Waves vol 4 num 4 1974
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 4
+  pages: "1-6"
+  title: "Newsletter of the Fluorescent Mineral Society"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "UV Waves"
+  year: 1974
+  volume: 4
+  number: 4
+  pages: "3"
+  title: "Fluorescent minerals information sheet #10 - Corundum"
+  authors:
+      - {id: 175, name: "William N. Childers"}
+  minerals: [Corundum, Ruby]
+

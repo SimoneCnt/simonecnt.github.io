@@ -1,0 +1,141 @@
+
+# Volume 32 - 2012
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2012
+  volume: 32
+  number: 0
+  pages: "5-14"
+  title: "Investigation of the causes on luminescence in Terlingua-type (TT) calcite: a case forrare earth activation coupled with electronic defects"
+  authors:
+      - {id: 665, name: "Glenn A. Waychunas"}
+  minerals: [Calcite]
+  localities:
+      - {id: , name: ""}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2012
+  volume: 32
+  number: 0
+  pages: "15-37"
+  title: "A preliminary report: the glowing quartz from La Sassa, Tuscany, Italy"
+  authors:
+      - {id: 1845, name: "Antonello Dallegno"}
+      - {id: 1791, name: "Guido Mazzoleni"}
+  minerals: [Quartz]
+  localities:
+      - {id: 107392, name: "La Sassa, Montecatini Val di Cecina, Pisa Province, Tuscany, Italy"}
+
+
+# Volume 36 - 2017-2018
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: "2017-2018"
+  volume: 36
+  number: 0
+  pages: "2-11"
+  title: "Photographing fluorescence in 405nm laser light"
+  authors:
+      - {id: 0, name: "Axel Emmermann"}
+  minerals: []
+  localities:
+      - {id: , name: ""}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: "2017-2018"
+  volume: 36
+  number: 0
+  pages: "12-19"
+  title: "Hourglass gypsum: historical context and current perspectives"
+  authors:
+      - {id: 0, name: "Jordan D. Marché II"}
+  minerals: [Gypsum]
+  localities:
+      - {id: , name: ""}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: "2017-2018"
+  volume: 36
+  number: 0
+  pages: "20-22"
+  title: "The Fluorescence Mineral Society hall of fame"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: "2017-2018"
+  volume: 36
+  number: 0
+  pages: "23-40"
+  title: "Tugtupite from the Illimaussaq Complex, Greenland: a photo essay"
+  authors:
+      - {id: 1164, name: "Howard Green"}
+  minerals: [Tugtupite]
+  localities:
+      - {id: , name: ""}
+
+
+# Volume 37 - 2019
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2019
+  volume: 37
+  number: 0
+  pages: "2-22"
+  title: "Fluorescent minerals of Cave-in-Rock, Illinois"
+  authors:
+      - {id: 2011, name: "Christopher Clemens"}
+  minerals: [Alstonite, Barite, Benstonite, Calcite, Celestine, Fluorite, Hydrozincite, Paralstonite, Sphalerite, Stronzianite, Witherite]
+  localities:
+      - {id: 3754, name: "Minerva No. 1 Mine, Cave-in-Rock, Hardin Co., Illinois, USA"}
+      - {id: 3752, name: "Annabel Lee Mine, Hardin Co., Illinois, USA"}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2019
+  volume: 37
+  number: 0
+  pages: "23-26"
+  title: "Fluorescent Mineral Society hall of fame"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2019
+  volume: 37
+  number: 0
+  pages: "27-40"
+  title: "Organic activators in minerals"
+  authors:
+      - {id: 0, name: "Axel Emmermann"}
+  minerals: [Idrialite, Carpathite, Mellite, Quartz, Gypsum, Fluorite]
+
+
+# Volume 38 - 2020
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2020
+  volume: 38
+  number: 0
+  pages: "2-11"
+  title: "Minerals that Fluorescent Differently Under 222nm vs. 254nm Ultraviolet"
+  authors:
+      - {id: 14, name: "Don Newsome"}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2020
+  volume: 38
+  number: 0
+  pages: "12-21"
+  title: "Converting a Teaching Spectroscope into a Spectrometer: A tool for Distinguishing Fluorescent Uranyl Minerals"
+  authors:
+      - {id: 0, name: "Paul M. Adams"}
+
+- journal: "Journal of the Fluorescent Mineral Society"
+  year: 2020
+  volume: 38
+  number: 0
+  pages: "22-47"
+  title: "What the Heck is Afterglow? A Primer on Luminescence Mechanisms and Terminology"
+  authors:
+      - {id: 0, name: "Glenn Waychunas"}
+

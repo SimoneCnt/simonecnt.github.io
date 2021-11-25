@@ -1,0 +1,15 @@
+{% if include.row %}
+<tr>
+<td style="padding-bottom:1em">
+{% endif %}
+  {% for author in include.article.authors %}
+    {{ author.name }}{% if author.id > 0 %} (#{{ author.id }}){% endif %},
+  {% endfor %}
+  "{{ include.article.title }}",
+  <i>{{ include.article.journal }}</i>, {{ include.article.year }}, vol. {{ include.article.volume }}{% if include.article.number %}, num. {{ include.article.number }}{% endif %}, pp. {{ include.article.pages }}. {% if include.article.doi %}<a href="https://dx.doi.org/{{ include.article.doi }}">{{ include.article.doi }}</a>{% endif %}
+  {% if include.article.minerals %}<br>Minerals: {{ include.article.minerals | join: ", " }}{% endif %}
+  {% if include.article.localities %}<br>Localities:<ul>{% for locality in include.article.localities %}<li>{{ locality.name }}</li>{% endfor %}</ul>{% endif %}
+{% if include.row %}
+</td>
+</tr>
+{% endif %}

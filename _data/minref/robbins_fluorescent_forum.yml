@@ -1,0 +1,295 @@
+
+- key: "FF-1985-60-3"
+  journal: "Rocks & Minerals"
+  year: 1985
+  volume: 60
+  number: 3
+  pages: "141-142"
+  title: "Fluorescent Forum. An Introductory Editorial"
+  doi: "10.1080/00357529.1985.11764391"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1985-60-5"
+  journal: "Rocks & Minerals"
+  year: 1985
+  volume: 60
+  number: 5
+  pages: "235-244"
+  title: "Fluorescent Forum. Franklin's Fluorescent Minerals: Can They Be Found Elsewhere?"
+  doi: "10.1080/00357529.1985.11764415"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  localities:
+      - {id: 8541, name: "Franklin Mine, Franklin Mining District, Sussex County, New Jersey, USA"}
+      - {id: 3948, name: "Sterling Mine, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA"}
+      - {id: 251986, name: "Franklin Marble, Franklin Mining District, Sussex County, New Jersey, USA"}
+
+
+- key: "FF-1985-60-6"
+  journal: "Rocks & Minerals"
+  year: 1985
+  volume: 60
+  number: 6
+  pages: "293-296"
+  title: "Fluorescent Forum. Fluorescence in Pyromorphite and other Lead Apatites"
+  doi: "10.1080/00357529.1985.11764430"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Pyromorphite, Mimetite, Turneaureite, Hedyphane]
+
+
+- key: "FF-1986-61-1"
+  journal: "Rocks & Minerals"
+  year: 1986
+  volume: 61
+  number: 1
+  pages: "33-34"
+  title: "Fluorescent Forum. Holcomb Valley: Apatite, Calcite, Willemite"
+  doi: "10.1080/00357529.1986.11768430"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Calcite, Willemite, Apatite]
+  localities:
+      - {id: 11517, name: "Green Lead Mine, Fawnskin, San Bernardino Co., California, USA"}
+
+
+- key: "FF-1986-61-2"
+  journal: "Rocks & Minerals"
+  year: 1986
+  volume: 61
+  number: 2
+  pages: "90-92"
+  title: "Fluorescent Forum. A Short Glossary of Fluorescence"
+  doi: "10.1080/00357529.1986.11768446"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1986-61-4"
+  journal: "Rocks & Minerals"
+  year: 1986
+  volume: 61
+  number: 4
+  pages: "219-221"
+  title: "Fluorescent Forum. Fluorescent Minerals of Mont Saint-Hilaire"
+  doi: "10.1080/00357529.1986.11762717"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  localities:
+      - {id: 123123, name: "Mont Saint-Hilaire, La Vallée-du-Richelieu RCM, Montérégie, Québec, Canada"}
+
+
+- key: "FF-1986-61-6"
+  journal: "Rocks & Minerals"
+  year: 1986
+  volume: 61
+  number: 6
+  pages: "364-365"
+  title: "Fluorescent Forum. Fluorescent Minerals at the '86 Tucson Show"
+  doi: "10.1080/00357529.1986.11768472"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1987-62-1"
+  journal: "Rocks & Minerals"
+  year: 1987
+  volume: 62
+  number: 1
+  pages: "53-54"
+  title: "Fluorescent Forum. Fluorescing Minerals: Expanding the list"
+  doi: "10.1080/00357529.1987.11762628"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1987-62-5"
+  journal: "Rocks & Minerals"
+  year: 1987
+  volume: 62
+  number: 5
+  pages: "355-356"
+  title: "Fluorescent Forum. Willemite. Part I"
+  doi: "10.1080/00357529.1987.11762686"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Willemite]
+  localities:
+      - {id: 8541, name: "Franklin Mine, Franklin Mining District, Sussex County, New Jersey, USA"}
+      - {id: 3948, name: "Sterling Mine, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA"}
+
+
+- key: "FF-1988-63-3"
+  journal: "Rocks & Minerals"
+  year: 1988
+  volume: 63
+  number: 3
+  pages: "237-238"
+  title: "Fluorescent Forum. The Fluorescent Minerals of Southern Illinois"
+  doi: "10.1080/00357529.1988.11761842"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  localities:
+      - {id: 14606, name: "Hardin Co., Illinois, USA"}
+      - {id: 3754, name: "Minerva No. 1 Mine, Cave-in-Rock, Hardin Co., Illinois, USA"}
+
+
+- key: "FF-1988-63-4"
+  journal: "Rocks & Minerals"
+  year: 1988
+  volume: 63
+  number: 4
+  pages: "327-329"
+  title: "Fluorescent Forum. Willemite. Part II"
+  doi: "10.1080/00357529.1988.11761859"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Willemite]
+  localities:
+      - {id: 3293, name: "Arizona, USA"}
+
+
+- key: "FF-1988-63-5"
+  journal: "Rocks & Minerals"
+  year: 1988
+  volume: 63
+  number: 5
+  pages: "399-399"
+  title: "Fluorescent Forum. The 1987 Franklin, New Jersey, Show"
+  doi: "10.1080/00357529.1988.11761870"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  localities:
+      - {id: 3947, name: "Franklin Mining District, Sussex County, New Jersey, USA"}
+
+
+- key: "FF-1988-63-6"
+  journal: "Rocks & Minerals"
+  year: 1988
+  volume: 63
+  number: 6
+  pages: "487-488"
+  title: "Fluorescent Forum. Fluorescent Minerals at the 1988 Tucson and Wayne, New Jersey, Shows"
+  doi: "10.1080/00357529.1988.11761889"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1989-64-1"
+  journal: "Rocks & Minerals"
+  year: 1989
+  volume: 64
+  number: 1
+  pages: "57-59"
+  title: "Fluorescent Forum. Willemite. Part III"
+  doi: "10.1080/00357529.1989.11761732"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Willemite]
+
+
+- key: "FF-1990-65-1"
+  journal: "Rocks & Minerals"
+  year: 1990
+  volume: 65
+  number: 1
+  pages: "35-41"
+  title: "Fluorescent Forum. Activators in Fluorescent Minerals"
+  doi: "10.1080/00357529.1990.9926439"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1990-65-5"
+  journal: "Rocks & Minerals"
+  year: 1990
+  volume: 65
+  number: 5
+  pages: "455-459"
+  title: "Fluorescent Forum. The Many Fluorescences of Fluorite"
+  doi: "10.1080/00357529.1990.11761711"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Fluorite]
+
+
+- key: "FF-1991-66-1"
+  journal: "Rocks & Minerals"
+  year: 1991
+  volume: 66
+  number: 1
+  pages: "65-66"
+  title: "Fluorescent Forum. The Fluorescence of Organic Minerals"
+  doi: "10.1080/00357529.1991.11761602"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Mellite, Karpatite, Idrialite, Amber]
+
+
+- key: "FF-1992-67-1"
+  journal: "Rocks & Minerals"
+  year: 1992
+  volume: 67
+  number: 1
+  pages: "43-47"
+  title: "Fluorescent Forum. The Mercury Mines of Terlingua, Texas - Blue-fluorescing Calcite. Part 1"
+  doi: "10.1080/00357529.1992.9926458"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Calcite, Calomel]
+  localities:
+      - {id: 4135, name: "Terlingua Mining District, Texas, USA"}
+
+
+- key: "FF-1993-68-3"
+  journal: "Rocks & Minerals"
+  year: 1993
+  volume: 68
+  number: 3
+  pages: "188-192"
+  title: "Fluorescent Forum. The Mercury Mines of Terlingua, Texas - Blue-fluorescing Calcite. Part 2"
+  doi: "10.1080/00357529.1993.9926554"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Calcite]
+
+
+- key: "FF-1995-70-3"
+  journal: "Rocks & Minerals"
+  year: 1995
+  volume: 70
+  number: 3
+  pages: "193-197"
+  title: "Fluorescent Forum. Apatite a Remarkable Fluorescent Mineral"
+  doi: "10.1080/00357529.1995.9926621"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+  minerals: [Fluorapatite]
+
+
+- key: "FF-1996-71-1"
+  journal: "Rocks & Minerals"
+  year: 1996
+  volume: 71
+  number: 1
+  pages: "57-60"
+  title: "Fluorescent Forum. The Crystal Faces of Fluorescence"
+  doi: "10.1080/00357529.1996.11761538"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
+- key: "FF-1997-72-2"
+  journal: "Rocks & Minerals"
+  year: 1997
+  volume: 72
+  number: 2
+  pages: "131-132"
+  title: "Fluorescent Forum. Ultraviolation and oher 1996 shows"
+  doi: "10.1080/00357529709605024"
+  authors:
+      - {id: 0, name: "Manuel Robbins"}
+
+
