@@ -18,7 +18,7 @@ banner: fluominerals
    An application I wrote to catalog my collection of minerals. The application works on Mac, Windows and Linux and it is freely available for everybody.
  - [Books about fluorescent minerals](fluobooks/)  
    Some books and other references about fluorescent minerals.
- - [Mineral References](references/)
+ - [Mineral References](references/)  
    A very partial index of articles dedicated to minerals, in particular the fluorescent ones.
  - [From Spectrum to RGB Color - A practical protocol](spectrum2color/)  
    How to compute the color emitted by a fluorescence mineral based on its fluorescence spectrum.
