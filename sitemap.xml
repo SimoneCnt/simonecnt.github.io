@@ -13,6 +13,13 @@
   
   
   <url>
+    <loc>https://3dz2.com/publications/</loc>
+    <priority>0.8</priority>
+    <lastmod>2021-02-26</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://3dz2.com/contact/</loc>
     <priority>0.8</priority>
     <lastmod>2020-04-18</lastmod>
@@ -29,19 +36,12 @@
   <url>
     <loc>https://3dz2.com/minerals/</loc>
     <priority>0.8</priority>
-    <lastmod>2021-01-02</lastmod>
+    <lastmod>2021-11-25</lastmod>
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/publications/</loc>
-    <priority>0.8</priority>
-    <lastmod>2021-02-26</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/stuff/</loc>
+    <loc>https://3dz2.com/research/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -55,7 +55,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/</loc>
+    <loc>https://3dz2.com/stuff/</loc>
     <priority>0.8</priority>
     
   </url>
@@ -167,14 +167,14 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/2dselfassembly/</loc>
+    <loc>https://3dz2.com/publications/conti2015accurate/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/publications/bonacchi2015surface/</loc>
+    <loc>https://3dz2.com/research/2dselfassembly/</loc>
     <priority>0.6</priority>
     
   </url>
@@ -195,16 +195,16 @@
   
   
   <url>
-    <loc>https://3dz2.com/minerals/mineralapp/</loc>
+    <loc>https://3dz2.com/research/osmoprotectants/</loc>
     <priority>0.6</priority>
-    <lastmod>2020-05-07</lastmod>
+    
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/</loc>
+    <loc>https://3dz2.com/minerals/mineralapp/manual/</loc>
     <priority>0.6</priority>
-    <lastmod>2018-06-29</lastmod>
+    <lastmod>2020-05-07</lastmod>
   </url>
   
   
@@ -212,6 +212,27 @@
     <loc>https://3dz2.com/stuff/juggling/</loc>
     <priority>0.6</priority>
     <lastmod>2018-10-01</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/mineralapp/</loc>
+    <priority>0.6</priority>
+    <lastmod>2020-05-07</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/minerals/references/</loc>
+    <priority>0.6</priority>
+    <lastmod>2021-11-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/stuff/radioactivity/</loc>
+    <priority>0.6</priority>
+    <lastmod>2018-06-29</lastmod>
   </url>
   
   
@@ -265,7 +286,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/publications/conti2015accurate/</loc>
+    <loc>https://3dz2.com/publications/bonacchi2015surface/</loc>
     <priority>0.6</priority>
     
   </url>
@@ -279,30 +300,30 @@
   
   
   <url>
-    <loc>https://3dz2.com/research/osmoprotectants/</loc>
-    <priority>0.6</priority>
-    
+    <loc>https://3dz2.com/minerals/references/fluorescent_forum/</loc>
+    <priority>0.5</priority>
+    <lastmod>2021-11-25</lastmod>
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/minerals/mineralapp/manual/</loc>
-    <priority>0.6</priority>
-    <lastmod>2020-05-07</lastmod>
+    <loc>https://3dz2.com/minerals/references/uvwaves/</loc>
+    <priority>0.5</priority>
+    <lastmod>2021-11-25</lastmod>
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/stuff/juggling/references/</loc>
+    <loc>https://3dz2.com/minerals/references/jfms/</loc>
+    <priority>0.5</priority>
+    <lastmod>2021-11-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/stuff/radioactivity/nuclides/</loc>
     <priority>0.4</priority>
-    <lastmod>2018-10-01</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://3dz2.com/stuff/juggling/siteswaps/</loc>
-    <priority>0.4</priority>
-    <lastmod>2020-10-03</lastmod>
+    <lastmod>2018-06-29</lastmod>
   </url>
   
   
@@ -314,7 +335,7 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/nuclides/</loc>
+    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
     <priority>0.4</priority>
     <lastmod>2018-06-29</lastmod>
   </url>
@@ -328,12 +349,17 @@
   
   
   <url>
-    <loc>https://3dz2.com/stuff/radioactivity/samples/</loc>
+    <loc>https://3dz2.com/stuff/juggling/siteswaps/</loc>
     <priority>0.4</priority>
-    <lastmod>2018-06-29</lastmod>
+    <lastmod>2020-10-03</lastmod>
   </url>
   
   
+  <url>
+    <loc>https://3dz2.com/stuff/juggling/references/</loc>
+    <priority>0.4</priority>
+    <lastmod>2018-10-01</lastmod>
+  </url>
   
   
   
@@ -342,6 +368,8 @@
     <priority>0.5</priority>
     
   </url>
+  
+  
   
   
   <url>
