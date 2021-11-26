@@ -35,6 +35,15 @@
 - title: "Minerals"
   href: "/minerals/"
   icon: "fa-gem"
+  subcategories:
+    - subtitle: "Collection"
+      subhref: "/minerals/collection/"
+    - subtitle: "Fluorescence Spectra"
+      subhref: "/minerals/fluospectra/"
+    - subtitle: "Books"
+      subhref: "/minerals/fluobooks/"
+    - subtitle: "References"
+      subhref: "/minerals/references/"
 
 - title: "MineralApp"
   href: "/mineralapp/"
