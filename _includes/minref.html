@@ -6,7 +6,7 @@
     {{ author.name }}{% if author.id > 0 %} (#{{ author.id }}){% endif %},
   {% endfor %}
   "{{ include.article.title }}",
-  <i>{{ include.article.journal }}</i>, {{ include.article.year }}, vol. {{ include.article.volume }}{% if include.article.number %}, num. {{ include.article.number }}{% endif %}, pp. {{ include.article.pages }}. {% if include.article.doi %}<a href="https://dx.doi.org/{{ include.article.doi }}">{{ include.article.doi }}</a>{% endif %}
+  <i>{{ include.article.journal }}</i>, {{ include.article.year }}{% if include.article.volume %}, vol. {{ include.article.volume }}{% endif %}{% if include.article.number %}, num. {{ include.article.number }}{% endif %}{% if include.article.pages %}, pp. {{ include.article.pages }}{% endif %}. {% if include.article.doi %}<a href="https://dx.doi.org/{{ include.article.doi }}" target="_blank">{{ include.article.doi }}</a>{% endif %}
   {% if include.article.minerals %}<br>Minerals: {{ include.article.minerals | join: ", " }}{% endif %}
   {% if include.article.localities %}<br>Localities:<ul>{% for locality in include.article.localities %}<li>{{ locality.name }}</li>{% endfor %}</ul>{% endif %}
 {% if include.row %}

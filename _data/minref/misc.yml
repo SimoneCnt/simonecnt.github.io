@@ -1,0 +1,73 @@
+
+- key: "Palache-1935"
+  journal: "Geological survey professional paper 180"
+  year: 1935
+  title: "The minerals of Franklin and Sterling Hill, Sussex County, New Jersey"
+  authors:
+      - {id: 0, name: "Charles Palache"}
+  localities:
+      - {id: 8541, name: "Franklin Mine, Franklin Mining District, Sussex County, New Jersey, USA"}
+      - {id: 3948, name: "Sterling Mine, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA"}
+
+
+- key: "RM-2018-93-5-442-rose-road-1"
+  journal: "Rocks & Minerals"
+  year: 2018
+  volume: 93
+  number: 5
+  pages: "442-453"
+  title: "Rose Road Localities: Town of Pitcairn, St. Lawrence County, New York: Part 1 - History"
+  doi: "10.1080/00357529.2018.1477011"
+  authors:
+      - {id: 0, name: "Steven C. Chamberlain"}
+      - {id: 0, name: "George W. Robinson"}
+      - {id: 0, name: "Susan Robinson"}
+      - {id: 0, name: "Michael R. Walter"}
+      - {id: 0, name: "David G. Bailey"}
+      - {id: 0, name: "Jeffrey R. Chiarenzelli"}
+      - {id: 0, name: "Marian Lupulescu"}
+  localities:
+      - {id: 7083, name: "Mulvaney property, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
+      - {id: 257354, name: "Purple Diopside Mound, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
+
+
+- key: "RM-2019-94-6-540-rose-road-2"
+  journal: "Rocks & Minerals"
+  year: 2019
+  volume: 94
+  number: 6
+  pages: "540-554"
+  title: "Rose Road Localities: Town of Pitcairn, St. Lawrence County, New York: Part 2 - Geology"
+  doi: "10.1080/00357529.2019.1641024"
+  authors:
+      - {id: 0, name: "Jeffrey R. Chiarenzelli"}
+      - {id: 0, name: "Marian Lupulescu"}
+      - {id: 0, name: "George W. Robinson"}
+      - {id: 0, name: "David G. Bailey"}
+      - {id: 0, name: "Michael R. Walter"}
+      - {id: 0, name: "Steven C. Chamberlain"}
+  localities:
+      - {id: 7083, name: "Mulvaney property, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
+      - {id: 257354, name: "Purple Diopside Mound, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
+
+
+- key: "RM-2020-95-6-516-rose-road-3"
+  journal: "Rocks & Minerals"
+  year: 2020
+  volume: 95
+  number: 6
+  pages: "516-529"
+  title: "Rose Road Localities: Town of Pitcairn, St. Lawrence County, New York: Part 3 – Minerals of the Wollastonite Skarn"
+  doi: "10.1080/00357529.2020.1791623"
+  authors:
+      - {id: 0, name: "Steven C. Chamberlain"}
+      - {id: 0, name: "Michael R. Walter"}
+      - {id: 0, name: "George W. Robinson"}
+      - {id: 0, name: "David G. Bailey"}
+      - {id: 0, name: "Christopher R. Emproto"}
+      - {id: 0, name: "Marian Lupulescu"}
+      - {id: 0, name: "Jeffrey R. Chiarenzelli"}
+  localities:
+      - {id: 7083, name: "Mulvaney property, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
+
+
