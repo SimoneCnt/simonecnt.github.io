@@ -1,4 +1,50 @@
 
+# Volume 30 - 2010
+
+- key: 'JFMS-2010-30-5'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2010
+  volume: 30
+  pages: "5-12"
+  title: "Analysis of the blue luminescence in benitoite - An example of a charge-transfer luminescent process"
+  authors:
+      - {id: 665, name: "Glenn A. Waychunas"}
+  minerals: [Benitoite]
+  localities:
+      - {id: 3531, name: "California State Gem Mine, San Benito Co., California, USA"}
+
+- key: 'JFMS-2010-30-13'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2010
+  volume: 30
+  pages: "13-19"
+  title: "Analysis of the red luminescence in benitoite - Perhaps the first mineralogical example of Ti<sup>3+</sup> activation"
+  authors:
+      - {id: 665, name: "Glenn A. Waychunas"}
+  minerals: [Benitoite]
+  localities:
+      - {id: 3531, name: "California State Gem Mine, San Benito Co., California, USA"}
+
+- key: 'JFMS-2010-30-21'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2010
+  volume: 30
+  pages: "21-25"
+  title: "Scheelite - Not necessarily blue!"
+  authors:
+      - {id: 749, name: "Axel Emmermann"}
+  minerals: [Scheelite]
+
+- key: 'JFMS-2010-30-27'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2010
+  volume: 30
+  pages: "27-"
+  title: "Mn<sup>2+</sup>-activated cathodoluminescence of selected carbonate minerals - A short overview"
+  authors:
+      - {id: 1674, name: "Christoph Lenz"}
+
+
 # Volume 32 - 2012
 
 - journal: "Journal of the Fluorescent Mineral Society"
@@ -36,7 +82,7 @@
   pages: "2-11"
   title: "Photographing fluorescence in 405nm laser light"
   authors:
-      - {id: 0, name: "Axel Emmermann"}
+      - {id: 749, name: "Axel Emmermann"}
   minerals: []
   localities:
       - {id: , name: ""}
@@ -106,7 +152,7 @@
   pages: "27-40"
   title: "Organic activators in minerals"
   authors:
-      - {id: 0, name: "Axel Emmermann"}
+      - {id: 749, name: "Axel Emmermann"}
   minerals: [Idrialite, Carpathite, Mellite, Quartz, Gypsum, Fluorite]
 
 
@@ -137,5 +183,5 @@
   pages: "22-47"
   title: "What the Heck is Afterglow? A Primer on Luminescence Mechanisms and Terminology"
   authors:
-      - {id: 0, name: "Glenn Waychunas"}
+      - {id: 665, name: "Glenn A. Waychunas"}
 

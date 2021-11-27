@@ -35,7 +35,7 @@ Currently indexed (or working on...)
 Number of articles: {{ articles.size }}
 
 {% capture authorslst %}{% for article in articles %}{% for author in article.authors %}{{ author.name }}{% if author.id > 0 %} (#{{ author.id }}){% endif %} xxx {% endfor %}{% endfor %}{% endcapture %}{% assign authorsunq = authorslst | split: " xxx " | sort | uniq  %}
-{% capture localitieslst %}{% for article in articles %}{% for locality in article.localities %}{{ locality.name }} xxx {% endfor %}{% endfor %}{% endcapture %}{% assign localitiesunq = localitieslst | split: " xxx " | sort | uniq  %}
+{% capture localitieslst %}{% for article in articles %}{% for locality in article.localities %}{{ locality.name | split: ', ' | reverse | join: ', ' }} xxx {% endfor %}{% endfor %}{% endcapture %}{% assign localitiesunq = localitieslst | split: " xxx " | sort | uniq  %}
 {% capture mineralslst %}{% for article in articles %}{% for mineral in article.minerals %}{{ mineral }} xxx {% endfor %}{% endfor %}{% endcapture %}{% assign mineralsunq = mineralslst | split: " xxx " | sort | uniq  %}
 {% capture journalslst %}{% for article in articles %}{{ article.journal }} xxx {% endfor %}{% endcapture %}{% assign journalsunq = journalslst | split: " xxx " | sort | uniq  %}
 
@@ -54,7 +54,7 @@ Number of articles: {{ articles.size }}
 </tr>
 <tr>
 <td><label for='FA_locality'>Locality:</label></td>
-<td><select id='FA_locality' onchange='FA_filter()'><option value="">All</option>{% for locality in localitiesunq %}<option value="{{ locality }}">{{ locality }}</option>{% endfor %}</select></td>
+<td><select id='FA_locality' onchange='FA_filter()'><option value="">All</option>{% for locality in localitiesunq %}<option value="{{ locality | split: ', ' | reverse | join: ', ' }}">{{ locality }}</option>{% endfor %}</select></td>
 </tr>
 <tr>
 <td><label for='FA_journal'>Journal:</label></td>

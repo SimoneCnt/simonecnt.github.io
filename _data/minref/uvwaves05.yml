@@ -17,7 +17,7 @@
   pages: "6"
   title: "Fluorescent minerals information sheet #11 - Autunite"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
   minerals: [Autunite]
 
 
@@ -39,7 +39,7 @@
   pages: "6"
   title: "Fluorescent minerals information sheet #12 - Fluorite"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
   minerals: [Fluorite]
 
 
@@ -61,7 +61,7 @@
   pages: "3-4"
   title: "Fluorescent minerals information sheet #13 - Willemite"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
   minerals: [Willemite]
 
 
@@ -83,7 +83,7 @@
   pages: "4"
   title: "Fluorescent minerals information sheet #14 - Esperite"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
   minerals: [Esperite]
 
 
@@ -105,7 +105,7 @@
   pages: "4"
   title: "Fluorescent minerals information sheet #15 - Margarosanite"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
   minerals: [Margarosanite]
 
 
@@ -127,7 +127,7 @@
   pages: "2"
   title: "Mone news on the 1976 California Federation show"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
 
 - journal: "UV Waves"
   year: 1975
@@ -156,7 +156,7 @@
   pages: "5"
   title: "Fluorescent minerals information sheet #16 - Scheelite"
   authors:
-      - {id: 0, name: "Clarence Chittenden"}
+      - {id: 171, name: "Clarence Chittenden"}
   minerals: [Scheelite]
 
 

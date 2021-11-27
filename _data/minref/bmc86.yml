@@ -1,0 +1,337 @@
+
+## BMC News Vol 86 Num 1 (2021)
+
+- key: "BMC-2021-86-1-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 1
+  pages: "4-5"
+  title: "Geological Framework of Boston, Part 1 - Avalon"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+
+## BMC News Vol 86 Num 2 (2021)
+
+- key: "BMC-2021-86-2-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 2
+  pages: "5"
+  title: "Plymouth Rock - What's the Story?"
+  authors:
+      - {id: 0, name: "Bill Joyce"}
+
+- key: "BMC-2021-86-2-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 2
+  pages: "6-8"
+  title: "Geological Framework of Boston, Part 2 - Boston Basin and the Roxbury Conglomerate"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+
+## BMC News Vol 86 Num 3 (2021)
+
+- key: "BMC-2021-86-3-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 3
+  pages: "4-5"
+  title: "Geological Framework of Boston, Part 3 - Squantum \"Tillite\""
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+
+## BMC News Vol 86 Num 4 (2021)
+
+- key: "BMC-2021-86-4-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 4
+  pages: "2"
+  title: "Remembering John Chipman"
+  authors:
+      - {id: 0, name: "Melissa Jeswald"}
+
+- key: "BMC-2021-86-4-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 4
+  pages: "4-5"
+  title: "Geological Framework of Boston, Part 4 - Fossil Paradox"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+- key: "BMC-2021-86-4-C"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 4
+  pages: "5"
+  title: "Phopshorescence in fluorite from non-UV white LEDs?"
+  authors:
+      - {id: 0, name: "Matt Butler"}
+  minerals: [Fluorite]
+  localities:
+      - {id: 23307, name: "Stoddard Mine, Westmoreland, Cheshire Co., New Hampshire, USA"}
+
+- key: "BMC-2021-86-4-D"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 4
+  pages: "6"
+  title: "The King of Kashmir"
+  authors:
+      - {id: 0, name: "Barbara Liebman"}
+
+
+## BMC News Vol 86 Num 5 (2021)
+
+- key: "BMC-2021-86-5-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 5
+  pages: "7-9"
+  title: "Geological Framework of Boston, Part 5 - Waves of Granite"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+- key: "BMC-2021-86-5-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 5
+  pages: "9-10"
+  title: "Interfernce Colors in Mica Using Sunglasses"
+  authors:
+      - {id: 0, name: "Matt Butler"}
+
+
+## BMC News Vol 86 Num 6 (2021)
+
+- key: "BMC-2021-86-6-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 6
+  pages: "5-6"
+  title: "BMC Filed Trip Report: Tripp-Clark Mine, May 22, 2021"
+  authors:
+      - {id: 0, name: "Carl Quesnel"}
+  localities:
+      - { id: 9066, name: "Tripp No. 1 Mine, Alstead, Cheshire Co., New Hampshire, USA"}
+
+- key: "BMC-2021-86-6-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 6
+  pages: "7-9,12"
+  title: "Notes from Underground: What I did on my Pandemic Vacation"
+  authors:
+      - {id: 0, name: "Dana Krueger"}
+
+- key: "BMC-2021-86-6-C"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 6
+  pages: "10-12"
+  title: "Geological Framework of Boston, Part 6 - Introduction to Pegmatites"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+
+## BMC News Vol 86 Num 7 (2021)
+
+- key: "BMC-2021-86-7-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 7
+  pages: "6"
+  title: "BMC Field Trip Report: The Beauregard Mine"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+  localities:
+      - {id: 9037, name: "Beauregard Mine, Alstead, Cheshire Co., New Hampshire, USA"}
+
+- key: "BMC-2021-86-7-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 7
+  pages: "7"
+  title: "BMC Field Trip Report: Hayes Ledge Quarry"
+  authors:
+      - {id: 0, name: "Tom Lauzon"}
+  localities:
+      - {id: 6355, name: "Hayes Ledge Quarries, Greenwood, Oxford County, Maine, USA"}
+
+- key: "BMC-2021-86-7-C"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 7
+  pages: "8"
+  title: "BMC Field Trip Report: Manhan/Loudville Lead Mine"
+  authors:
+      - {id: 0, name: "Melissa Jeswald"}
+  localities:
+      - {id: 3832, name: "Loudville Lead Mines, Easthampton, Hampshire Co., Massachusetts, USA"}
+
+- key: "BMC-2021-86-7-D"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 7
+  pages: "9-11"
+  title: "Geological Framework of Boston, Part 7 - Common Pegmatite Minerals"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+
+## BMC News Vol 86 Num 8 (2021)
+
+- key: "BMC-2021-86-8-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 8
+  pages: "4"
+  title: "BMC Field Trip Report: Gold Panning on Buffalo Brook"
+  authors:
+      - {id: 0, name: "Martin Gilar"}
+  localities:
+      - {id: 209032, name: "Buffalo Brook, Tyson, Plymouth, Windsor Co., Vermont, USA"}
+
+- key: "BMC-2021-86-8-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 8
+  pages: "5"
+  title: "Quartz Crystal in Arkansas"
+  authors:
+      - {id: 0, name: "Shane Maxwell"}
+  localities:
+      - {id: 3418, name: "Arkansas, USA"}
+
+- key: "BMC-2021-86-8-C"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 8
+  pages: "6-7"
+  title: "Report for the BMC Field Trip to the Chester Emery Mines, Chester, MA"
+  authors:
+      - {id: 0, name: "Carl Quesnel"}
+  localities:
+      - {id: 3827, name: "Chester Emery Mines, Chester, Hampden Co., Massachusetts, USA"}
+
+- key: "BMC-2021-86-8-D"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 8
+  pages: "8"
+  title: "Do we really know how we got here?"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+- key: "BMC-2021-86-8-E"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 8
+  pages: "9"
+  title: "Humanity through stone"
+  authors:
+      - {id: 0, name: "Melissa Jeswald"}
+
+
+## BMC News Vol 86 Num 9 (2021)
+
+- key: "BMC-2021-86-9-A"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 9
+  pages: "3-4"
+  title: "Iceland Rocks"
+  authors:
+      - {id: 0, name: "Josh Simons"}
+  localities:
+      - {id: 145787, name: "Iceland"}
+
+- key: "BMC-2021-86-9-B"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 9
+  pages: "5"
+  title: "Sharing the Love of Rocks and Minerals"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+
+- key: "BMC-2021-86-9-C"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 9
+  pages: "6"
+  title: "Havey and Betts Finds"
+  authors:
+      - {id: 0, name: "Annemarie Hanson"}
+  localities:
+      - {id: 3802, name: "Berry-Havey Quarry, Poland, Androscoggin Co., Maine, USA"}
+      - {id: 5889, name: "Betts Manganese Mines, Plainfield, Hampshire Co., Massachusetts, USA"}
+
+- key: "BMC-2021-86-9-D"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 9
+  pages: "7-8,13"
+  title: "Arkansas Crystal Hunt"
+  authors:
+      - {id: 0, name: "Chris Buerkle"}
+  minerals: [Quartz, Diamond]
+  localities:
+      - {id: 3418, name: "Arkansas, USA"}
+
+- key: "BMC-2021-86-9-E"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 9
+  pages: "9"
+  title: "My trip to the Lepontine Alps in Switzerland"
+  authors:
+      - {id: 0, name: "Steve Kukla"}
+  localities:
+      - {id: 7103, name: "Switzerland"}
+
+- key: "BMC-2021-86-9-F"
+  journal: "BMC News"
+  year: 2021
+  volume: 86
+  number: 9
+  pages: "10-12"
+  title: "Geological Framework of Boston, Part 8 - Gem Pegmatite Minerals"
+  authors:
+      - {id: 0, name: "Scot Krueger"}
+  minerals: [Tourmaline, Lepidolite]
+  localities:
+      - {id: 3784, name: "Mount Mica Quarry (Mount Mica Mine), Paris, Oxford County, Maine, USA"}
+
