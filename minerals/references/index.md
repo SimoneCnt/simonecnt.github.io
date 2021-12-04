@@ -30,6 +30,7 @@ Currently indexed (or working on...)
 {% assign articles = articles | concat: site.data.minref.uvwaves05 %}
 {% assign articles = articles | concat: site.data.minref.uvwaves50 %}
 {% assign articles = articles | concat: site.data.minref.uvwaves51 %}
+{% assign articles = articles | concat: site.data.minref.american_mineralogist %}
 {% assign articles = articles | concat: site.data.minref.misc %}
 
 Number of articles: {{ articles.size }}

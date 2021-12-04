@@ -71,3 +71,20 @@
       - {id: 7083, name: "Mulvaney property, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
 
 
+- key: "min-9120752-agrellite"
+  journal: "Minerals"
+  year: 2019
+  volume: 9
+  number: 12
+  pages: "752"
+  title: "Luminescence of Agrellite Specimen from the Kipawa River Locality"
+  doi: "10.3390/min9120752"
+  authors:
+      - {id: 0, name: "Maria Czaja"}
+      - {id: 0, name: "Radosław Lisiecki"}
+  minerals: [Agrellite]
+  localities:
+      - {id: 614, name: "Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Abitibi-Témiscamingue, Québec, Canada" }
+
+
+

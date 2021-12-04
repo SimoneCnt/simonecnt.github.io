@@ -1,0 +1,23 @@
+
+- key: "AM-92-254-leucophanite"
+  journal: "American Mineralogist"
+  year: 2007
+  volume: 92
+  number: "2-3"
+  pages: "254-260"
+  title: "Ionoluminescence of leucophanite"
+  doi: "10.2138/am.2007.2167"
+  authors:
+      - {id: 0, name: "Henrik Friis"}
+      - {id: 0, name: "Adrian A. Finch"}
+      - {id: 0, name: "Peter D. Townsend"}
+      - {id: 0, name: "David E. Hole"}
+      - {id: 0, name: "Hassane El Mkami"}
+  minerals: [Leucophanite]
+  localities:
+      - {id: 1960,  name: "Kangerluarsuk Fjord, Ilímaussaq complex, Kujalleq, Greenland"}
+      - {id: 13731, name: "Barkevikskjær, Barkevik area, Langesundsfjorden, Larvik, Norway"}
+      - {id: 2489,  name: "Låven, Langesundsfjorden, Larvik, Norway"}
+
+
+
