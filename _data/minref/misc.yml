@@ -86,5 +86,56 @@
   localities:
       - {id: 614, name: "Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Abitibi-Témiscamingue, Québec, Canada" }
 
+- key: "omri2013luminescence"
+  journal: "Physica E"
+  year: 2013
+  volume: 53
+  pages: "48-54"
+  title: "Luminescence properties of green emission of SiO2/Zn2SiO4:Mn nanocomposite prepared by sol–gel method"
+  doi: "10.1016/j.physe.2013.04.020"
+  authors:
+      - {id: 0, name: "K. Omri"}
+      - {id: 0, name: "J. El Ghoul"}
+      - {id: 0, name: "A. Alyamani"}
+      - {id: 0, name: "C. Barthou"}
+      - {id: 0, name: "L. El Mir"}
+  minerals: [Willemite]
 
+- key: "barthou1994concentration"
+  journal: "Journal of the Electrochemical Society"
+  year: 1994
+  volume: 141
+  pages: "524-528"
+  title: "Mn<sup>2+</sup> concentration effect on the optical properties of Zn<sub>2</sub>SiO<sub>4</sub>:Mn phosphors"
+  doi: "10.1149/1.2054759"
+  authors:
+      - {id: 0, name: "C. Barthou"}
+      - {id: 0, name: "J. Benoit"}
+      - {id: 0, name: "P. Benalloul"}
+      - {id: 0, name: "A. Morell"}
+  minerals: [Willemite]
+
+- key: "gaft2020red"
+  journal: "Physics and Cheistry of Minerals"
+  year: 2020
+  volume: 47
+  number: 46
+  pages: "1-11"
+  title: "Red photoluminescence and purple color of naturally irradiated fluorite"
+  doi: "10.1007/s00269-020-01116-4"
+  authors:
+      - {id: 0, name: "M. Gaft"}
+      - {id: 0, name: "G. A. Waychunas"}
+      - {id: 0, name: "G. R. Rossman"}
+      - {id: 0, name: "L. Nagli"}
+      - {id: 0, name: "G. Panczer"}
+      - {id: 0, name: "D. Cheskis"}
+      - {id: 0, name: "Y. Raichlin"}
+  minerals: [Fluorite]
+  localities:
+      - {id: 4612, name: "Berbes, Berbes mining area, Ribadesella, Asturias, Spain"}
+      - {id: 132143, name: "Namur, Namur, Wallonia, Belgium"}
+      - {id: 25479, name: "Tule Mine, Melchor Múzquiz, Múzquiz Municipality, Coahuila, Mexico"}
+      - {id: 22316, name: "Mapimí, Mapimí Municipality, Durango, Mexico"}
+      - {id: 205964, name: "Yongchun Co., Quanzhou, Fujian, China"}
 

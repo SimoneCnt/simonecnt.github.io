@@ -190,3 +190,63 @@
       - {id: 3992, name: "Socorro Co., New Mexico, USA"}
  
 
+
+
+
+
+
+
+# UV Waves vol 51 num 5 (September - October 2021)
+
+- key: "UVW-51-5-1"
+  journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 5
+  pages: "1-5"
+  title: "From the (former) editor - Letting the 'children' wander"
+  authors:
+      - {id: 1904, name: "Conrad North"}
+
+- key: "UVW-51-5-6"
+  journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 5
+  pages: "6-15"
+  title: "Feature article - The Crystal/Victory mine complex"
+  authors:
+      - {id: 0, name: "Jamison K. Brizendine"}
+  minerals: [Fluorite, Baryte]
+  localities:
+      - {id: 5728, name: "Victory Mine, Cave-In-Rock Sub-district, Hardin County, Illinois, USA"}
+      - {id: 10426, name: "Crystal Mine, Cave-In-Rock Sub-district, Hardin County, Illinois, USA"}
+
+- key: "UVW-51-5-16"
+  journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 5
+  pages: "16"
+  title: "Draft schedule for the Fluorescent Mineral Society annual meeting"
+
+- key: "UVW-51-5-17"
+  journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 5
+  pages: "17"
+  title: "Dig we must"
+  authors:
+      - {id: 1904, name: "Conrad North"}
+
+- key: "UVW-51-5-18"
+  journal: "UV Waves"
+  year: 2021
+  volume: 51
+  number: 5
+  pages: "18"
+  title: "Sustaining member informational message - Polman Minerals"
+  authors:
+      - {id: 520, name: "George V. Polman"}
+

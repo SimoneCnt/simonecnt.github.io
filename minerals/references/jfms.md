@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Journal of the Fluorescent Mineral Society
-date: 2021-11-25
+date: 2021-12-27
 priority: 0.5
 banner: fluominerals
 ---

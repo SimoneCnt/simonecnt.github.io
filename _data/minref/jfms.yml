@@ -45,6 +45,44 @@
       - {id: 1674, name: "Christoph Lenz"}
 
 
+# Volume 31 - 2011
+
+- key: 'JFMS-2011-31-5'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2011
+  volume: 31
+  pages: "5-11"
+  title: "It's never\"just an activator\""
+  authors:
+      - {id: 749, name: "Axel Emmermann"}
+  minerals: [Agrellite, Hackmanite, Sodalite]
+
+- key: 'JFMS-2011-31-13'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2011
+  volume: 31
+  pages: "13-23"
+  title: "The phenomenon of fluorescence"
+  authors:
+      - {id: 894, name: "Alan J. Wilkins"}
+
+- key: 'JFMS-2011-31-25'
+  journal: "Journal of the Fluorescent Mineral Society"
+  year: 2011
+  volume: 31
+  pages: "25-34"
+  title: "Rare earth elements"
+  authors:
+      - {id: 551, name: "Karl-Heinz Russ"}
+  minerals: [Fluorite, Scheelite, Zircon]
+
+
+
+
+
+
+
+
 # Volume 32 - 2012
 
 - journal: "Journal of the Fluorescent Mineral Society"

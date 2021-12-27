@@ -3,5 +3,12 @@
   year: 1964
   title: "Nature's Hidden Rainbows. Fluorescent minerals of Franklin, New Jersey."
   authors:
-      - {id: 0, name: "Robert W. Jones, Jr."}
+    - {id: 0, name: "Robert W. Jones, Jr."}
+
+- key: "JS-MFA-1964"
+  year: 1964
+  title: "Mineralogy for Amateurs"
+  authors:
+    - {id: 0, name: "John Sinkankas"}
+
 
