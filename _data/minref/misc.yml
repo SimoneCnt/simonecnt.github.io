@@ -71,20 +71,30 @@
       - {id: 7083, name: "Mulvaney property, Rose Road, Pitcairn, St. Lawrence Co., New York, USA"}
 
 
-- key: "min-9120752-agrellite"
-  journal: "Minerals"
-  year: 2019
-  volume: 9
-  number: 12
-  pages: "752"
-  title: "Luminescence of Agrellite Specimen from the Kipawa River Locality"
-  doi: "10.3390/min9120752"
+- key: "RM-1989-64-5-368"
+  journal: "Rocks & Minerals"
+  year: 1989
+  volume: 64
+  number: 5
+  pages: "368-374"
+  title: "The Sterling Mine: a talk with Bob Metsger"
+  doi: "10.1080/00357529.1989.11761781"
   authors:
-      - {id: 0, name: "Maria Czaja"}
-      - {id: 0, name: "Radosław Lisiecki"}
-  minerals: [Agrellite]
+      - {id: 0, name: "Manuel Robbins"}
   localities:
-      - {id: 614, name: "Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Abitibi-Témiscamingue, Québec, Canada" }
+      - {id: 3948, name: "Sterling Mine, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA"}
+
+- key: "RM-1996-71-1-14"
+  journal: "Rocks & Minerals"
+  year: 1996
+  volume: 71
+  number: 1
+  pages: "14-22"
+  title: "Fluorescent minerals. A review"
+  doi: "10.1080/00357529.1996.11761532"
+  authors:
+      - {id: 0, name: "Peter J. Modreski"}
+      - {id: 0, name: "Regina Aumente-Modreski"}
 
 - key: "omri2013luminescence"
   journal: "Physica E"
@@ -138,4 +148,44 @@
       - {id: 25479, name: "Tule Mine, Melchor Múzquiz, Múzquiz Municipality, Coahuila, Mexico"}
       - {id: 22316, name: "Mapimí, Mapimí Municipality, Durango, Mexico"}
       - {id: 205964, name: "Yongchun Co., Quanzhou, Fujian, China"}
+
+- key: "jones1981franklinspex"
+  journal: "The SPEX Speaker"
+  year: 1981
+  volume: 26
+  number: 1
+  pages: "1-7"
+  title: "Franklin, fluorescent mineral capital of the world"
+  authors:
+      - {id: 0, name: "R. W. Jones Jr."}
+  localities:
+      - {id: 8541, name: "Franklin Mine, Franklin Mining District, Sussex County, New Jersey, USA"}
+      - {id: 3948, name: "Sterling Mine, Ogdensburg, Franklin Mining District, Sussex County, New Jersey, USA"}
+
+- key: "jensen1982tugtupite"
+  journal: "Gems & Gemology"
+  year: 1982
+  pages: "90-94"
+  title: "Tugtupite: a gemstone from Greenland"
+  authors:
+      - {id: 0, name: "Aage Jensen"}
+      - {id: 0, name: "Ole V. Petersen"}
+  minerals: [Tugtupite]
+  localities:
+      - {id: 12736, name: "Tugtup Agtakôrfia, Tunulliarfik Fjord, Ilímaussaq complex, Kujalleq, Greenland"}
+      - {id: 30754, name: "Kvanefjeld (Kuannersuit Plateau), Ilímaussaq complex, Kujalleq, Greenland"}
+      - {id: 2697, name: "Lovozero Massif, Murmansk Oblast, Russia"}
+
+- key: "RM-2007-82-3-216-axinite"
+  journal: "Rocks & Minerals"
+  year: 2007
+  volume: 82
+  number: 3
+  pages: "216-220"
+  title: "Collector's Guide to the Axinite Group"
+  doi: "10.3200/RMIN.82.3.216-221"
+  authors:
+      - {id: 0, name: "Robert J. Lauf"}
+  minerals: [Axinite, Axinite-(Mn), Axinite-(Fe), Axinite-(Mg), Tinzenite]
+
 

@@ -1,0 +1,47 @@
+
+- key: "min-9080497-eudialyte"
+  journal: "Minerals"
+  year: 2019
+  volume: 9
+  number: 8
+  pages: "497"
+  title: "The Tale of Greenlandite: Commemorating the Two-Hundredth Anniversary of Eudialyte (1819–2019)"
+  doi: "10.3390/min9080497"
+  authors:
+      - {id: 0, name: "Axel S.L. Sjöqvist"}
+  minerals: [Eudialyte]
+
+- key: "min-9120752-agrellite"
+  journal: "Minerals"
+  year: 2019
+  volume: 9
+  number: 12
+  pages: "752"
+  title: "Luminescence of Agrellite Specimen from the Kipawa River Locality"
+  doi: "10.3390/min9120752"
+  authors:
+      - {id: 0, name: "Maria Czaja"}
+      - {id: 0, name: "Radosław Lisiecki"}
+  minerals: [Agrellite]
+  localities:
+      - {id: 614, name: "Kipawa alkaline complex, Les Lacs-du-Témiscamingue, Abitibi-Témiscamingue, Québec, Canada" }
+
+- key: "min-11121345-quartz"
+  journal: "Minerals"
+  year: 2021
+  volume: 11
+  number: 12
+  pages: "1345"
+  title: "Unusual Luminescence of Quartz from La Sassa, Tuscany: Insights on the Crystal and Defect Nanostructure of Quartz"
+  doi: "10.3390/min11121345"
+  authors:
+      - {id: 0, name: "Giulia Ricci"}
+      - {id: 0, name: "Andrea Maurizio Monti"}
+      - {id: 0, name: "Renato Pagano"}
+      - {id: 0, name: "Marco Martini"}
+      - {id: 0, name: "Luisa Caneve"}
+      - {id: 0, name: "Gilberto Artioli"}
+  minerals: [Quartz]
+  localities:
+      - {id: 402463, name: "La Sassa carbonate vein, La Sassa, Montecatini Val di Cecina, Pisa Province, Tuscany, Italy" }
+

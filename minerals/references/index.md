@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mineral References
-date: 2021-12-27
+date: 2022-03-12
 priority: 0.6
 banner: fluominerals
 ---
@@ -31,6 +31,10 @@ Currently indexed (or working on...)
 {% assign articles = articles | concat: site.data.minref.uvwaves50 %}
 {% assign articles = articles | concat: site.data.minref.uvwaves51 %}
 {% assign articles = articles | concat: site.data.minref.american_mineralogist %}
+{% assign articles = articles | concat: site.data.minref.bmc86 %}
+{% assign articles = articles | concat: site.data.minref.bmc87 %}
+{% assign articles = articles | concat: site.data.minref.mdpi_minerals %}
+{% assign articles = articles | concat: site.data.minref.books %}
 {% assign articles = articles | concat: site.data.minref.misc %}
 
 Number of articles: {{ articles.size }}
