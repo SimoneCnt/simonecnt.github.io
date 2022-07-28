@@ -15,7 +15,7 @@
   <url>
     <loc>https://3dz2.com/publications/</loc>
     <priority>0.8</priority>
-    <lastmod>2021-02-26</lastmod>
+    <lastmod>2022-07-28</lastmod>
   </url>
   
   
@@ -97,14 +97,28 @@
   
   
   <url>
-    <loc>https://3dz2.com/publications/sprenger2021multiscale/</loc>
+    <loc>https://3dz2.com/publications/conti2022multiscale/</loc>
     <priority>0.6</priority>
     
   </url>
   
   
   <url>
-    <loc>https://3dz2.com/publications/conti2021computational/</loc>
+    <loc>https://3dz2.com/publications/conti2022computational/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/conti2022rapid/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/conti2022ppdx/</loc>
     <priority>0.6</priority>
     
   </url>
