@@ -33,5 +33,7 @@ This project a collaboration between three research groups:
 
 ### References:
 
+ - {% assign ref = "conti2021design" %} {% reference ref %} [See details.](/publications/{{ref}}/)
+ - {% assign ref = "conti2022multiscale" %} {% reference ref %} [See details.](/publications/{{ref}}/)
  - {% assign ref = "conti2019estimation" %} {% reference ref %} [See details.](/publications/{{ref}}/)
 
