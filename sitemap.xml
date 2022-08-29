@@ -104,13 +104,6 @@
   
   
   <url>
-    <loc>https://3dz2.com/publications/conti2022computational/</loc>
-    <priority>0.6</priority>
-    
-  </url>
-  
-  
-  <url>
     <loc>https://3dz2.com/publications/conti2022rapid/</loc>
     <priority>0.6</priority>
     
@@ -119,6 +112,13 @@
   
   <url>
     <loc>https://3dz2.com/publications/conti2022ppdx/</loc>
+    <priority>0.6</priority>
+    
+  </url>
+  
+  
+  <url>
+    <loc>https://3dz2.com/publications/conti2022computational/</loc>
     <priority>0.6</priority>
     
   </url>
