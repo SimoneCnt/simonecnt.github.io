@@ -11,11 +11,11 @@ priority: 0.8
 ---
 
 ## In preparation / Submitted / In press
- - {% assign ref = "conti2022ppdx" %} {% reference ref %}
- - {% assign ref = "conti2022rapid" %} {% reference ref %}
  - {% assign ref = "conti2022computational" %} {% reference ref %}
 
 ## 2022
+ - {% assign ref = "conti2022ppdx" %} {% reference ref %} [See details.]({{ref}}/)
+ - {% assign ref = "conti2022rapid" %} {% reference ref %} [See details.]({{ref}}/)
  - {% assign ref = "conti2022multiscale" %} {% reference ref %} [See details.]({{ref}}/)
 
 ## 2021

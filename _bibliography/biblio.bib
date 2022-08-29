@@ -1,19 +1,33 @@
 
+@article{conti2022computational,
+  title    = {A computational framework for determining the breadth of antibodies against highly mutable pathogens},
+  author   = {Conti, Simone and Karplus, Martin},
+}
+
 @article{conti2022ppdx,
   title    = {ppdx: automated modeling of protein-protein interaction descriptors for use with machine learning},
   author   = {Conti, Simone and Ovchinnikov, Victor and Karplus, Martin},
   journal  = {Journal of Computational Chemistry},
+  volume   = 43,
+  number   = 25,
+  pages    = {1747-1757},
+  year     = 2022,
+  doi      = {10.1002/jcc.26974},
+  abstract = {This paper describes ppdx, a python workflow tool that combines protein sequence alignment, homology modeling, and structural refinement, to compute a broad array of descriptors for characterizing protein–protein interactions. The descriptors can be used to predict various properties of interest, such as protein–protein binding affini- ties, or inhibitory concentrations (IC50), using approaches that range from simple regression to more complex machine learning models. The software is highly modular. It supports different protocols for generating structures, and 95 descriptors can be currently computed. More protocols and descriptors can be easily added. The imple- mentation is highly parallel and can fully exploit the available cores in a single work- station, or multiple nodes on a supercomputer, allowing many systems to be analyzed simultaneously. As an illustrative application, ppdx is used to parametrize a model that predicts the IC50 of a set of antigens and a class of antibodies directed to the influenza hemagglutinin stalk.},
+  researchgate = {https://www.researchgate.net/publication/362528796},
 }
 
 @article{conti2022rapid,
   title    = {On the rapid calculation of binding affinities for antigen and antibody design and affinity maturation simulations},
   author   = {Conti, Simone and Lau, Edmond Y.  and Ovchinnikov, Victor},
-  journal  = {Antibody},
-}
-
-@article{conti2022computational,
-  title    = {A computational framework for determining the breadth of antibodies against highly mutable pathogens},
-  author   = {Conti, Simone and Karplus, Martin},
+  journal  = {Antibodies},
+  volume   = 11,
+  number   = 3,
+  pages    = {1-19},
+  year     = 2022,
+  doi      = {10.3390/antib11030051},
+  abstract = {The accurate and efficient calculation of protein-protein binding affinities is an essential component in antibody and antigen design and optimization, and in computer modeling of antibody affinity maturation. Such calculations remain challenging despite advances in computer hardware and algorithms, primarily because proteins are flexible molecules, and thus, require explicit or implicit incorporation of multiple conformational states into the computational procedure. The astronomical size of the amino acid sequence space further compounds the challenge by requiring predictions to be computed within a short time so that many sequence variants can be tested. In this study, we compare three classes of methods for antibody/antigen (Ab/Ag) binding affinity calculations: (i) a method that relies on the physical separation of the Ab/Ag complex in equilibrium molecular dynamics (MD) simulations, (ii) a collection of 18 scoring functions that act on an ensemble of structures created using homology modeling software, and (iii) methods based on the molecular mechanics-generalized Born surface area (MM-GBSA) energy decomposition, in which the individual contributions of the energy terms are scaled to optimize agreement with the experiment. When applied to a set of 49 antibody mutations in two Ab/HIV gp120 complexes, all of the methods are found to have modest accuracy, with the highest Pearson correlations reaching about 0.6. In particular, the most computationally intensive method, i.e., MD simulation, did not outperform several scoring functions. The optimized energy decomposition methods provided marginally higher accuracy, but at the expense of requiring experimental data for parametrization. Within each method class, we examined the effect of the number of independent computational replicates, i.e., modeled structures or reinitialized MD simulations, on the prediction accuracy. We suggest using about ten modeled structures for scoring methods, and about five simulation replicates for MD simulations as a rule of thumb for obtaining reasonable convergence. We anticipate that our study will be a useful resource for practitioners working to incorporate binding affinity calculations within their protein design and optimization process.},
+  researchgate = {https://www.researchgate.net/publication/362475292},
 }
 
 @article{conti2022multiscale,
